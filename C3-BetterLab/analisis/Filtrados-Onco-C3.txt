@@ -1,0 +1,1711 @@
+Lista	Valor	Valida		Lista 2	Valor	Valida	Raras		Lista 3	Valor	Valida
+Abras orthobunyavirus	LISTA 1			abiotrophia	Lista 2	No esta en lista			amphotropic murine leukemia	lista 3	No esta en lista
+Abutilon golden mosaic virus	LISTA 1			acacia	Lista 2	No esta en lista	planta		abelson murine leukemia	lista 3	No esta en lista
+Abutilon mosaic virus	LISTA 1			acetanaerobacterium	Lista 2	No esta en lista			acinetobacter	lista 3	No esta en lista
+Acalypha yellow mosaic virus	LISTA 1			acetivibrio	Lista 2	No esta en lista			acinetobacter baumannii	lista 3	No esta en lista
+Acara orthobunyavirus	LISTA 1			acetobacter	Lista 2	No esta en lista			adeno-associated	lista 3	No esta en lista
+Acetomicrobium hydrogeniformans	LISTA 1			acetobacter aceti	Lista 2	No esta en lista			adenovirus	lista 3	No esta en lista
+Acetomicrobium mobile	LISTA 1			acetobacter lovaniensis	Lista 2	No esta en lista			aeromonas	lista 3	No esta en lista
+Acetomicrobium thermoterrenum	LISTA 1			acetobacter pomorum	Lista 2	No esta en lista			aeromonas dhakensis	lista 3	No esta en lista
+Achromobacter arsenitoxydans	LISTA 1			acetobacter tropicalis	Lista 2	No esta en lista			aichi	lista 3	No esta en lista
+Achromobacter denitrificans	LISTA 1			acetobacteraceae	Lista 2	No esta en lista			akv murine leukemia	lista 3	No esta en lista
+Achromobacter insuavis	LISTA 1			acholeplasma	Lista 2	No esta en lista			aleutian mink disease	lista 3	No esta en lista
+Achromobacter piechaudii	LISTA 1			acholeplasma laidlawii	Lista 2	No esta en lista			alfalfa	lista 3	No esta en lista
+Achromobacter xylosoxidans	LISTA 1			achromobacter	Lista 2	No esta en lista			alfalfa mosaic	lista 3	No esta en lista
+Acidianus filamentous virus 1	LISTA 1			achromobacter spanius	Lista 2	No esta en lista			allium	lista 3	No esta en lista
+Actinotignum schaalii	LISTA 1			achromobacter xylosoxidans	Lista 2	LISTA 1			alpha satellite	lista 3	No esta en lista
+Actinotignum urinale	LISTA 1			acidaminococcus	Lista 2	No esta en lista			alphaherpesvirinae	lista 3	No esta en lista
+Advenella kashmirensis	LISTA 1			acidimicrobiales	Lista 2	No esta en lista			alphavirus m1	lista 3	No esta en lista
+Advenella mimigardefordensis	LISTA 1			acidithiobacillus	Lista 2	No esta en lista			amapari	lista 3	No esta en lista
+Aerococcus christensenii	LISTA 1			acidithiobacillus ferrooxidans	Lista 2	No esta en lista			amblyomma	lista 3	No esta en lista
+Aerococcus urinae	LISTA 1			acidobacteria	Lista 2	No esta en lista			amphotropic murine leukemia	lista 3	No esta en lista
+Aerococcus urinaeequi	LISTA 1			acidovorax	Lista 2	No esta en lista			anelloviridae	lista 3	No esta en lista
+Aerococcus viridans	LISTA 1			acinetobacter	Lista 2	No esta en lista			angelica	lista 3	No esta en lista
+African cassava mosaic virus	LISTA 1			acinetobacter baumannii	Lista 2	No esta en lista			anopheles a	lista 3	No esta en lista
+Agarivorans albus	LISTA 1			acinetobacter calcoaceticus	Lista 2	No esta en lista			antarctic	lista 3	No esta en lista
+Ageratum enation virus	LISTA 1			acinetobacter haemolyticus	Lista 2	No esta en lista			apis mellifera	lista 3	No esta en lista
+Ageratum leaf curl Cameroon virus	LISTA 1			acinetobacter johnsonii	Lista 2	No esta en lista			apium	lista 3	No esta en lista
+Ageratum leaf curl virus	LISTA 1			acinetobacter junii	Lista 2	No esta en lista			aquabirnavirus	lista 3	No esta en lista
+Ageratum yellow vein China virus	LISTA 1			acinetobacter lwoffii	Lista 2	No esta en lista			arachis	lista 3	No esta en lista
+Ageratum yellow vein Hualian virus	LISTA 1			acinetobacter nosocomialis	Lista 2	No esta en lista			archaeal	lista 3	No esta en lista
+Ageratum yellow vein Taiwan virus	LISTA 1			acinetobacter radioresistens	Lista 2	No esta en lista			arenavirus	lista 3	No esta en lista
+Ageratum yellow vein virus	LISTA 1			acinetobacter ursingii	Lista 2	No esta en lista			aroa	lista 3	No esta en lista
+Aggregatibacter actinomycetemcomitans	LISTA 1			actinoalloteichus	Lista 2	No esta en lista			artemisia	lista 3	No esta en lista
+Aggregatibacter aphrophilus	LISTA 1			actinoalloteichus cyanogriseus	Lista 2	No esta en lista			asparagus	lista 3	No esta en lista
+Aggregatibacter segnis	LISTA 1			actinobacillus	Lista 2	No esta en lista			astrovirus	lista 3	No esta en lista
+Aggregatibacter sp. oral taxon 458	LISTA 1			actinobacillus actinomycetemcomitans	Lista 2	No esta en lista			atlantic salmon swim bladder sarcoma	lista 3	No esta en lista
+Agrobacterium albertimagni	LISTA 1			actinobacteria	Lista 2	No esta en lista			autographa californica multiple nucleopolyhedrovirus	lista 3	No esta en lista
+Agrobacterium deltaense	LISTA 1			actinomadura	Lista 2	No esta en lista			autographa californica nuclear polyhedrosis	lista 3	No esta en lista
+Agrobacterium fabacearum	LISTA 1			actinomadura madurae	Lista 2	No esta en lista			avian adenovirus	lista 3	No esta en lista
+Agrobacterium fabrum	LISTA 1			actinomadura verrucosospora	Lista 2	No esta en lista			avian adenovirus celo	lista 3	No esta en lista
+Agrobacterium genomosp. 13	LISTA 1			actinomyces	Lista 2	No esta en lista			avian bornavirus	lista 3	No esta en lista
+Agrobacterium genomosp. 2	LISTA 1			actinomyces israelii	Lista 2	No esta en lista			avian carcinoma	lista 3	No esta en lista
+Agrobacterium genomosp. 3	LISTA 1			actinomyces naeslundii	Lista 2	No esta en lista			avian endogenous	lista 3	No esta en lista
+Agrobacterium genomosp. 5	LISTA 1			actinomyces pyogenes	Lista 2	No esta en lista			avian erythroblastosis	lista 3	No esta en lista
+Agrobacterium larrymoorei	LISTA 1			actinomyces viscosus	Lista 2	No esta en lista			avian leukemia	lista 3	No esta en lista
+Agrobacterium rhizogenes	LISTA 1			actinomycetaceae	Lista 2	No esta en lista			avian leukosis	lista 3	No esta en lista
+Agrobacterium rubi	LISTA 1			actinomycetales	Lista 2	No esta en lista			avian metapneumovirus	lista 3	No esta en lista
+Agrobacterium salinitolerans	LISTA 1			actinoplanes	Lista 2	No esta en lista			avian myeloblastosis	lista 3	No esta en lista
+Agrobacterium tumefaciens	LISTA 1			adlercreutzia	Lista 2	No esta en lista			avian myeloblastosis-associated	lista 3	No esta en lista
+Agrobacterium viscosum	LISTA 1			adlercreutzia equolifaciens	Lista 2	No esta en lista			avian myelocytomatosis	lista 3	No esta en lista
+Agrobacterium vitis	LISTA 1			aerococcaceae	Lista 2	No esta en lista			avian polyomavirus	lista 3	No esta en lista
+Agrococcus casei	LISTA 1			aerococcus	Lista 2	No esta en lista			avian reovirus	lista 3	No esta en lista
+Agrococcus lahaulensis	LISTA 1			aerococcus urinae	Lista 2	LISTA 1			avian retrovirus	lista 3	No esta en lista
+Agrococcus pavilionensis	LISTA 1			aerococcus viridans	Lista 2	LISTA 1			avian sarcoma	lista 3	No esta en lista
+Agromyces cerinus	LISTA 1			aeromonadaceae	Lista 2	No esta en lista			avipoxvirus	lista 3	No esta en lista
+Agromyces italicus	LISTA 1			aeromonas	Lista 2	No esta en lista			b component	lista 3	No esta en lista
+Agromyces mediolanus	LISTA 1			aeromonas caviae	Lista 2	No esta en lista			b19	lista 3	No esta en lista
+Agromyces subbeticus	LISTA 1			aeromonas dhakensis	Lista 2	No esta en lista			baboon reovirus	lista 3	No esta en lista
+Agromyces ulmi	LISTA 1			aeromonas hydrophila	Lista 2	No esta en lista			bacilladnavirus	lista 3	No esta en lista
+Aino orthobunyavirus	LISTA 1			aeromonas sobria	Lista 2	No esta en lista			bacillus anthracis	lista 3	LISTA 1
+Akabane orthobunyavirus	LISTA 1			aeromonas veronii	Lista 2	No esta en lista			bacillus subtilis	lista 3	LISTA 1
+Akkermansia muciniphila	LISTA 1			aggregatibacter	Lista 2	No esta en lista			bacteriophage	lista 3	No esta en lista
+Alajuela orthobunyavirus	LISTA 1			aggregatibacter actinomycetemcomitans	Lista 2	LISTA 1			bacteriophage lambda	lista 3	No esta en lista
+Alcaligenes faecalis	LISTA 1			aggregatibacter segnis	Lista 2	LISTA 1			bacteriophage p1	lista 3	No esta en lista
+Algicola sagamiensis	LISTA 1			agrobacterium	Lista 2	No esta en lista			bacteriophage p2	lista 3	No esta en lista
+Algiphilus aromaticivorans	LISTA 1			agrobacterium tumefaciens	Lista 2	LISTA 1			bacteriophage phix174	lista 3	No esta en lista
+Algoriphagus boritolerans	LISTA 1			agrobacterium vitis	Lista 2	LISTA 1			baculoviridae	lista 3	No esta en lista
+Algoriphagus mannitolivorans	LISTA 1			agrococcus	Lista 2	No esta en lista			baker	lista 3	No esta en lista
+Algoriphagus marincola	LISTA 1			akkermansia	Lista 2	No esta en lista			bandicoot papillomatosis carcinomatosis	lista 3	No esta en lista
+Algoriphagus terrigena	LISTA 1			akkermansia muciniphila	Lista 2	LISTA 1			bartonella	lista 3	No esta en lista
+Algoriphagus vanfongensis	LISTA 1			akkermansiaceae	Lista 2	No esta en lista			bartonella quintana	lista 3	No esta en lista
+Aliagarivorans marinus	LISTA 1			albizia	Lista 2	No esta en lista	planta		beauveria bassiana	lista 3	No esta en lista
+Aliagarivorans taiwanensis	LISTA 1			albizia lebbeck	Lista 2	No esta en lista	planta		becurtovirus	lista 3	No esta en lista
+Aliiglaciecola lipolytica	LISTA 1			alcaligenaceae	Lista 2	No esta en lista			betacoronavirus	lista 3	No esta en lista
+Alkanindiges illinoisensis	LISTA 1			alcaligenes	Lista 2	No esta en lista			bivalve	lista 3	No esta en lista
+Alphaglobulovirus PSV	LISTA 1			alcaligenes faecalis	Lista 2	LISTA 1			bk	lista 3	No esta en lista
+Alphaglobulovirus PSV2	LISTA 1			alcanivorax	Lista 2	No esta en lista			bk polyomavirus	lista 3	No esta en lista
+Alphaglobulovirus TSPV1	LISTA 1			alicyclobacillus	Lista 2	No esta en lista			black syrian hamster retrovirus	lista 3	No esta en lista
+Alphaglobulovirus TTSV1	LISTA 1			alistipes	Lista 2	No esta en lista			bluetongue	lista 3	No esta en lista
+Aminiphilus circumscriptus	LISTA 1			alistipes communis	Lista 2	No esta en lista			bohle iridovirus	lista 3	No esta en lista
+Aminomonas paucivorans	LISTA 1			alistipes finegoldii	Lista 2	No esta en lista			bordetella	lista 3	No esta en lista
+Anadyr orthobunyavirus	LISTA 1			alistipes indistinctus	Lista 2	No esta en lista			borna disease	lista 3	No esta en lista
+Anaerophaga thermohalophila	LISTA 1			alistipes onderdonkii	Lista 2	No esta en lista			bornavirus	lista 3	No esta en lista
+Ananindeua orthobunyavirus	LISTA 1			alistipes putredinis	Lista 2	No esta en lista			bos taurus papillomavirus	lista 3	No esta en lista
+Anhembi orthobunyavirus	LISTA 1			alistipes senegalensis	Lista 2	No esta en lista			botrytis	lista 3	No esta en lista
+Anopheles A orthobunyavirus	LISTA 1			alistipes shahii	Lista 2	No esta en lista			botrytis cinerea	lista 3	No esta en lista
+Anopheles B orthobunyavirus	LISTA 1			alkaliphilus	Lista 2	No esta en lista			bovine adenovirus	lista 3	No esta en lista
+Apeu orthobunyavirus	LISTA 1			allobaculum	Lista 2	No esta en lista			bovine coronavirus	lista 3	No esta en lista
+Archaeoglobus fulgidus	LISTA 1			alloprevotella	Lista 2	No esta en lista			bovine enteric	lista 3	No esta en lista
+Archaeoglobus infectus	LISTA 1			alloprevotella tannerae	Lista 2	No esta en lista			bovine enterovirus	lista 3	No esta en lista
+Archaeoglobus profundus	LISTA 1			alloscardovia	Lista 2	No esta en lista			bovine herpesvirus	lista 3	No esta en lista
+Archaeoglobus sulfaticallidus	LISTA 1			almond	Lista 2	No esta en lista			bovine herpesvirus 1	lista 3	No esta en lista
+Archaeoglobus veneficus	LISTA 1			alpha	Lista 2	No esta en lista	Letra 		bovine herpesvirus 4	lista 3	No esta en lista
+Archangium violaceum	LISTA 1			alphaproteobacteria	Lista 2	No esta en lista			bovine herpesvirus-1	lista 3	No esta en lista
+Arcobacter nitrofigilis	LISTA 1			amaranthus	Lista 2	No esta en lista	planta		bovine herpesvirus-4	lista 3	No esta en lista
+Arcobacter suis	LISTA 1			amycolatopsis	Lista 2	No esta en lista			bovine immunodeficiency	lista 3	No esta en lista
+Arsenicicoccus bolidensis	LISTA 1			amycolatopsis orientalis	Lista 2	No esta en lista			bovine leukemia	lista 3	No esta en lista
+Atopobium fossor	LISTA 1			anabaena	Lista 2	No esta en lista			bovine papillomavirus	lista 3	No esta en lista
+Atopobium minutum	LISTA 1			anabaena variabilis	Lista 2	No esta en lista			bovine papillomavirus e5	lista 3	No esta en lista
+Atopobium sp. oral taxon 199	LISTA 1			anaerobiospirillum	Lista 2	No esta en lista			bovine parvovirus	lista 3	No esta en lista
+Atopobium sp. oral taxon 810	LISTA 1			anaerococcus	Lista 2	No esta en lista			bovine polyomavirus	lista 3	No esta en lista
+Avian coronavirus	LISTA 1			anaerofustis	Lista 2	No esta en lista			bovine respiratory syncytial	lista 3	No esta en lista
+Azohydromonas australica	LISTA 1			anaerolineae	Lista 2	No esta en lista			bovine rotavirus	lista 3	No esta en lista
+Azohydromonas lata	LISTA 1			anaerosphaera	Lista 2	No esta en lista			brassica napus	lista 3	No esta en lista
+Baboon endogenous virus	LISTA 1			anaerostipes	Lista 2	No esta en lista			brome mosaic	lista 3	No esta en lista
+Bacillus aidingensis	LISTA 1			anaerotruncus	Lista 2	No esta en lista			broome	lista 3	No esta en lista
+Bacillus altitudinis	LISTA 1			anaplasma	Lista 2	No esta en lista			bruce	lista 3	No esta en lista
+Bacillus amyloliquefaciens	LISTA 1			anaplasma phagocytophilum	Lista 2	No esta en lista			budgerigar fledgling disease	lista 3	No esta en lista
+Bacillus anthracis	LISTA 1			anoxybacillus	Lista 2	No esta en lista			bunyamwera	lista 3	No esta en lista
+Bacillus atrophaeus	LISTA 1			aquabacterium	Lista 2	No esta en lista			bunyavirales	lista 3	No esta en lista
+Bacillus atticus	LISTA 1			arachis	Lista 2	No esta en lista			burkholderia	lista 3	No esta en lista
+Bacillus badius	LISTA 1			arachis hypogaea	Lista 2	No esta en lista			burkholderia pseudomallei	lista 3	No esta en lista
+Bacillus bombysepticus	LISTA 1			arachnia	Lista 2	No esta en lista			butyrivibrio	lista 3	No esta en lista
+Bacillus cereus	LISTA 1			arachnia propionica	Lista 2	No esta en lista			cache valley	lista 3	No esta en lista
+Bacillus coahuilensis	LISTA 1			arcanobacterium	Lista 2	No esta en lista			cactus	lista 3	No esta en lista
+Bacillus cytotoxicus	LISTA 1			arcanobacterium haemolyticum	Lista 2	No esta en lista			caliciviridae	lista 3	No esta en lista
+Bacillus grandii	LISTA 1			archangium	Lista 2	No esta en lista			calicivirus	lista 3	No esta en lista
+Bacillus inaquosorum	LISTA 1			archangium gephyra	Lista 2	No esta en lista			camelpox	lista 3	No esta en lista
+Bacillus infantis	LISTA 1			arcobacter	Lista 2	No esta en lista			camelus dromedarius papillomavirus	lista 3	No esta en lista
+Bacillus licheniformis	LISTA 1			argyranthemum	Lista 2	No esta en lista			campylobacter	lista 3	No esta en lista
+Bacillus massilioanorexius	LISTA 1			armatimonadetes	Lista 2	No esta en lista			candidatus	lista 3	No esta en lista
+Bacillus methanolicus	LISTA 1			arsenophonus	Lista 2	No esta en lista			canine adenovirus	lista 3	No esta en lista
+Bacillus mojavensis	LISTA 1			artemisia	Lista 2	No esta en lista			canine coronavirus	lista 3	No esta en lista
+Bacillus mycoides	LISTA 1			arthrobacter	Lista 2	No esta en lista			canine distemper	lista 3	No esta en lista
+Bacillus paralicheniformis	LISTA 1			arthrospira	Lista 2	No esta en lista			canine herpesvirus	lista 3	No esta en lista
+Bacillus pseudomycoides	LISTA 1			arthrospira platensis	Lista 2	No esta en lista			canine kobuvirus	lista 3	No esta en lista
+Bacillus pumilus	LISTA 1			asaccharobacter	Lista 2	No esta en lista			canine oral papillomavirus	lista 3	No esta en lista
+Bacillus rossius	LISTA 1			asaia	Lista 2	No esta en lista			canine papillomavirus	lista 3	No esta en lista
+Bacillus safensis	LISTA 1			atopobium	Lista 2	No esta en lista			canine parainfluenza	lista 3	No esta en lista
+Bacillus siamensis	LISTA 1			atopobium parvulum	Lista 2	No esta en lista			canine parvovirus	lista 3	No esta en lista
+Bacillus smithii	LISTA 1			atopobium rimae	Lista 2	No esta en lista			caprine arthritis encephalitis	lista 3	No esta en lista
+Bacillus sonorensis	LISTA 1			aurantimonas	Lista 2	No esta en lista			cas	lista 3	No esta en lista
+Bacillus spizizenii	LISTA 1			aureimonas	Lista 2	No esta en lista			catarina	lista 3	No esta en lista
+Bacillus stratosphericus	LISTA 1			aureimonas altamirensis	Lista 2	No esta en lista			caudovirales	lista 3	No esta en lista
+Bacillus subtilis	LISTA 1			azadirachta	Lista 2	No esta en lista	planta		chelonid alphaherpesvirus 5	lista 3	No esta en lista
+Bacillus tequilensis	LISTA 1			azadirachta indica	Lista 2	No esta en lista	planta		chelonid herpesvirus 5	lista 3	No esta en lista
+Bacillus thuringiensis	LISTA 1			azotobacter	Lista 2	No esta en lista			chicken	lista 3	No esta en lista
+Bacillus toyonensis	LISTA 1			azotobacter chroococcum	Lista 2	No esta en lista			chicken anemia	lista 3	No esta en lista
+Bacillus vallismortis	LISTA 1			azotobacter vinelandii	Lista 2	No esta en lista			chikungunya	lista 3	No esta en lista
+Bacillus velezensis	LISTA 1			bacillaceae	Lista 2	No esta en lista			chinook aquareovirus	lista 3	No esta en lista
+Bacillus wiedmannii	LISTA 1			bacilli	Lista 2	No esta en lista			chlorella	lista 3	No esta en lista
+Bacteroides acidifaciens	LISTA 1			bacillus	Lista 2	No esta en lista			christensen	lista 3	No esta en lista
+Bacteroides caccae	LISTA 1			bacillus amyloliquefaciens	Lista 2	LISTA 1			circoviridae	lista 3	No esta en lista
+Bacteroides cellulosilyticus	LISTA 1			bacillus anthracis	Lista 2	LISTA 1			circovirus	lista 3	No esta en lista
+Bacteroides clarus	LISTA 1			bacillus cereus	Lista 2	LISTA 1			citrobacter	lista 3	No esta en lista
+Bacteroides coprosuis	LISTA 1			bacillus circulans	Lista 2	No esta en lista			citrus	lista 3	No esta en lista
+Bacteroides eggerthii	LISTA 1			bacillus coagulans	Lista 2	No esta en lista			cladosporium cladosporioides	lista 3	No esta en lista
+Bacteroides faecichinchillae	LISTA 1			bacillus flexus	Lista 2	No esta en lista			clostridioides difficile	lista 3	No esta en lista
+Bacteroides faecis	LISTA 1			bacillus glycinifermentans	Lista 2	No esta en lista			coat	lista 3	No esta en lista
+Bacteroides finegoldii	LISTA 1			bacillus indicus	Lista 2	No esta en lista			cocal	lista 3	No esta en lista
+Bacteroides fluxus	LISTA 1			bacillus licheniformis	Lista 2	LISTA 1			coliphage	lista 3	No esta en lista
+Bacteroides fragilis	LISTA 1			bacillus magaterium	Lista 2	No esta en lista			colobine gammaherpesvirus 1	lista 3	No esta en lista
+Bacteroides galacturonicus	LISTA 1			bacillus megaterium	Lista 2	No esta en lista			connecticut	lista 3	No esta en lista
+Bacteroides gallinarum	LISTA 1			bacillus pumilus	Lista 2	LISTA 1			cope	lista 3	No esta en lista
+Bacteroides graminisolvens	LISTA 1			bacillus safensis	Lista 2	LISTA 1			cordoba	lista 3	No esta en lista
+Bacteroides helcogenes	LISTA 1			bacillus stearothermophilus	Lista 2	No esta en lista			coronaviridae	lista 3	No esta en lista
+Bacteroides heparinolyticus	LISTA 1			bacillus subtilis	Lista 2	LISTA 1			coronavirus	lista 3	No esta en lista
+Bacteroides intestinalis	LISTA 1			bacillus tequilensis	Lista 2	LISTA 1			cottontail rabbit papillomavirus	lista 3	No esta en lista
+Bacteroides nordii	LISTA 1			bacillus thuringiensis	Lista 2	LISTA 1			cowpea chlorotic mottle	lista 3	No esta en lista
+Bacteroides oleiciplenus	LISTA 1			bacillus toyonensis	Lista 2	LISTA 1			cowpea mosaic	lista 3	No esta en lista
+Bacteroides ovatus	LISTA 1			bacillus vallismortis	Lista 2	LISTA 1			cowpox	lista 3	No esta en lista
+Bacteroides propionicifaciens	LISTA 1			bacteriodetes	Lista 2	No esta en lista			coxsackievirus	lista 3	No esta en lista
+Bacteroides pyogenes	LISTA 1			bacterium host	Lista 2	No esta en lista			coxsackievirus a21	lista 3	No esta en lista
+Bacteroides reticulotermitis	LISTA 1			bacteroidaceae	Lista 2	No esta en lista			coxsackievirus b1	lista 3	No esta en lista
+Bacteroides rodentium	LISTA 1			bacteroidales	Lista 2	No esta en lista			coxsackievirus b2	lista 3	No esta en lista
+Bacteroides salyersiae	LISTA 1			bacteroides	Lista 2	No esta en lista			coxsackievirus b3	lista 3	No esta en lista
+Bacteroides sp	LISTA 1			bacteroides acidifaciens	Lista 2	LISTA 1			crassphage	lista 3	No esta en lista
+Bacteroides stercorirosoris	LISTA 1			bacteroides caccae	Lista 2	LISTA 1			crimean-congo hemorrhagic fever	lista 3	No esta en lista
+Bacteroides stercoris	LISTA 1			bacteroides dorei	Lista 2	No esta en lista			cryptosporidium parvum	lista 3	No esta en lista
+Bacteroides thetaiotaomicron	LISTA 1			bacteroides eggerthii	Lista 2	LISTA 1			currant	lista 3	No esta en lista
+Bacteroides timonensis	LISTA 1			bacteroides fragilis	Lista 2	LISTA 1			curvularia	lista 3	No esta en lista
+Bacteroides uniformis	LISTA 1			bacteroides intestinalis	Lista 2	LISTA 1			cushing	lista 3	No esta en lista
+Bacteroides xylanisolvens	LISTA 1			bacteroides ovatus	Lista 2	LISTA 1			cutavirus	lista 3	No esta en lista
+Bakau orthobunyavirus	LISTA 1			bacteroides plebeius	Lista 2	No esta en lista			cytomegalovirus	lista 3	No esta en lista
+Bat gammaretrovirus	LISTA 1			bacteroides pyogenes	Lista 2	LISTA 1			damselfish virus-like agent	lista 3	No esta en lista
+Batai orthobunyavirus	LISTA 1			bacteroides stercoris	Lista 2	LISTA 1			davis	lista 3	No esta en lista
+Batama orthobunyavirus	LISTA 1			bacteroides thetaiotaomicron	Lista 2	LISTA 1			debaryomyces hansenii	lista 3	No esta en lista
+Bean golden mosaic virus	LISTA 1			bacteroides uniformis	Lista 2	LISTA 1			deer tick	lista 3	No esta en lista
+Bean golden yellow mosaic virus	LISTA 1			bacteroides vulgatus	Lista 2	No esta en lista			defective interfering	lista 3	No esta en lista
+Beggiatoa alba	LISTA 1			bacteroides xylanisolvens	Lista 2	LISTA 1			deltapapillomavirus	lista 3	No esta en lista
+Begomovirus sp. CR-2004	LISTA 1			bacteroidetes	Lista 2	No esta en lista			dengue	lista 3	No esta en lista
+Bellavista orthobunyavirus	LISTA 1			bacteroidia	Lista 2	No esta en lista			domestic cat hepadnavirus	lista 3	No esta en lista
+Beluga whale coronavirus SW1	LISTA 1			balneola	Lista 2	No esta en lista			douglas	lista 3	No esta en lista
+Benevides orthobunyavirus	LISTA 1			barnesiella	Lista 2	No esta en lista			drake	lista 3	No esta en lista
+Bergeyella zoohelcum	LISTA 1			barnesiella intestinihominis	Lista 2	No esta en lista			drosophila	lista 3	No esta en lista
+Bertioga orthobunyavirus	LISTA 1			bartonella	Lista 2	No esta en lista			drosophila a	lista 3	No esta en lista
+Beutenbergia cavernae	LISTA 1			bartonella bacilliformis	Lista 2	No esta en lista			drosophila c	lista 3	No esta en lista
+Bhargavaea cecembensis	LISTA 1			bartonella elizabethae	Lista 2	No esta en lista			dsrna	lista 3	No esta en lista
+Bhendi yellow vein Delhi virus	LISTA 1			bartonella henselae	Lista 2	No esta en lista			duck hepatitis	lista 3	No esta en lista
+Bhendi yellow vein Haryana virus	LISTA 1			bartonella quintana	Lista 2	No esta en lista			duck hepatitis b	lista 3	No esta en lista
+Bhendi yellow vein India virus	LISTA 1			bartonella vinsonii	Lista 2	No esta en lista			duck papillomavirus	lista 3	No esta en lista
+Bhendi yellow vein mosaic Maharashtra virus	LISTA 1			bergeyella	Lista 2	No esta en lista			durham	lista 3	No esta en lista
+Bhendi yellow vein mosaic virus	LISTA 1			betaproteobacteria	Lista 2	No esta en lista			duvenhage	lista 3	No esta en lista
+Bimiti orthobunyavirus	LISTA 1			bidens	Lista 2	No esta en lista	planta		e2	lista 3	No esta en lista
+Birao orthobunyavirus	LISTA 1			bifidobacterium	Lista 2	No esta en lista			eastern equine encephalitis	lista 3	No esta en lista
+Bitter gourd yellow vein virus	LISTA 1			bifidobacterium adolescentis	Lista 2	No esta en lista			eastern equine encephalomyelitis	lista 3	No esta en lista
+Blochmannia endosymbiont of Camponotus atriceps	LISTA 1			bifidobacterium angulatum	Lista 2	No esta en lista			ebola	lista 3	No esta en lista
+Blochmannia endosymbiont of Camponotus crassus	LISTA 1			bifidobacterium animalis	Lista 2	No esta en lista			echovirus	lista 3	No esta en lista
+Blochmannia endosymbiont of Camponotus renggeri	LISTA 1			bifidobacterium bifidum	Lista 2	No esta en lista			echovirus 1	lista 3	No esta en lista
+Blochmannia endosymbiont of Camponotus sp.	LISTA 1			bifidobacterium breve	Lista 2	No esta en lista			echovirus 11	lista 3	No esta en lista
+Blochmannia endosymbiont of Opisthopsis haddoni	LISTA 1			bifidobacterium dentium	Lista 2	No esta en lista			echovirus 12	lista 3	No esta en lista
+Blochmannia endosymbiont of Polyrhachis (Hagiomyrma) sp.	LISTA 1			bifidobacterium longum	Lista 2	No esta en lista			echovirus 30	lista 3	No esta en lista
+Bordetella avium	LISTA 1			bifidobacterium pseudolongum	Lista 2	No esta en lista			echovirus 5	lista 3	No esta en lista
+Bordetella bronchiseptica	LISTA 1			bilophila	Lista 2	No esta en lista			ecotropic murine leukemia	lista 3	No esta en lista
+Bordetella hinzii	LISTA 1			bilophila wadsworthia	Lista 2	No esta en lista			ectromelia	lista 3	No esta en lista
+Bordetella holmesii	LISTA 1			bitter	Lista 2	No esta en lista	planta		edwardsiella	lista 3	No esta en lista
+Bordetella parapertussis	LISTA 1			bitter gourd	Lista 2	No esta en lista	planta		encephalomyocarditis	lista 3	No esta en lista
+Bordetella pertussis	LISTA 1			blastomonas	Lista 2	No esta en lista			endogenous mouse mammary tumor	lista 3	No esta en lista
+Bordetella petrii	LISTA 1			blautia	Lista 2	No esta en lista			endogenous retrovirus	lista 3	No esta en lista
+Bordetella trematum	LISTA 1			blautia obeum	Lista 2	No esta en lista			enterococcus	lista 3	No esta en lista
+Bozo orthobunyavirus	LISTA 1			blautia producta	Lista 2	No esta en lista			enterovirus	lista 3	No esta en lista
+Brackiella oedipodis	LISTA 1			bordetella	Lista 2	No esta en lista			enterovirus 71	lista 3	No esta en lista
+Brazoran orthobunyavirus	LISTA 1			bordetella bronchiseptica	Lista 2	LISTA 1			enterovirus a	lista 3	No esta en lista
+Bruconha orthobunyavirus	LISTA 1			bordetella hinzii	Lista 2	LISTA 1			enterovirus a71	lista 3	No esta en lista
+Buffalo Creek orthobunyavirus	LISTA 1			bordetella pertussis	Lista 2	LISTA 1			enterovirus b	lista 3	No esta en lista
+Bunyamwera orthobunyavirus	LISTA 1			bordetella trematum	Lista 2	LISTA 1			enterovirus d68	lista 3	No esta en lista
+Bushbush orthobunyavirus	LISTA 1			borrelia	Lista 2	No esta en lista			envelope	lista 3	No esta en lista
+Buttonwillow orthobunyavirus	LISTA 1			borrelia burgdorferi	Lista 2	No esta en lista			enzootic nasal tumour	lista 3	No esta en lista
+Bwamba orthobunyavirus	LISTA 1			borrelia miyamotoi	Lista 2	No esta en lista			epstein barr	lista 3	No esta en lista
+Cache Valley orthobunyavirus	LISTA 1			bosea	Lista 2	No esta en lista			epstein-barr	lista 3	No esta en lista
+Cachoeira Porteira orthobunyavirus	LISTA 1			brachyspira	Lista 2	No esta en lista			equine arteritis	lista 3	No esta en lista
+Caldivirga maquilingensis	LISTA 1			bradyrhizobium	Lista 2	No esta en lista			equine herpesvirus	lista 3	No esta en lista
+California encephalitis orthobunyavirus	LISTA 1			bradyrhizobium japonicum	Lista 2	No esta en lista			equine papillomavirus	lista 3	No esta en lista
+Campylobacter avium	LISTA 1			brassica	Lista 2	No esta en lista			equus caballus papillomavirus	lista 3	No esta en lista
+Campylobacter coli	LISTA 1			brassica napus	Lista 2	No esta en lista	planta		equus caballus papillomavirus 2	lista 3	No esta en lista
+Campylobacter concisus	LISTA 1			brassica rapa	Lista 2	No esta en lista	planta		erinaceus	lista 3	No esta en lista
+Campylobacter cuniculorum	LISTA 1			brevibacillus	Lista 2	No esta en lista			erythrovirus b19	lista 3	No esta en lista
+Campylobacter curvus	LISTA 1			brevibacillus brevis	Lista 2	No esta en lista			escherichia	lista 3	No esta en lista
+Campylobacter fetus	LISTA 1			brevibacillus choshinensis	Lista 2	No esta en lista			escherichia coli	lista 3	LISTA 1
+Campylobacter gracilis	LISTA 1			brevibacterium	Lista 2	No esta en lista			exogenous jaagsiekte sheep retrovirus	lista 3	No esta en lista
+Campylobacter helveticus	LISTA 1			brevibacterium casei	Lista 2	No esta en lista			exogenous mouse mammary tumor	lista 3	No esta en lista
+Campylobacter hominis	LISTA 1			brevundimonas	Lista 2	No esta en lista			fall chinook aquareovirus	lista 3	No esta en lista
+Campylobacter hyointestinalis	LISTA 1			brochothrix	Lista 2	No esta en lista			fbr murine osteosarcoma	lista 3	No esta en lista
+Campylobacter insulaenigrae	LISTA 1			brucella	Lista 2	No esta en lista			feline calicivirus	lista 3	No esta en lista
+Campylobacter jejuni	LISTA 1			brucella abortus	Lista 2	No esta en lista			feline coronavirus	lista 3	No esta en lista
+Campylobacter lanienae	LISTA 1			brucella canis	Lista 2	No esta en lista			feline foamy	lista 3	No esta en lista
+Campylobacter lari	LISTA 1			brucella melitensis	Lista 2	No esta en lista			feline immunodeficiency	lista 3	No esta en lista
+Campylobacter mucosalis	LISTA 1			brucella ovis	Lista 2	No esta en lista			feline infectious peritonitis	lista 3	No esta en lista
+Campylobacter peloridis	LISTA 1			brucella suis	Lista 2	No esta en lista			feline leukemia	lista 3	No esta en lista
+Campylobacter pinnipediorum	LISTA 1			bulleidia	Lista 2	No esta en lista			feline panleukopenia	lista 3	No esta en lista
+Campylobacter rectus	LISTA 1			burkholderia	Lista 2	No esta en lista			feline papillomavirus	lista 3	No esta en lista
+Campylobacter showae	LISTA 1			burkholderia cenocepacia	Lista 2	No esta en lista			feline sarcoma	lista 3	No esta en lista
+Campylobacter sputorum	LISTA 1			burkholderia cepacia	Lista 2	No esta en lista			felis catus gammaherpesvirus 1	lista 3	No esta en lista
+Campylobacter subantarcticus	LISTA 1			burkholderia contaminans	Lista 2	No esta en lista			felis catus papillomavirus	lista 3	No esta en lista
+Campylobacter upsaliensis	LISTA 1			burkholderia gladioli	Lista 2	No esta en lista			felis catus papillomavirus 3	lista 3	No esta en lista
+Campylobacter ureolyticus	LISTA 1			burkholderia mallei	Lista 2	No esta en lista			felis catus papillomavirus 6	lista 3	No esta en lista
+Campylobacter volucris	LISTA 1			burkholderia pseudomallei	Lista 2	No esta en lista			felis catus papillomavirus-3	lista 3	No esta en lista
+Candidatus Accumulibacter phosphatis	LISTA 1			burkholderiaceae	Lista 2	No esta en lista			felis domesticus papillomavirus	lista 3	No esta en lista
+Candidatus Arthromitus sp. SFB-mouse	LISTA 1			burkholderiales	Lista 2	No esta en lista			fibropapilloma-associated turtle herpesvirus	lista 3	No esta en lista
+Candidatus Atelocyanobacterium thalassa	LISTA 1			butyricicoccus	Lista 2	No esta en lista			filoviridae	lista 3	No esta en lista
+Candidatus Azobacteroides pseudotrichonymphae	LISTA 1			butyricimonas	Lista 2	No esta en lista			fish lymphocystis disease	lista 3	No esta en lista
+Candidatus Blochmannia chromaiodes	LISTA 1			butyrivibrio	Lista 2	No esta en lista			flanders	lista 3	No esta en lista
+Candidatus Blochmannia clarithorax	LISTA 1			butyrivibrio fibrisolvens	Lista 2	No esta en lista			flaviviridae	lista 3	No esta en lista
+Candidatus Blochmannia pennsylvanicus	LISTA 1			cajanus	Lista 2	No esta en lista			flavivirus	lista 3	No esta en lista
+Candidatus Blochmannia rufipes	LISTA 1			cajanus cajan	Lista 2	No esta en lista			flavobacterium	lista 3	No esta en lista
+Candidatus Blochmannia vafer	LISTA 1			caldithrix	Lista 2	No esta en lista			foot and mouth disease	lista 3	No esta en lista
+Candidatus Brocadia sinica	LISTA 1			caldora	Lista 2	No esta en lista			foot-and-mouth disease	lista 3	No esta en lista
+Candidatus Cloacimonas acidaminovorans	LISTA 1			calendula	Lista 2	No esta en lista	planta		fowl adenovirus	lista 3	No esta en lista
+Candidatus Cytophaga massiliensis	LISTA 1			calendula officinalis	Lista 2	No esta en lista	planta		fowlpox	lista 3	No esta en lista
+Candidatus Desulforudis audaxviator	LISTA 1			campylobacter	Lista 2	No esta en lista			friend mink cell focus-forming	lista 3	No esta en lista
+Candidatus Endolissoclinum faulkneri	LISTA 1			campylobacter armoricus	Lista 2	No esta en lista			friend mink cell focus-inducing	lista 3	No esta en lista
+Candidatus Glomeribacter gigasporarum	LISTA 1			campylobacter coli	Lista 2	LISTA 1			friend murine leukemia	lista 3	No esta en lista
+Candidatus Ishikawaella capsulata	LISTA 1			campylobacter concisus	Lista 2	LISTA 1			friend spleen focus-forming	lista 3	No esta en lista
+Candidatus Korarchaeum cryptofilum	LISTA 1			campylobacter fetus	Lista 2	LISTA 1			fujinami sarcoma	lista 3	No esta en lista
+Candidatus Koribacter versatilis	LISTA 1			campylobacter jejuni	Lista 2	LISTA 1			fukuoka	lista 3	No esta en lista
+Candidatus Mastigocoleus perforans	LISTA 1			campylobacter lari	Lista 2	LISTA 1			fusarium culmorum	lista 3	No esta en lista
+Candidatus Methanomethylophilus alvus	LISTA 1			campylobacter ornithocola	Lista 2	No esta en lista			g2	lista 3	No esta en lista
+Candidatus Moranella endobia	LISTA 1			campylobacter rectus	Lista 2	LISTA 1			gag	lista 3	No esta en lista
+Candidatus Nasuia deltocephalinicola	LISTA 1			campylobacter showae	Lista 2	LISTA 1			gammaherpesvirinae	lista 3	No esta en lista
+Candidatus Neoehrlichia lotoris	LISTA 1			campylobacter sputorum	Lista 2	LISTA 1			gammapapillomavirus	lista 3	No esta en lista
+Candidatus Odyssella thessalonicensis	LISTA 1			campylobacter ureolyticus	Lista 2	LISTA 1			gammaproteobacteria	lista 3	No esta en lista
+Candidatus Pelagibacter ubique	LISTA 1			campylobacterales	Lista 2	No esta en lista			garlic	lista 3	No esta en lista
+Candidatus Photodesmus katoptron	LISTA 1			candidate	Lista 2	No esta en lista			gata	lista 3	No esta en lista
+Candidatus Portiera aleyrodidarum	LISTA 1			candidatus	Lista 2	No esta en lista			gazdar murine sarcoma	lista 3	No esta en lista
+Candidatus Puniceispirillum marinum	LISTA 1			candidatus arthromitus	Lista 2	No esta en lista			gb	lista 3	No esta en lista
+Candidatus Regiella insecticola	LISTA 1			candidatus midichloria	Lista 2	No esta en lista			geminiviridae	lista 3	No esta en lista
+Candidatus Riesia pediculicola	LISTA 1			candidatus mycoplasma	Lista 2	No esta en lista			geminivirus	lista 3	No esta en lista
+Candidatus Riesia pediculischaeffi	LISTA 1			candidatus saccharibacteria	Lista 2	No esta en lista			genoa	lista 3	No esta en lista
+Candidatus Ruthia magnifica	LISTA 1			candidatus saccharimonas	Lista 2	No esta en lista			genomoviridae	lista 3	No esta en lista
+Candidatus Schmidhempelia bombi	LISTA 1			capnocytophaga	Lista 2	No esta en lista			genomovirus	lista 3	No esta en lista
+Candidatus Soleaferrea massiliensis	LISTA 1			capnocytophaga gingivalis	Lista 2	LISTA 1			geobacillus	lista 3	No esta en lista
+Candidatus Solibacter usitatus	LISTA 1			capnocytophaga ochracea	Lista 2	LISTA 1			giardia lamblia	lista 3	No esta en lista
+Candidatus Streptomyces massiliensis	LISTA 1			capnocytophaga sputigena	Lista 2	LISTA 1			gibbon ape leukemia	lista 3	No esta en lista
+Candidatus Streptomyces philanthi	LISTA 1			caproiciproducens	Lista 2	No esta en lista			grapevine	lista 3	No esta en lista
+Candidatus Sulcia muelleri	LISTA 1			capsicum	Lista 2	No esta en lista	planta		green river chinook	lista 3	No esta en lista
+Capim orthobunyavirus	LISTA 1			capsicum annuum	Lista 2	No esta en lista	planta		ground squirrel hepatitis	lista 3	No esta en lista
+Capnocytophaga canimorsus	LISTA 1			cardiobacteriaceae	Lista 2	No esta en lista			group a rotavirus	lista 3	No esta en lista
+Capnocytophaga cynodegmi	LISTA 1			cardiobacterium	Lista 2	No esta en lista			gs	lista 3	No esta en lista
+Capnocytophaga gingivalis	LISTA 1			carica	Lista 2	No esta en lista			guaroa	lista 3	No esta en lista
+Capnocytophaga granulosa	LISTA 1			carica papaya	Lista 2	No esta en lista	planta		gunnison's prairie dog retrovirus	lista 3	No esta en lista
+Capnocytophaga haemolytica	LISTA 1			carnobacteriaceae	Lista 2	No esta en lista			haemophilus	lista 3	No esta en lista
+Capnocytophaga ochracea	LISTA 1			carnobacterium	Lista 2	No esta en lista			hantavirus	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 324	LISTA 1			carnobacterium inhibens	Lista 2	No esta en lista			hanyang	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 326	LISTA 1			catabacter	Lista 2	No esta en lista			harvey murine sarcoma	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 329	LISTA 1			catabacter hongkongensis	Lista 2	No esta en lista			hazara	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 332	LISTA 1			catenibacterium	Lista 2	No esta en lista			hdag	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 335	LISTA 1			catharanthus	Lista 2	No esta en lista	planta		heliothis zea	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 336	LISTA 1			catharanthus roseus	Lista 2	No esta en lista	planta		hepacivirus	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 338	LISTA 1			cauliflower	Lista 2	No esta en lista	planta		hepatitis a	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 380	LISTA 1			caulobacter	Lista 2	No esta en lista			hepatitis b	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 412	LISTA 1			caulobacteraceae	Lista 2	No esta en lista			hepatitis c	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 863	LISTA 1			cedecea	Lista 2	No esta en lista			hepatitis d	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 864	LISTA 1			cedecea davisae	Lista 2	No esta en lista			hepatitis delta	lista 3	No esta en lista
+Capnocytophaga sp. oral taxon 878	LISTA 1			cedecea neteri	Lista 2	No esta en lista			hepatitis e	lista 3	No esta en lista
+Capnocytophaga sputigena	LISTA 1			cellulomonadaceae	Lista 2	No esta en lista			hepatitis g	lista 3	No esta en lista
+Capraria yellow spot virus	LISTA 1			cellulomonas	Lista 2	No esta en lista			herbert	lista 3	No esta en lista
+Caraparu orthobunyavirus	LISTA 1			cellulosilyticum	Lista 2	No esta en lista			heron hepatitis b	lista 3	No esta en lista
+Cardinium endosymbiont of Bemisia tabaci	LISTA 1			cellulosilyticum ruminicola	Lista 2	No esta en lista			herpes	lista 3	No esta en lista
+Cardinium endosymbiont of Encarsia pergandiella	LISTA 1			cellulosimicrobium	Lista 2	No esta en lista			herpes simplex	lista 3	No esta en lista
+Castellaniella caeni	LISTA 1			cellulosimicrobium cellulans	Lista 2	No esta en lista			herpesvirales	lista 3	No esta en lista
+Castellaniella defragrans	LISTA 1			centipeda	Lista 2	No esta en lista			herpesviridae	lista 3	No esta en lista
+Cat Que orthobunyavirus	LISTA 1			chelativorans	Lista 2	No esta en lista			herpesvirus	lista 3	No esta en lista
+Catelliglobosispora koreensis	LISTA 1			chelativorans intermedius	Lista 2	No esta en lista			hilary	lista 3	No esta en lista
+Catharanthus yellow mosaic virus	LISTA 1			chickpea	Lista 2	No esta en lista	planta		hiv-1	lista 3	No esta en lista
+Catu orthobunyavirus	LISTA 1			chilli	Lista 2	No esta en lista	comida		hiv-1 envelope	lista 3	No esta en lista
+Cellulophaga algicola	LISTA 1			chitinophagaceae	Lista 2	No esta en lista			hiv-1 gag	lista 3	No esta en lista
+Cellulophaga baltica	LISTA 1			chlamydia	Lista 2	No esta en lista			hiv-1 subtype c	lista 3	No esta en lista
+Cellulophaga fucicola	LISTA 1			chlamydia pecorum	Lista 2	LISTA 1			hiv-2	lista 3	No esta en lista
+Cellulophaga geojensis	LISTA 1			chlamydia pneumoniae	Lista 2	LISTA 1			hiv1	lista 3	No esta en lista
+Cellulophaga lytica	LISTA 1			chlamydia psittaci	Lista 2	LISTA 1			hsv-1	lista 3	No esta en lista
+Cercopithecine betaherpesvirus 5	LISTA 1			chlamydia trachomatis	Lista 2	LISTA 1			hsv-1 glycoprotein c	lista 3	No esta en lista
+Cesiribacter andamanensis	LISTA 1			chlamydiae	Lista 2	No esta en lista			hsv-2	lista 3	No esta en lista
+Chicken anemia virus	LISTA 1			chlamydiales	Lista 2	No esta en lista			hsv1	lista 3	No esta en lista
+Chilli leaf curl Bhavanisagar virus	LISTA 1			chloroflexi	Lista 2	No esta en lista			hsv1 mutant	lista 3	No esta en lista
+Chilli leaf curl India virus	LISTA 1			chondromyces	Lista 2	No esta en lista			htlv-2	lista 3	No esta en lista
+Chilli leaf curl Kanpur virus	LISTA 1			christensenella	Lista 2	No esta en lista			htlv-i	lista 3	No esta en lista
+Chilli leaf curl Vellanad virus	LISTA 1			christensenella minuta	Lista 2	No esta en lista			htlv-ii	lista 3	No esta en lista
+Chilli leaf curl virus	LISTA 1			christensenellaceae	Lista 2	No esta en lista			human adenovirus	lista 3	No esta en lista
+Chino del tomate virus	LISTA 1			chromobacterium	Lista 2	No esta en lista			human adenovirus 12	lista 3	No esta en lista
+Chitinophaga ginsengisegetis	LISTA 1			chromobacterium violaceum	Lista 2	No esta en lista			human adenovirus 5	lista 3	No esta en lista
+Chitinophaga japonensis	LISTA 1			chromohalobacter	Lista 2	No esta en lista			human adult t-cell leukemia	lista 3	No esta en lista
+Chitinophaga pinensis	LISTA 1			chromohalobacter israelensis	Lista 2	No esta en lista			human astrovirus	lista 3	No esta en lista
+Chitinophaga sancti	LISTA 1			chromohalobacter salexigens	Lista 2	No esta en lista			human betaretrovirus	lista 3	No esta en lista
+Chlamydia abortus	LISTA 1			chryseobacterium	Lista 2	No esta en lista			human bocavirus	lista 3	No esta en lista
+Chlamydia avium	LISTA 1			chryseobacterium indologenes	Lista 2	No esta en lista			human bufavirus	lista 3	No esta en lista
+Chlamydia buteonis	LISTA 1			citrobacter	Lista 2	No esta en lista			human coronavirus	lista 3	No esta en lista
+Chlamydia caviae	LISTA 1			citrobacter amalonaticus	Lista 2	No esta en lista			human coronavirus 229e	lista 3	No esta en lista
+Chlamydia felis	LISTA 1			citrobacter freundii	Lista 2	No esta en lista			human coronavirus oc43	lista 3	No esta en lista
+Chlamydia gallinacea	LISTA 1			citrobacter koseri	Lista 2	No esta en lista			human cytomegalovirus	lista 3	No esta en lista
+Chlamydia ibidis	LISTA 1			citrobacter portucalensis	Lista 2	No esta en lista			human endogenous retrovirus	lista 3	No esta en lista
+Chlamydia muridarum	LISTA 1			citrobacter rodentium	Lista 2	No esta en lista			human endogenous retrovirus k	lista 3	No esta en lista
+Chlamydia pecorum	LISTA 1			citrobacter werkmanii	Lista 2	No esta en lista			human endogenous retrovirus k113	lista 3	No esta en lista
+Chlamydia pneumoniae	LISTA 1			clavibacter	Lista 2	No esta en lista			human endogenous retrovirus w	lista 3	No esta en lista
+Chlamydia psittaci	LISTA 1			clavibacter michiganensis	Lista 2	No esta en lista			human enterovirus	lista 3	No esta en lista
+Chlamydia suis	LISTA 1			cleome	Lista 2	No esta en lista			human enterovirus 71	lista 3	No esta en lista
+Chlamydia trachomatis	LISTA 1			cleome viscosa	Lista 2	No esta en lista			human enterovirus b	lista 3	No esta en lista
+Chlorogloeopsis fritschii	LISTA 1			cloacibacterium	Lista 2	No esta en lista			human fecal	lista 3	No esta en lista
+Chondromyces apiculatus	LISTA 1			clostridia	Lista 2	No esta en lista			human foamy	lista 3	No esta en lista
+Chrysiogenes arsenatis	LISTA 1			clostridiaceae	Lista 2	No esta en lista			human gammaherpesvirus 8	lista 3	No esta en lista
+Colobus guereza cytomegalovirus 1	LISTA 1			clostridiales	Lista 2	No esta en lista			human hepatitis	lista 3	No esta en lista
+Congregibacter litoralis	LISTA 1			clostridiales family	Lista 2	No esta en lista			human hepatitis b	lista 3	No esta en lista
+Coraliomargarita akajimensis	LISTA 1			clostridioides	Lista 2	No esta en lista			human herpes simplex	lista 3	No esta en lista
+Corchorus golden mosaic virus	LISTA 1			clostridioides difficile	Lista 2	No esta en lista			human herpesvirus	lista 3	No esta en lista
+Corchorus yellow vein virus	LISTA 1			clostridium	Lista 2	No esta en lista			human herpesvirus 4	lista 3	No esta en lista
+Corynebacterium accolens	LISTA 1			clostridium acetobutylicum	Lista 2	No esta en lista			human herpesvirus 6	lista 3	No esta en lista
+Corynebacterium afermentans	LISTA 1			clostridium beijerinckii	Lista 2	No esta en lista			human herpesvirus 6b	lista 3	No esta en lista
+Corynebacterium ammoniagenes	LISTA 1			clostridium botulinum	Lista 2	No esta en lista			human herpesvirus 7	lista 3	No esta en lista
+Corynebacterium amycolatum	LISTA 1			clostridium butyricum	Lista 2	No esta en lista			human herpesvirus 8	lista 3	No esta en lista
+Corynebacterium appendicis	LISTA 1			clostridium celatum	Lista 2	No esta en lista			human immunodeficiency	lista 3	No esta en lista
+Corynebacterium aquilae	LISTA 1			clostridium difficile	Lista 2	No esta en lista			human jc	lista 3	No esta en lista
+Corynebacterium argentoratense	LISTA 1			clostridium hiranonis	Lista 2	No esta en lista			human leukemia	lista 3	No esta en lista
+Corynebacterium aurimucosum	LISTA 1			clostridium hylemonae	Lista 2	No esta en lista			human lymphotropic	lista 3	No esta en lista
+Corynebacterium bovis	LISTA 1			clostridium innocuum	Lista 2	No esta en lista			human mammary tumor	lista 3	No esta en lista
+Corynebacterium callunae	LISTA 1			clostridium leptum	Lista 2	No esta en lista			human metapneumovirus	lista 3	No esta en lista
+Corynebacterium capitovis	LISTA 1			clostridium ljungdahlii	Lista 2	No esta en lista			human papilloma	lista 3	No esta en lista
+Corynebacterium casei	LISTA 1			clostridium novyi	Lista 2	No esta en lista			human papillomavirus	lista 3	No esta en lista
+Corynebacterium caspium	LISTA 1			clostridium paraputrificum	Lista 2	No esta en lista			human papillomavirus 16	lista 3	No esta en lista
+Corynebacterium ciconiae	LISTA 1			clostridium pasteurianum	Lista 2	No esta en lista			human papillomavirus 31	lista 3	No esta en lista
+Corynebacterium coyleae	LISTA 1			clostridium perfringens	Lista 2	No esta en lista			human papillomavirus 33	lista 3	No esta en lista
+Corynebacterium crenatum	LISTA 1			clostridium scindens	Lista 2	No esta en lista			human papillomavirus 38	lista 3	No esta en lista
+Corynebacterium cystitidis	LISTA 1			clostridium septicum	Lista 2	No esta en lista			human papillomavirus 42	lista 3	No esta en lista
+Corynebacterium deserti	LISTA 1			clostridium sporogenes	Lista 2	No esta en lista			human papillomavirus 58	lista 3	No esta en lista
+Corynebacterium diphtheriae	LISTA 1			clostridium subterminale	Lista 2	No esta en lista			human papillomavirus e2	lista 3	No esta en lista
+Corynebacterium doosanense	LISTA 1			clostridium symbiosum	Lista 2	No esta en lista			human papillomavirus e6	lista 3	No esta en lista
+Corynebacterium durum	LISTA 1			clostridium tertium	Lista 2	No esta en lista			human papillomavirus e6 and e7	lista 3	No esta en lista
+Corynebacterium efficiens	LISTA 1			clostridium tetani	Lista 2	No esta en lista			human papillomavirus l1	lista 3	No esta en lista
+Corynebacterium falsenii	LISTA 1			clostridium tyrobutyricum	Lista 2	No esta en lista			human papovavirus bk	lista 3	No esta en lista
+Corynebacterium flavescens	LISTA 1			collinsella	Lista 2	No esta en lista			human parainfluenza	lista 3	No esta en lista
+Corynebacterium frankenforstense	LISTA 1			collinsella aerofaciens	Lista 2	No esta en lista			human parainfluenza 3	lista 3	No esta en lista
+Corynebacterium freiburgense	LISTA 1			comamonadaceae	Lista 2	No esta en lista			human parechovirus	lista 3	No esta en lista
+Corynebacterium freneyi	LISTA 1			comamonas	Lista 2	No esta en lista			human parvovirus b19	lista 3	No esta en lista
+Corynebacterium genitalium	LISTA 1			comamonas kerstersii	Lista 2	No esta en lista			human pegivirus	lista 3	No esta en lista
+Corynebacterium glucuronolyticum	LISTA 1			comamonas testosteroni	Lista 2	No esta en lista			human polyomavirus 6	lista 3	No esta en lista
+Corynebacterium glutamicum	LISTA 1			coprobacillus	Lista 2	No esta en lista			human polyomavirus 7	lista 3	No esta en lista
+Corynebacterium glyciniphilum	LISTA 1			coprobacter	Lista 2	No esta en lista			human polyomavirus 9	lista 3	No esta en lista
+Corynebacterium halotolerans	LISTA 1			coprococcus	Lista 2	No esta en lista			human polyomavirus bk	lista 3	No esta en lista
+Corynebacterium hoiho	LISTA 1			coprococcus comes	Lista 2	No esta en lista			human respiratory syncytial	lista 3	No esta en lista
+Corynebacterium humireducens	LISTA 1			coprococcus eutactus	Lista 2	No esta en lista			human rhinovirus	lista 3	No esta en lista
+Corynebacterium jeikeium	LISTA 1			corallococcus	Lista 2	No esta en lista			human rotavirus	lista 3	No esta en lista
+Corynebacterium kroppenstedtii	LISTA 1			corallococcus coralloides	Lista 2	No esta en lista			human t cell leukemia	lista 3	No esta en lista
+Corynebacterium lactis	LISTA 1			coreopsis	Lista 2	No esta en lista			human t cell lymphotrophic	lista 3	No esta en lista
+Corynebacterium lipophiloflavum	LISTA 1			coriobacteriaceae	Lista 2	No esta en lista			human t cell lymphotropic	lista 3	No esta en lista
+Corynebacterium lubricantis	LISTA 1			coriobacteriaceae bacterium	Lista 2	No esta en lista			human t-cell leukemia	lista 3	No esta en lista
+Corynebacterium marinum	LISTA 1			corynebacterium	Lista 2	No esta en lista			human t-cell leukemia-lymphoma	lista 3	No esta en lista
+Corynebacterium maris	LISTA 1			corynebacterium afermentans	Lista 2	LISTA 1			human t-cell lymphotrophic	lista 3	No esta en lista
+Corynebacterium massiliense	LISTA 1			corynebacterium amycolatum	Lista 2	LISTA 1			human t-cell lymphotropic	lista 3	No esta en lista
+Corynebacterium mastitidis	LISTA 1			corynebacterium bovis	Lista 2	LISTA 1			human t-lymphotropic	lista 3	No esta en lista
+Corynebacterium matruchotii	LISTA 1			corynebacterium diphtheriae	Lista 2	LISTA 1			ias	lista 3	No esta en lista
+Corynebacterium minutissimum	LISTA 1			corynebacterium glutamicum	Lista 2	LISTA 1			ilheus	lista 3	No esta en lista
+Corynebacterium mucifaciens	LISTA 1			corynebacterium jeikeium	Lista 2	LISTA 1			infectious bursal disease	lista 3	No esta en lista
+Corynebacterium nuruki	LISTA 1			corynebacterium macginleyi	Lista 2	No esta en lista			infectious laryngotracheitis	lista 3	No esta en lista
+Corynebacterium otitidis	LISTA 1			corynebacterium minutissimum	Lista 2	LISTA 1			infectious pancreatic necrosis	lista 3	No esta en lista
+Corynebacterium pilbarense	LISTA 1			corynebacterium riegelii	Lista 2	No esta en lista			influenza	lista 3	No esta en lista
+Corynebacterium pilosum	LISTA 1			corynebacterium simulans	Lista 2	No esta en lista			influenza a	lista 3	No esta en lista
+Corynebacterium propinquum	LISTA 1			corynebacterium stationis	Lista 2	LISTA 1			influenza b	lista 3	No esta en lista
+Corynebacterium pseudodiphtheriticum	LISTA 1			corynebacterium striatum	Lista 2	LISTA 1			integration site	lista 3	No esta en lista
+Corynebacterium pseudogenitalium	LISTA 1			corynebacterium tuberculostearicum	Lista 2	LISTA 1			jaagsiekte sheep retrovirus	lista 3	No esta en lista
+Corynebacterium pseudotuberculosis	LISTA 1			corynebacterium urealyticum	Lista 2	LISTA 1			japanese encephalitis	lista 3	No esta en lista
+Corynebacterium pyruviciproducens	LISTA 1			corynebacterium xerosis	Lista 2	LISTA 1			jasmine	lista 3	No esta en lista
+Corynebacterium resistens	LISTA 1			cosenzaea	Lista 2	No esta en lista			jc	lista 3	No esta en lista
+Corynebacterium sphenisci	LISTA 1			cowpea	Lista 2	No esta en lista			jc polyomavirus	lista 3	No esta en lista
+Corynebacterium sputi	LISTA 1			coxiella	Lista 2	No esta en lista			junin	lista 3	No esta en lista
+Corynebacterium stationis	LISTA 1			coxiella burnetii	Lista 2	No esta en lista			kadipiro	lista 3	No esta en lista
+Corynebacterium striatum	LISTA 1			cronobacter	Lista 2	No esta en lista			kama	lista 3	No esta en lista
+Corynebacterium suicordis	LISTA 1			cronobacter sakazakii	Lista 2	No esta en lista			kaposi's sarcoma-associated herpesvirus	lista 3	No esta en lista
+Corynebacterium terpenotabidum	LISTA 1			crotalaria	Lista 2	No esta en lista			ki polyomavirus	lista 3	No esta en lista
+Corynebacterium timonense	LISTA 1			croton	Lista 2	No esta en lista			kilham rat	lista 3	No esta en lista
+Corynebacterium tuberculostearicum	LISTA 1			cruoricaptor	Lista 2	No esta en lista			kirsten murine sarcoma	lista 3	No esta en lista
+Corynebacterium tuscaniense	LISTA 1			cruoricaptor ignavus	Lista 2	No esta en lista			klebsiella	lista 3	No esta en lista
+Corynebacterium ulcerans	LISTA 1			cucurbita	Lista 2	No esta en lista			koala retrovirus	lista 3	No esta en lista
+Corynebacterium ulceribovis	LISTA 1			cupriavidus	Lista 2	No esta en lista			kobuvirus	lista 3	No esta en lista
+Corynebacterium urealyticum	LISTA 1			cupriavidus pauculus	Lista 2	No esta en lista			kotonkan	lista 3	No esta en lista
+Corynebacterium variabile	LISTA 1			curtobacterium	Lista 2	No esta en lista			kunjin	lista 3	No esta en lista
+Corynebacterium vitaeruminis	LISTA 1			curtobacterium pusillum	Lista 2	No esta en lista			kyasanur forest disease	lista 3	No esta en lista
+Corynebacterium xerosis	LISTA 1			cutibacterium	Lista 2	No esta en lista			lactobacillus johnsonii ncc 533	lista 3	No esta en lista
+Cotton leaf crumple virus	LISTA 1			cutibacterium acnes	Lista 2	No esta en lista			lagos bat	lista 3	No esta en lista
+Cotton leaf curl Alabad virus	LISTA 1			cutibacterium avidum	Lista 2	No esta en lista			langat	lista 3	No esta en lista
+Cotton leaf curl Bangalore virus	LISTA 1			cutibacterium granulosum	Lista 2	No esta en lista			lassa	lista 3	No esta en lista
+Cotton leaf curl Burewala virus	LISTA 1			cutibacterium modestum	Lista 2	No esta en lista			latent membrane	lista 3	No esta en lista
+Cotton leaf curl Gezira virus	LISTA 1			cyanobacteria	Lista 2	No esta en lista			lcmv	lista 3	No esta en lista
+Cotton leaf curl Khokran virus	LISTA 1			cyanobacterium	Lista 2	No esta en lista			legionella	lista 3	No esta en lista
+Cotton leaf curl Kokhran virus	LISTA 1			cyanothece	Lista 2	No esta en lista			legionella lansingensis	lista 3	LISTA 1
+Cotton leaf curl Multan virus	LISTA 1			cycloclasticus	Lista 2	No esta en lista			leishmania	lista 3	No esta en lista
+Cotton leaf curl Rajasthan virus	LISTA 1			cystobacter	Lista 2	No esta en lista			leopardus wiedii papillomavirus	lista 3	No esta en lista
+Cotton leaf curl virus	LISTA 1			datura	Lista 2	No esta en lista			lettuce	lista 3	No esta en lista
+Crassocephalum yellow vein virus	LISTA 1			datura stramonium	Lista 2	No esta en lista			listeria	lista 3	No esta en lista
+Croton yellow vein mosaic virus	LISTA 1			defluviicoccus	Lista 2	No esta en lista			listeria monocytogenes	lista 3	LISTA 1
+Croton yellow vein virus	LISTA 1			deinococcus	Lista 2	No esta en lista			louping ill	lista 3	No esta en lista
+Cryptosporangium arvum	LISTA 1			deinococcus radiodurans	Lista 2	No esta en lista			lymphocryptovirus	lista 3	No esta en lista
+Cryptosporangium japonicum	LISTA 1			deinococcus-thermus	Lista 2	No esta en lista			lymphocystis disease	lista 3	No esta en lista
+Cucumber green mottle mosaic virus	LISTA 1			delftia	Lista 2	No esta en lista			lymphocytic choriomeningitis	lista 3	No esta en lista
+Cucurbit leaf crumple virus	LISTA 1			delftia acidovorans	Lista 2	No esta en lista			lymphoproliferative disease	lista 3	No esta en lista
+Cytophaga allerginae	LISTA 1			delftia tsuruhatensis	Lista 2	No esta en lista			macaca arctoides gammaherpesvirus 1	lista 3	No esta en lista
+Cytophaga aurantiaca	LISTA 1			deltaproteobacteria	Lista 2	No esta en lista			macaca fascicularis papillomavirus	lista 3	No esta en lista
+Cytophaga hutchinsonii	LISTA 1			dermabacter	Lista 2	No esta en lista			maedi-visna	lista 3	No esta en lista
+Dactylosporangium aurantiacum	LISTA 1			dermabacter hominis	Lista 2	No esta en lista			mammalian orthoreovirus	lista 3	No esta en lista
+Deefgea rivuli	LISTA 1			desulfomicrobium	Lista 2	No esta en lista			mannheimia	lista 3	No esta en lista
+Dehalogenimonas lykanthroporepellens	LISTA 1			desulfovibrio	Lista 2	No esta en lista			maraba	lista 3	No esta en lista
+Desulfatiglans anilini	LISTA 1			desulfovibrio desulfuricans	Lista 2	No esta en lista			marburg	lista 3	No esta en lista
+Desulforegula conservatrix	LISTA 1			desulfovibrio piger	Lista 2	No esta en lista			marek's disease	lista 3	No esta en lista
+Desulfotignum balticum	LISTA 1			desulfovibrio vulgaris	Lista 2	No esta en lista			massilia	lista 3	No esta en lista
+Desulfotignum phosphitoxidans	LISTA 1			desulfovibrionaceae	Lista 2	No esta en lista			mastadenovirus	lista 3	No esta en lista
+Dictyoglomus thermophilum	LISTA 1			desulfovibrionales	Lista 2	No esta en lista			mastic	lista 3	No esta en lista
+Dictyoglomus turgidum	LISTA 1			desulfuromonas	Lista 2	No esta en lista			measles	lista 3	No esta en lista
+Dolosigranulum pigrum	LISTA 1			devosia	Lista 2	No esta en lista			mengo	lista 3	No esta en lista
+Duganella zoogloeoides	LISTA 1			dialister	Lista 2	No esta en lista			merkel cell polyomavirus	lista 3	No esta en lista
+Dyadobacter alkalitolerans	LISTA 1			dialister invisus	Lista 2	No esta en lista			metapneumovirus	lista 3	No esta en lista
+Dyadobacter beijingensis	LISTA 1			dialister micraerophilus	Lista 2	No esta en lista			mimiviridae	lista 3	No esta en lista
+Dyadobacter crusticola	LISTA 1			dialister pneumosintes	Lista 2	No esta en lista			mink cell focus-forming	lista 3	No esta en lista
+Dyadobacter fermentans	LISTA 1			dialister succinatiphilus	Lista 2	No esta en lista			mirabilis mosaic	lista 3	No esta en lista
+Dyadobacter ginsengisoli	LISTA 1			dielma	Lista 2	No esta en lista			mlv-related	lista 3	No esta en lista
+Dyadobacter tibetensis	LISTA 1			dietzia	Lista 2	No esta en lista			modified vaccinia ankara	lista 3	No esta en lista
+Dysgonomonas capnocytophagoides	LISTA 1			dietzia cinnamea	Lista 2	No esta en lista			mokola	lista 3	No esta en lista
+Dysgonomonas gadei	LISTA 1			dietzia papillomatosis	Lista 2	No esta en lista			molluscum contagiosum	lista 3	No esta en lista
+Dysgonomonas hofstadii	LISTA 1			dioscorea	Lista 2	No esta en lista			moloney murine leukemia	lista 3	No esta en lista
+Dysgonomonas mossii	LISTA 1			dolosigranulum	Lista 2	No esta en lista			moloney murine sarcoma	lista 3	No esta en lista
+East African cassava mosaic Cameroon virus	LISTA 1			domibacillus	Lista 2	No esta en lista			mononegavirales	lista 3	No esta en lista
+East African cassava mosaic Malawi virus	LISTA 1			dorea	Lista 2	No esta en lista			montpellier	lista 3	No esta en lista
+East African cassava mosaic Zanzibar virus	LISTA 1			dysgonomonas	Lista 2	No esta en lista			morbillivirus	lista 3	No esta en lista
+East African cassava mosaic virus	LISTA 1			dysgonomonas mossii	Lista 2	LISTA 1			mott	lista 3	No esta en lista
+Eclipta yellow vein virus	LISTA 1			echinacea	Lista 2	No esta en lista			mouse adenovirus	lista 3	No esta en lista
+Eggerthella lenta	LISTA 1			echinacea purpurea	Lista 2	No esta en lista			mouse hepatitis	lista 3	No esta en lista
+Eggerthella sinensis	LISTA 1			edwardsiella	Lista 2	No esta en lista			mouse leukemia	lista 3	No esta en lista
+Eggerthia catenaformis	LISTA 1			edwardsiella hoshinae	Lista 2	No esta en lista			mouse mammary tumor	lista 3	No esta en lista
+Elizabethkingia anophelis	LISTA 1			edwardsiella tarda	Lista 2	No esta en lista			mouse polyomavirus	lista 3	No esta en lista
+Elizabethkingia meningoseptica	LISTA 1			eggerthella	Lista 2	No esta en lista			mucorales	lista 3	No esta en lista
+Emilia yellow vein virus	LISTA 1			eggerthella lenta	Lista 2	LISTA 1			mulv	lista 3	No esta en lista
+Enseada orthobunyavirus	LISTA 1			eggerthellaceae	Lista 2	No esta en lista			mume	lista 3	No esta en lista
+Escherichia albertii	LISTA 1			eggerthia	Lista 2	No esta en lista			mumps	lista 3	No esta en lista
+Escherichia coli	LISTA 1			eggerthia catenaformis	Lista 2	LISTA 1			murid herpesvirus 4	lista 3	No esta en lista
+Escherichia fergusonii	LISTA 1			ehrlichia	Lista 2	No esta en lista			murine astrovirus	lista 3	No esta en lista
+Ethanoligenens harbinense	LISTA 1			ehrlichia chaffeensis	Lista 2	No esta en lista			murine astrovirus 2	lista 3	No esta en lista
+Eupatorium yellow vein mosaic virus	LISTA 1			eikenella	Lista 2	No esta en lista			murine coronavirus	lista 3	No esta en lista
+Eupatorium yellow vein virus	LISTA 1			eikenella corrodens	Lista 2	No esta en lista			murine cytomegalovirus	lista 3	No esta en lista
+Euphorbia leaf curl virus	LISTA 1			eisenbergiella	Lista 2	No esta en lista			murine hepatitis	lista 3	No esta en lista
+Euphorbia mosaic virus	LISTA 1			elaeagnus	Lista 2	No esta en lista			murine herpesvirus	lista 3	No esta en lista
+Euphorbia yellow mosaic virus	LISTA 1			elaeagnus angustifolia	Lista 2	No esta en lista			murine leukemia	lista 3	No esta en lista
+Ewingella americana	LISTA 1			elizabethkingia	Lista 2	No esta en lista			murine norovirus	lista 3	No esta en lista
+Exiguobacterium acetylicum	LISTA 1			elizabethkingia meningoseptica	Lista 2	LISTA 1			murine osteosarcoma	lista 3	No esta en lista
+Exiguobacterium alkaliphilum	LISTA 1			elusimicrobia	Lista 2	No esta en lista			murine pneumonia	lista 3	No esta en lista
+Exiguobacterium antarcticum	LISTA 1			endophytic	Lista 2	No esta en lista			murine polyomavirus	lista 3	No esta en lista
+Exiguobacterium aurantiacum	LISTA 1			endosymbiont	Lista 2	No esta en lista			murine sarcoma	lista 3	No esta en lista
+Exiguobacterium chiriqhucha	LISTA 1			enhydrobacter	Lista 2	No esta en lista			murine xenotropic	lista 3	No esta en lista
+Exiguobacterium indicum	LISTA 1			enterobacter	Lista 2	No esta en lista			mus musculus papillomavirus	lista 3	No esta en lista
+Exiguobacterium marinum	LISTA 1			enterobacter aerogenes	Lista 2	No esta en lista			mus musculus papillomavirus 1	lista 3	No esta en lista
+Exiguobacterium oxidotolerans	LISTA 1			enterobacter cloacae	Lista 2	No esta en lista			mutant hepatitis b	lista 3	No esta en lista
+Exiguobacterium sibiricum	LISTA 1			enterobacter hormaechei	Lista 2	No esta en lista			mutant japanese encephalitis	lista 3	No esta en lista
+Exiguobacterium undae	LISTA 1			enterobacter kobei	Lista 2	No esta en lista			mvm	lista 3	No esta en lista
+Faceys paddock orthobunyavirus	LISTA 1			enterobacter ludwigii	Lista 2	No esta en lista			mx polyomavirus	lista 3	No esta en lista
+Faecalibacterium prausnitzii	LISTA 1			enterobacterales	Lista 2	No esta en lista			mycobacterium	lista 3	No esta en lista
+Fangia hongkongensis	LISTA 1			enterobacteriaceae	Lista 2	No esta en lista			mycobacterium marinum	lista 3	LISTA 1
+Feline endogenous virus	LISTA 1			enterocloster	Lista 2	No esta en lista			mycoplasma	lista 3	No esta en lista
+Feline leukemia virus	LISTA 1			enterocloster bolteae	Lista 2	No esta en lista			mycoplasma arthritidis	lista 3	No esta en lista
+Ferroglobus placidus	LISTA 1			enterococcaceae	Lista 2	No esta en lista			mycoplasma pneumoniae	lista 3	No esta en lista
+Finegoldia magna	LISTA 1			enterococcus	Lista 2	No esta en lista			myeloblastosis-associated	lista 3	No esta en lista
+Fischerella ambigua	LISTA 1			enterococcus avium	Lista 2	No esta en lista			myeloproliferative leukemia	lista 3	No esta en lista
+Fischerella indica	LISTA 1			enterococcus casseliflavus	Lista 2	No esta en lista			myeloproliferative sarcoma	lista 3	No esta en lista
+Fischerella major	LISTA 1			enterococcus durans	Lista 2	No esta en lista			myoviridae	lista 3	No esta en lista
+Fischerella muscicola	LISTA 1			enterococcus faecalis	Lista 2	No esta en lista			mytilus	lista 3	No esta en lista
+Fischerella thermalis	LISTA 1			enterococcus faecium	Lista 2	No esta en lista			myxoma	lista 3	No esta en lista
+Flammeovirga aprica	LISTA 1			enterococcus gallinarum	Lista 2	No esta en lista			natrinema	lista 3	No esta en lista
+Flavihumibacter petaseus	LISTA 1			enterococcus hirae	Lista 2	No esta en lista			nef	lista 3	No esta en lista
+Flavisolibacter ginsengisoli	LISTA 1			enterococcus raffinosus	Lista 2	No esta en lista			negishi	lista 3	No esta en lista
+Flavisolibacter ginsengiterrae	LISTA 1			enterorhabdus	Lista 2	No esta en lista			nodamura	lista 3	No esta en lista
+Flectobacillus major	LISTA 1			enterovibrio	Lista 2	No esta en lista			nora	lista 3	No esta en lista
+Flexibacter flexilis	LISTA 1			entomoplasmatales	Lista 2	No esta en lista			norovirus	lista 3	No esta en lista
+Flexithrix dorotheae	LISTA 1			epsilonproteobacteria	Lista 2	No esta en lista			nova	lista 3	No esta en lista
+Fort Sherman orthobunyavirus	LISTA 1			erwinia	Lista 2	No esta en lista			ns-5	lista 3	No esta en lista
+French bean leaf curl virus	LISTA 1			erwinia amylovora	Lista 2	No esta en lista			ns3	lista 3	No esta en lista
+Fulvivirga imtechensis	LISTA 1			erwinia chrysanthemi	Lista 2	No esta en lista			nse	lista 3	No esta en lista
+Fusobacterium gonidiaformans	LISTA 1			erysipelatoclostridium	Lista 2	No esta en lista			nuclear polyhedrosis	lista 3	No esta en lista
+Fusobacterium hwasookii	LISTA 1			erysipelatoclostridium ramosum	Lista 2	No esta en lista			nucleocapsid	lista 3	No esta en lista
+Fusobacterium mortiferum	LISTA 1			erysipelothrix	Lista 2	No esta en lista			nucleoprotein	lista 3	No esta en lista
+Fusobacterium necrophorum	LISTA 1			erysipelothrix rhusiopathiae	Lista 2	No esta en lista			obodhiang	lista 3	No esta en lista
+Fusobacterium nucleatum	LISTA 1			erysipelotrichaceae	Lista 2	No esta en lista			omphalodes	lista 3	No esta en lista
+Fusobacterium perfoetens	LISTA 1			erysipelotrichia	Lista 2	No esta en lista			opuntia	lista 3	No esta en lista
+Fusobacterium periodonticum	LISTA 1			escherichia	Lista 2	No esta en lista			orbivirus	lista 3	No esta en lista
+Fusobacterium russii	LISTA 1			escherichia coli	Lista 2	LISTA 1			orthobunyavirus	lista 3	No esta en lista
+Fusobacterium sp. oral taxon 370	LISTA 1			escherichia fergusonii	Lista 2	LISTA 1			orthopoxvirus	lista 3	No esta en lista
+Fusobacterium ulcerans	LISTA 1			eubacteriaceae	Lista 2	No esta en lista			orthoreovirus	lista 3	No esta en lista
+Fusobacterium varium	LISTA 1			eubacterium	Lista 2	No esta en lista			ovine enzootic nasal tumor	lista 3	No esta en lista
+Gaetbulibacter saemankumensis	LISTA 1			eubacterium brachy	Lista 2	No esta en lista			ovine enzootic nasal tumour	lista 3	No esta en lista
+Gallaecimonas xiamenensis	LISTA 1			eubacterium callanderi	Lista 2	No esta en lista			ovine lentivirus	lista 3	No esta en lista
+Gallibacterium anatis	LISTA 1			eubacterium limosum	Lista 2	No esta en lista			ovine papillomavirus	lista 3	No esta en lista
+Gallionella capsiferriformans	LISTA 1			eubacterium nodatum	Lista 2	No esta en lista			ovine pulmonary adenocarcinoma	lista 3	No esta en lista
+Gallivirus A	LISTA 1			eubacterium rectale	Lista 2	No esta en lista			ovine pulmonary carcinoma	lista 3	No esta en lista
+Gamboa orthobunyavirus	LISTA 1			eubacterium siraeum	Lista 2	No esta en lista			ovis aries papillomavirus	lista 3	No esta en lista
+Gammapapillomavirus 1	LISTA 1			euphorbia	Lista 2	No esta en lista			palmer	lista 3	No esta en lista
+Gammapapillomavirus 10	LISTA 1			exiguobacterium	Lista 2	No esta en lista			panax	lista 3	No esta en lista
+Gammapapillomavirus 11	LISTA 1			exiguobacterium acetylicum	Lista 2	LISTA 1			panax notoginseng	lista 3	No esta en lista
+Gammapapillomavirus 12	LISTA 1			facklamia	Lista 2	No esta en lista			papillomaviridae	lista 3	No esta en lista
+Gammapapillomavirus 13	LISTA 1			facklamia tabacinasalis	Lista 2	No esta en lista			papovavirus bkv	lista 3	No esta en lista
+Gammapapillomavirus 14	LISTA 1			faecalibacterium	Lista 2	No esta en lista			parainfluenza	lista 3	No esta en lista
+Gammapapillomavirus 15	LISTA 1			faecalibacterium prausnitzii	Lista 2	LISTA 1			parainfluenza-3	lista 3	No esta en lista
+Gammapapillomavirus 16	LISTA 1			faecalicatena	Lista 2	No esta en lista			paramyxoviridae	lista 3	No esta en lista
+Gammapapillomavirus 17	LISTA 1			faecalitalea	Lista 2	No esta en lista			paramyxovirus	lista 3	No esta en lista
+Gammapapillomavirus 18	LISTA 1			fibrobacteres	Lista 2	No esta en lista			parapoxvirus	lista 3	No esta en lista
+Gammapapillomavirus 19	LISTA 1			filamentous	Lista 2	No esta en lista			parechovirus	lista 3	No esta en lista
+Gammapapillomavirus 2	LISTA 1			filamentous cyanobacterium	Lista 2	No esta en lista			parvoviridae	lista 3	No esta en lista
+Gammapapillomavirus 20	LISTA 1			filifactor	Lista 2	No esta en lista			pediococcus	lista 3	No esta en lista
+Gammapapillomavirus 21	LISTA 1			filifactor alocis	Lista 2	No esta en lista			pediococcus pentosaceus	lista 3	No esta en lista
+Gammapapillomavirus 22	LISTA 1			finegoldia	Lista 2	No esta en lista			pegivirus	lista 3	No esta en lista
+Gammapapillomavirus 23	LISTA 1			finegoldia magna	Lista 2	LISTA 1			pegivirus c	lista 3	LISTA 1
+Gammapapillomavirus 24	LISTA 1			firmicutes	Lista 2	No esta en lista			penicillium chrysogenum	lista 3	No esta en lista
+Gammapapillomavirus 25	LISTA 1			flammeovirga	Lista 2	No esta en lista			persimmon	lista 3	No esta en lista
+Gammapapillomavirus 26	LISTA 1			flavobacteriaceae	Lista 2	No esta en lista			peste des petits ruminants	lista 3	No esta en lista
+Gammapapillomavirus 27	LISTA 1			flavobacteriales	Lista 2	No esta en lista			pestivirus	lista 3	No esta en lista
+Gammapapillomavirus 3	LISTA 1			flavobacteriia	Lista 2	No esta en lista			phage	lista 3	No esta en lista
+Gammapapillomavirus 4	LISTA 1			flavobacterium	Lista 2	No esta en lista			phycodnaviridae	lista 3	No esta en lista
+Gammapapillomavirus 5	LISTA 1			flavonifractor	Lista 2	No esta en lista			phytomonas	lista 3	No esta en lista
+Gammapapillomavirus 6	LISTA 1			flavonifractor plautii	Lista 2	No esta en lista			picornavirales	lista 3	No esta en lista
+Gammapapillomavirus 7	LISTA 1			forsythia	Lista 2	No esta en lista			picornaviridae	lista 3	No esta en lista
+Gammapapillomavirus 8	LISTA 1			francisella	Lista 2	No esta en lista			piper	lista 3	No esta en lista
+Gammapapillomavirus 9	LISTA 1			francisella tularensis	Lista 2	No esta en lista			plantain	lista 3	No esta en lista
+Gan Gan orthobunyavirus	LISTA 1			fusibacter	Lista 2	No esta en lista			pleurotus ostreatus	lista 3	No esta en lista
+Gardnerella vaginalis	LISTA 1			fusicatenibacter	Lista 2	No esta en lista			pneumonia	lista 3	No esta en lista
+Gayadomonas joobiniege	LISTA 1			fusicatenibacter saccharivorans	Lista 2	No esta en lista			podosphaera	lista 3	No esta en lista
+Geitlerinema acuminatum	LISTA 1			fusobacteria	Lista 2	No esta en lista			podoviridae	lista 3	No esta en lista
+Geitlerinema attenuatum	LISTA 1			fusobacterium	Lista 2	No esta en lista			poliovirus	lista 3	No esta en lista
+Geitlerinema calcuttense	LISTA 1			fusobacterium hwasookii	Lista 2	LISTA 1			polyoma	lista 3	No esta en lista
+Geitlerinema earlei	LISTA 1			fusobacterium mortiferum	Lista 2	LISTA 1			polyomaviridae	lista 3	No esta en lista
+Geitlerinema sp. BBD	LISTA 1			fusobacterium naviforme	Lista 2	No esta en lista			polyomavirus	lista 3	No esta en lista
+Geitlerinema splendidum	LISTA 1			fusobacterium necrophorum	Lista 2	LISTA 1			polyomavirus jc	lista 3	No esta en lista
+Geitlerinema sulphureum	LISTA 1			fusobacterium nucleatum	Lista 2	LISTA 1			polyprotein	lista 3	No esta en lista
+Geitlerinema tenuius	LISTA 1			fusobacterium varium	Lista 2	LISTA 1			polytropic murine leukemia	lista 3	No esta en lista
+Geitlerinema unigranulatum	LISTA 1			gamma	Lista 2	No esta en lista			porcine adenovirus	lista 3	No esta en lista
+Gelidibacter mesophilus	LISTA 1			gammaproteobacteria	Lista 2	No esta en lista			porcine adenovirus 4	lista 3	No esta en lista
+Gemella bergeri	LISTA 1			gardnerella	Lista 2	No esta en lista			porcine epidemic diarrhea	lista 3	No esta en lista
+Gemella cuniculi	LISTA 1			gardnerella vaginalis	Lista 2	LISTA 1			porcine parvovirus	lista 3	No esta en lista
+Gemella haemolysans	LISTA 1			gelidibacter	Lista 2	No esta en lista			powassan	lista 3	No esta en lista
+Gemella morbillorum	LISTA 1			gemella	Lista 2	No esta en lista			poxviridae	lista 3	No esta en lista
+Gemella sanguinis	LISTA 1			gemella haemolysans	Lista 2	LISTA 1			pre-s1	lista 3	No esta en lista
+Geminicoccus roseus	LISTA 1			gemella morbillorum	Lista 2	LISTA 1			precore	lista 3	No esta en lista
+Geminocystis herdmanii	LISTA 1			gemella sanguinis	Lista 2	LISTA 1			prevotella	lista 3	No esta en lista
+Geminocystis papuanica	LISTA 1			gemmatimonadales	Lista 2	No esta en lista			prevotella buccae	lista 3	LISTA 1
+Gemmata obscuriglobus	LISTA 1			gemmatimonadetes	Lista 2	No esta en lista			prochlorococcus	lista 3	No esta en lista
+Gemmatimonas aurantiaca	LISTA 1			gemmiger	Lista 2	No esta en lista			protoparvovirus	lista 3	No esta en lista
+Gemmobacter nectariphilus	LISTA 1			gemmiger formicilis	Lista 2	No esta en lista			providence	lista 3	No esta en lista
+Geobacillus jurassicus	LISTA 1			geobacillus	Lista 2	No esta en lista			prrs	lista 3	No esta en lista
+Geobacillus kaustophilus	LISTA 1			geobacter	Lista 2	No esta en lista			prunus	lista 3	No esta en lista
+Geobacillus stearothermophilus	LISTA 1			gluconacetobacter	Lista 2	No esta en lista			pseudomonas	lista 3	No esta en lista
+Geobacillus subterraneus	LISTA 1			gluconobacter	Lista 2	No esta en lista			pseudomonas aeruginosa	lista 3	No esta en lista
+Geobacillus thermocatenulatus	LISTA 1			gluconobacter kondonii	Lista 2	No esta en lista			pseudorabies	lista 3	No esta en lista
+Geobacillus thermodenitrificans	LISTA 1			glutamicibacter	Lista 2	No esta en lista			punta toro	lista 3	No esta en lista
+Geobacillus thermoleovorans	LISTA 1			glutamicibacter arilaitensis	Lista 2	LISTA 1			quebec polyomavirus	lista 3	No esta en lista
+Geobacillus vulcani	LISTA 1			glycine	Lista 2	No esta en lista			rabbit fibroma	lista 3	No esta en lista
+Geobacillus zalihae	LISTA 1			gordonia	Lista 2	No esta en lista			rabbit haemorrhagic disease	lista 3	No esta en lista
+Geobacter bemidjiensis	LISTA 1			gordonia sputi	Lista 2	LISTA 1			rabbit hemorrhagic disease	lista 3	No esta en lista
+Geobacter bremensis	LISTA 1			gordonibacter	Lista 2	No esta en lista			rabbit papilloma	lista 3	No esta en lista
+Geobacter daltonii	LISTA 1			granulicatella	Lista 2	No esta en lista			rabies	lista 3	No esta en lista
+Geobacter lovleyi	LISTA 1			granulicatella adiacens	Lista 2	LISTA 1			raccoon polyomavirus	lista 3	No esta en lista
+Geobacter metallireducens	LISTA 1			granulicella	Lista 2	No esta en lista			raccoonpox	lista 3	No esta en lista
+Geobacter s.p	LISTA 1			gut metagenome	Lista 2	No esta en lista	termino		ralstonia	lista 3	No esta en lista
+Geobacter sulfurreducens	LISTA 1			gynostemma	Lista 2	No esta en lista			ranavirus	lista 3	No esta en lista
+Geobacter toluenoxydans	LISTA 1			gynostemma pentaphyllum	Lista 2	No esta en lista			rat cellular	lista 3	No esta en lista
+Geobacter uraniireducens	LISTA 1			haemophilus	Lista 2	No esta en lista			rat leukemia	lista 3	No esta en lista
+Geodermatophilus obscurus	LISTA 1			haemophilus ducreyi	Lista 2	No esta en lista			rat sarcoma	lista 3	No esta en lista
+Geofilum rubicundum	LISTA 1			haemophilus influenzae	Lista 2	No esta en lista			rauscher leukaemia	lista 3	No esta en lista
+Geopsychrobacter electrodiphilus	LISTA 1			haemophilus parainfluenzae	Lista 2	No esta en lista			rauscher leukemia	lista 3	No esta en lista
+Geothrix fermentans	LISTA 1			haemophilus parasuis	Lista 2	No esta en lista			rauscher murine leukemia	lista 3	No esta en lista
+Gibbon ape leukemia virus	LISTA 1			hafnia	Lista 2	No esta en lista			rauscher spleen focus-forming	lista 3	No esta en lista
+Gilliamella apicola	LISTA 1			hafnia alvei	Lista 2	No esta en lista			recombinant hepatitis c	lista 3	No esta en lista
+Gilliamella apis	LISTA 1			hafnia paralvei	Lista 2	No esta en lista			reoviridae	lista 3	No esta en lista
+Gillisia limnaea	LISTA 1			halomonadaceae	Lista 2	No esta en lista			reovirus	lista 3	No esta en lista
+Gilvimarinus chinensis	LISTA 1			halomonas	Lista 2	No esta en lista			reovirus 3	lista 3	No esta en lista
+Gimesia maris	LISTA 1			halomonas elongata	Lista 2	No esta en lista			reovirus serotype 3	lista 3	No esta en lista
+Glaciecola nitratireducens	LISTA 1			halomonas meridiana	Lista 2	No esta en lista			respiratory syncytial	lista 3	No esta en lista
+Glaciecola pallidula	LISTA 1			halomonas stenophila	Lista 2	No esta en lista			reticuloendotheliosis	lista 3	No esta en lista
+Glaciecola punicea	LISTA 1			helcococcus	Lista 2	No esta en lista			retroviridae	lista 3	No esta en lista
+Glaciibacter superstes	LISTA 1			helcococcus kunzii	Lista 2	No esta en lista			rhabdoviridae	lista 3	No esta en lista
+Gloeobacter kilaueensis	LISTA 1			helianthus	Lista 2	No esta en lista			rhinovirus a	lista 3	No esta en lista
+Gloeobacter violaceus	LISTA 1			helianthus annuus	Lista 2	No esta en lista			rhinovirus c	lista 3	No esta en lista
+Gloeocapsa alpicola	LISTA 1			helicobacter	Lista 2	No esta en lista			rhizoctonia	lista 3	No esta en lista
+Gloeocapsa gelatinosa	LISTA 1			helicobacter cinaedi	Lista 2	LISTA 1			rhizoctonia solani	lista 3	No esta en lista
+Gloeocapsa polydermatica	LISTA 1			helicobacter pullorum	Lista 2	LISTA 1			rhizopus	lista 3	No esta en lista
+Gloeocapsa quaternata	LISTA 1			helicobacter pylori	Lista 2	LISTA 1			rhodopseudomonas	lista 3	No esta en lista
+Gloeocapsa thermalis	LISTA 1			herbaspirillum	Lista 2	No esta en lista			ribes	lista 3	No esta en lista
+Glossina hytrosavirus	LISTA 1			herbaspirillum frisingense	Lista 2	No esta en lista			rickettsia	lista 3	No esta en lista
+Gluconacetobacter diazotrophicus	LISTA 1			holdemanella	Lista 2	No esta en lista			rift valley fever	lista 3	No esta en lista
+Gluconobacter frateurii	LISTA 1			hungatella	Lista 2	No esta en lista			riverside	lista 3	No esta en lista
+Gluconobacter kanchanaburiensis	LISTA 1			hungatella effluvii	Lista 2	No esta en lista			rna-1	lista 3	No esta en lista
+Gluconobacter morbifer	LISTA 1			hungatella hathewayi	Lista 2	LISTA 1			ross	lista 3	No esta en lista
+Gluconobacter oxydans	LISTA 1			hydrogenophaga	Lista 2	No esta en lista			ross river	lista 3	No esta en lista
+Gluconobacter roseus	LISTA 1			iamia	Lista 2	No esta en lista			rotavirus	lista 3	No esta en lista
+Gluconobacter sphaericus	LISTA 1			ideonella	Lista 2	No esta en lista			rotavirus vaccine	lista 3	No esta en lista
+Gluconobacter thailandicus	LISTA 1			idiomarina	Lista 2	No esta en lista			rous associated	lista 3	No esta en lista
+Gluconobacter wancherniae	LISTA 1			idiomarina loihiensis	Lista 2	No esta en lista			rous sarcoma	lista 3	No esta en lista
+Glutamicibacter arilaitensis	LISTA 1			ignatzschineria	Lista 2	No esta en lista			rous sarcoma provirus	lista 3	No esta en lista
+Glutamicibacter bergerei	LISTA 1			ignatzschineria indica	Lista 2	No esta en lista			rous-associated	lista 3	No esta en lista
+Glutamicibacter mysorens	LISTA 1			intestinibacter	Lista 2	No esta en lista			rousettus aegyptiacus papillomavirus	lista 3	No esta en lista
+Glycomyces arizonensis	LISTA 1			intestinibacter bartlettii	Lista 2	No esta en lista			rubella	lista 3	No esta en lista
+Glycomyces tenuis	LISTA 1			intestinimonas	Lista 2	No esta en lista			ruminant	lista 3	No esta en lista
+Gordonia aichiensis	LISTA 1			intrasporangiaceae	Lista 2	No esta en lista			russian spring-summer encephalitis	lista 3	No esta en lista
+Gordonia alkanivorans	LISTA 1			janibacter	Lista 2	No esta en lista			saccharomyces cerevisiae	lista 3	No esta en lista
+Gordonia amarae	LISTA 1			janthinobacterium	Lista 2	No esta en lista			saccharomyces uvarum	lista 3	No esta en lista
+Gordonia amicalis	LISTA 1			janthinobacterium lividum	Lista 2	No esta en lista			saimiriine gammaherpesvirus 2	lista 3	No esta en lista
+Gordonia araii	LISTA 1			jeotgalibaca	Lista 2	No esta en lista			salinibacter	lista 3	No esta en lista
+Gordonia bronchialis	LISTA 1			jujube	Lista 2	No esta en lista			salmonella	lista 3	No esta en lista
+Gordonia desulfuricans	LISTA 1			keratinibaculum	Lista 2	No esta en lista			salmonella phage 118970_sal4	lista 3	No esta en lista
+Gordonia effusa	LISTA 1			keratinibaculum paraultunense	Lista 2	No esta en lista			salmonella typhimurium	lista 3	No esta en lista
+Gordonia hirsuta	LISTA 1			kineothrix	Lista 2	No esta en lista			salmonid herpesvirus 4	lista 3	No esta en lista
+Gordonia hydrophobica	LISTA 1			kingella	Lista 2	No esta en lista			sarawak	lista 3	No esta en lista
+Gordonia malaquae	LISTA 1			kingella denitrificans	Lista 2	LISTA 1			sars coronavirus	lista 3	No esta en lista
+Gordonia namibiensis	LISTA 1			kingella oralis	Lista 2	LISTA 1			satellite	lista 3	No esta en lista
+Gordonia neofelifaecis	LISTA 1			kitasatospora	Lista 2	No esta en lista			sclerotinia sclerotiorum	lista 3	No esta en lista
+Gordonia otitidis	LISTA 1			klebsiella	Lista 2	No esta en lista			scott	lista 3	No esta en lista
+Gordonia paraffinivorans	LISTA 1			klebsiella grimontii	Lista 2	No esta en lista			sea otter parvovirus 1	lista 3	No esta en lista
+Gordonia polyisoprenivorans	LISTA 1			klebsiella michiganensis	Lista 2	No esta en lista			sea otter polyomavirus 1	lista 3	No esta en lista
+Gordonia rhizosphera	LISTA 1			klebsiella oxytoca	Lista 2	No esta en lista			semliki forest	lista 3	No esta en lista
+Gordonia rubripertincta	LISTA 1			klebsiella pneumoniae	Lista 2	No esta en lista			sendai	lista 3	No esta en lista
+Gordonia shandongensis	LISTA 1			klebsiella quasipneumoniae	Lista 2	No esta en lista			sesbania mosaic	lista 3	No esta en lista
+Gordonia sihwensis	LISTA 1			kluyvera	Lista 2	No esta en lista			severe acute respiratory syndrome coronavirus	lista 3	No esta en lista
+Gordonia soli	LISTA 1			kluyvera ascorbata	Lista 2	No esta en lista			severe acute respiratory syndrome-related coronavirus	lista 3	No esta en lista
+Gordonia sputi	LISTA 1			kocuria	Lista 2	No esta en lista			sherlock	lista 3	No esta en lista
+Gordonia terrae	LISTA 1			kocuria rosea	Lista 2	No esta en lista			shewanella	lista 3	No esta en lista
+Gordonia westfalica	LISTA 1			kribbella	Lista 2	No esta en lista			shigella	lista 3	No esta en lista
+Gordonibacter pamelaeae	LISTA 1			kroppenstedtia	Lista 2	No esta en lista			shigella sonnei	lista 3	LISTA 1
+Gossypium punctatum mild leaf curl virus	LISTA 1			labrenzia	Lista 2	No esta en lista			shope fibroma	lista 3	No esta en lista
+Gottschalkia acidurici	LISTA 1			lachnoanaerobaculum	Lista 2	No esta en lista			simian adenovirus	lista 3	No esta en lista
+Gracilibacillus boraciitolerans	LISTA 1			lachnoclostridium	Lista 2	No esta en lista			simian adenovirus 30	lista 3	No esta en lista
+Gracilibacillus halophilus	LISTA 1			lachnospira	Lista 2	No esta en lista			simian adenovirus 7	lista 3	No esta en lista
+Gracilibacillus lacisalsi	LISTA 1			lachnospiraceae	Lista 2	No esta en lista			simian foamy	lista 3	No esta en lista
+Gracilimonas tropica	LISTA 1			lachnospiraceae bacterium	Lista 2	No esta en lista			simian immunodeficiency	lista 3	No esta en lista
+Gramella echinicola	LISTA 1			lacticaseibacillus	Lista 2	No esta en lista			simian sarcoma	lista 3	No esta en lista
+Gramella flava	LISTA 1			lacticaseibacillus rhamnosus	Lista 2	No esta en lista			simian sarcoma-associated	lista 3	No esta en lista
+Gramella forsetii	LISTA 1			lactobacillaceae	Lista 2	No esta en lista			simian t-cell lymphotropic	lista 3	No esta en lista
+Gramella portivictoriae	LISTA 1			lactobacillus	Lista 2	No esta en lista			sindbis	lista 3	No esta en lista
+Granulibacter bethesdensis	LISTA 1			lactobacillus acidophilus	Lista 2	LISTA 1			siphoviridae	lista 3	No esta en lista
+Granulicatella adiacens	LISTA 1			lactobacillus alimentarius	Lista 2	No esta en lista			siphovirus contig89	lista 3	No esta en lista
+Granulicatella elegans	LISTA 1			lactobacillus animalis	Lista 2	No esta en lista			small anellovirus	lista 3	No esta en lista
+Granulicatella para-adiacens	LISTA 1			lactobacillus brevis	Lista 2	No esta en lista			small round structured	lista 3	No esta en lista
+Granulicella mallensis	LISTA 1			lactobacillus casei	Lista 2	No esta en lista			smith	lista 3	No esta en lista
+Granulicella tundricola	LISTA 1			lactobacillus coryniformis	Lista 2	No esta en lista			snow mountain	lista 3	No esta en lista
+Granulicoccus phenolivorans	LISTA 1			lactobacillus crispatus	Lista 2	LISTA 1			snyder-theilen feline sarcoma	lista 3	No esta en lista
+Grimontia hollisae	LISTA 1			lactobacillus curvatus	Lista 2	No esta en lista			soil-borne	lista 3	No esta en lista
+Gryllotalpicola ginsengisoli	LISTA 1			lactobacillus delbrueckii	Lista 2	LISTA 1			southampton	lista 3	No esta en lista
+Guama orthobunyavirus	LISTA 1			lactobacillus fermentum	Lista 2	No esta en lista			soybean cyst nematode	lista 3	No esta en lista
+Guar moasic virus	LISTA 1			lactobacillus gasseri	Lista 2	LISTA 1			spinach curly top arizona	lista 3	No esta en lista
+Guaroa orthobunyavirus	LISTA 1			lactobacillus harbinensis	Lista 2	No esta en lista			spleen necrosis	lista 3	No esta en lista
+Gulosibacter bifidus	LISTA 1			lactobacillus helveticus	Lista 2	LISTA 1			squirrel monkey retrovirus	lista 3	No esta en lista
+Gulosibacter faecalis	LISTA 1			lactobacillus hilgardii	Lista 2	No esta en lista			squirrelpox	lista 3	No esta en lista
+Gulosibacter molinativorax	LISTA 1			lactobacillus iners	Lista 2	LISTA 1			ssdna	lista 3	No esta en lista
+Gynuella sunshinyii	LISTA 1			lactobacillus jensenii	Lista 2	LISTA 1			st. louis encephalitis	lista 3	No esta en lista
+Gyrovirus fulgla1	LISTA 1			lactobacillus johnsonii	Lista 2	LISTA 1			staphylococcus	lista 3	No esta en lista
+Gyrovirus galga1	LISTA 1			lactobacillus kefiri	Lista 2	No esta en lista			staphylococcus xylosus	lista 3	No esta en lista
+Gyrovirus galga2	LISTA 1			lactobacillus mucosae	Lista 2	No esta en lista			stealth	lista 3	No esta en lista
+Gyrovirus homsa1	LISTA 1			lactobacillus murinus	Lista 2	No esta en lista			stickleback	lista 3	No esta en lista
+Gyrovirus homsa2	LISTA 1			lactobacillus paracasei	Lista 2	No esta en lista			stl polyomavirus	lista 3	No esta en lista
+Gyrovirus homsa3	LISTA 1			lactobacillus paraplantarum	Lista 2	No esta en lista			strawberry	lista 3	No esta en lista
+Gyrovirus homsa4	LISTA 1			lactobacillus pentosus	Lista 2	No esta en lista			streptococcus	lista 3	No esta en lista
+Gyrovirus hydho1	LISTA 1			lactobacillus plantarum	Lista 2	No esta en lista			streptococcus pyogenes	lista 3	No esta en lista
+Gyrovirus myferr1	LISTA 1			lactobacillus reuteri	Lista 2	No esta en lista			streptomyces	lista 3	No esta en lista
+Haliangium ochraceum	LISTA 1			lactobacillus rhamnosus	Lista 2	No esta en lista			sulfolobus	lista 3	No esta en lista
+Halogeometricum borinquense	LISTA 1			lactobacillus rossiae	Lista 2	No esta en lista			sunshine	lista 3	No esta en lista
+Halogeometricum pallidum	LISTA 1			lactobacillus ruminis	Lista 2	No esta en lista			superantigen	lista 3	No esta en lista
+Haloglycomyces albus	LISTA 1			lactobacillus salivarius	Lista 2	No esta en lista			sweet potato	lista 3	No esta en lista
+Halogranum salarium	LISTA 1			lactobacillus satsumensis	Lista 2	No esta en lista			swinepox	lista 3	No esta en lista
+Halopiger xanaduensis	LISTA 1			lactobacillus taiwanensis	Lista 2	LISTA 1			synechococcus	lista 3	No esta en lista
+Halostagnicola larsenii	LISTA 1			lactobacillus vaginalis	Lista 2	No esta en lista			tacaribe	lista 3	No esta en lista
+Haloterrigena jeotgali	LISTA 1			lactobacillus zeae	Lista 2	No esta en lista			tanapox	lista 3	No esta en lista
+Haloterrigena limicola	LISTA 1			lactococcus	Lista 2	No esta en lista			thika	lista 3	No esta en lista
+Haloterrigena salina	LISTA 1			lactococcus garvieae	Lista 2	No esta en lista			tick-borne	lista 3	No esta en lista
+Haloterrigena thermotolerans	LISTA 1			lactococcus lactis	Lista 2	No esta en lista			tick-borne encephalitis	lista 3	No esta en lista
+Haloterrigena turkmenica	LISTA 1			lactonifactor	Lista 2	No esta en lista			tipula iridescent	lista 3	No esta en lista
+Hapalosiphon arboreus	LISTA 1			lactonifactor longoviformis	Lista 2	No esta en lista			tobacco mosaic	lista 3	No esta en lista
+Hapalosiphon baronii	LISTA 1			lautropia	Lista 2	No esta en lista			tomato bushy stunt	lista 3	No esta en lista
+Hapalosiphon delicatulus	LISTA 1			lautropia mirabilis	Lista 2	No esta en lista			torque teno	lista 3	No esta en lista
+Hapalosiphon hibernicus	LISTA 1			lawsonia	Lista 2	No esta en lista			torque teno midi	lista 3	No esta en lista
+Hapalosiphon intricatus	LISTA 1			lawsonia intracellularis	Lista 2	No esta en lista			torque teno mini	lista 3	No esta en lista
+Hapalosiphon stuhlmannii	LISTA 1			leclercia	Lista 2	No esta en lista			totivirus	lista 3	No esta en lista
+Hapalosiphon welwitschii	LISTA 1			leclercia adecarboxylata	Lista 2	No esta en lista			transmembrane	lista 3	No esta en lista
+Hardy-Zuckerman feline sarcoma virus	LISTA 1			legionella	Lista 2	No esta en lista			trichodysplasia spinulosa-associated polyomavirus	lista 3	No esta en lista
+Helicobacter acinonychis	LISTA 1			legionella pneumophila	Lista 2	LISTA 1			trichomonas vaginalis	lista 3	No esta en lista
+Helicobacter bilis	LISTA 1			lelliottia	Lista 2	No esta en lista			trifolium	lista 3	No esta en lista
+Helicobacter bizzozeronii	LISTA 1			lelliottia amnigena	Lista 2	No esta en lista			trifolium pratense	lista 3	No esta en lista
+Helicobacter canadensis	LISTA 1			lentibacillus	Lista 2	No esta en lista			tt	lista 3	No esta en lista
+Helicobacter canis	LISTA 1			lentisphaerae	Lista 2	No esta en lista			tulip	lista 3	No esta en lista
+Helicobacter cetorum	LISTA 1			lentzea	Lista 2	No esta en lista			tunis	lista 3	No esta en lista
+Helicobacter cinaedi	LISTA 1			lentzea violacea	Lista 2	No esta en lista			turtle herpesvirus	lista 3	No esta en lista
+Helicobacter felis	LISTA 1			leptospira	Lista 2	No esta en lista			tusavirus	lista 3	No esta en lista
+Helicobacter fennelliae	LISTA 1			leptospira interrogans	Lista 2	No esta en lista			umea	lista 3	No esta en lista
+Helicobacter heilmannii	LISTA 1			leptothrix	Lista 2	No esta en lista			unidentified	lista 3	No esta en lista
+Helicobacter hepaticus	LISTA 1			leptotrichia	Lista 2	No esta en lista			usutu	lista 3	No esta en lista
+Helicobacter macacae	LISTA 1			leptotrichia wadei	Lista 2	No esta en lista			uukuniemi	lista 3	No esta en lista
+Helicobacter mustelae	LISTA 1			leuconostoc	Lista 2	No esta en lista			vaccinia	lista 3	No esta en lista
+Helicobacter pametensis	LISTA 1			leuconostoc lactis	Lista 2	No esta en lista			varicella-zoster	lista 3	No esta en lista
+Helicobacter pullorum	LISTA 1			leuconostoc mesenteroides	Lista 2	No esta en lista			variola	lista 3	No esta en lista
+Helicobacter pylori	LISTA 1			leuconostocaceae	Lista 2	No esta en lista			vellore	lista 3	No esta en lista
+Helicobacter rodentium	LISTA 1			limnobacter	Lista 2	No esta en lista			venezuelan equine encephalitis	lista 3	No esta en lista
+Helicobacter suis	LISTA 1			limnothrix	Lista 2	No esta en lista			vera	lista 3	No esta en lista
+Helicobacter winghamensis	LISTA 1			limosilactobacillus	Lista 2	No esta en lista			vesicular stomatitis	lista 3	No esta en lista
+Hollyhock leaf crumple virus	LISTA 1			limosilactobacillus reuteri	Lista 2	No esta en lista			vibrio	lista 3	No esta en lista
+Hollyhock yellow vein mosaic virus	LISTA 1			listeria	Lista 2	No esta en lista			vibrio cholerae	lista 3	No esta en lista
+Holophaga foetida	LISTA 1			listeria innocua	Lista 2	LISTA 1			vibrio parahaemolyticus	lista 3	No esta en lista
+Honeysuckle yellow vein mosaic virus	LISTA 1			listeria monocytogenes	Lista 2	LISTA 1			vibrio phage jsf5	lista 3	No esta en lista
+Honeysuckle yellow vein virus	LISTA 1			listeria welshimeri	Lista 2	LISTA 1			viola	lista 3	No esta en lista
+Human betaherpesvirus 5	LISTA 1			lotus	Lista 2	No esta en lista			viroid	lista 3	No esta en lista
+Human gammaherpesvirus 4	LISTA 1			luteococcus	Lista 2	No esta en lista			visna	lista 3	No esta en lista
+Hungatella hathewayi	LISTA 1			lyngbya	Lista 2	No esta en lista			walleye dermal sarcoma	lista 3	No esta en lista
+Hydrocarboniphaga effusa	LISTA 1			lyngbya majuscula	Lista 2	LISTA 1			watson	lista 3	No esta en lista
+Hydrogenobacter thermophilus	LISTA 1			lysinibacillus	Lista 2	No esta en lista			west nile	lista 3	No esta en lista
+Hydrogenophaga flava	LISTA 1			lysinibacillus fusiformis	Lista 2	No esta en lista			western equine encephalitis	lista 3	No esta en lista
+Hydrogenophaga intermedia	LISTA 1			lysinibacillus sphaericus	Lista 2	No esta en lista			whistler	lista 3	No esta en lista
+Hydrogenophaga palleronii	LISTA 1			lysobacter	Lista 2	No esta en lista			white sucker hepatitis b	lista 3	No esta en lista
+Hydrogenophaga pseudoflava	LISTA 1			macadamia	Lista 2	No esta en lista			wolbachia	lista 3	No esta en lista
+Hydrogenophaga taeniospiralis	LISTA 1			mag	Lista 2	No esta en lista			woodchuck hepatitis	lista 3	No esta en lista
+Hydrogenovibrio crunogenus	LISTA 1			magnetococcus	Lista 2	No esta en lista			woolly monkey sarcoma	lista 3	No esta en lista
+Hydrogenovibrio halophilus	LISTA 1			magnetococcus marinus	Lista 2	LISTA 1			wu polyomavirus	lista 3	No esta en lista
+Hydrogenovibrio kuenenii	LISTA 1			magnetospirillum	Lista 2	No esta en lista			xanthomonas	lista 3	No esta en lista
+Hydrogenovibrio marinus	LISTA 1			magnetospirillum gryphiswaldense	Lista 2	LISTA 1			xenotropic mulv-related	lista 3	No esta en lista
+Iaco orthobunyavirus	LISTA 1			malaysian	Lista 2	No esta en lista			xenotropic murine leukemia	lista 3	No esta en lista
+Ignatzschineria larvae	LISTA 1			manihot	Lista 2	No esta en lista			xmrv	lista 3	No esta en lista
+Ignavibacterium album	LISTA 1			mannheimia	Lista 2	No esta en lista			yacon	lista 3	No esta en lista
+Ignicoccus hospitalis	LISTA 1			mannheimia haemolytica	Lista 2	No esta en lista			yam	lista 3	No esta en lista
+Ignicoccus islandicus	LISTA 1			marigold	Lista 2	No esta en lista			yellow fever	lista 3	No esta en lista
+Ignicoccus pacificus	LISTA 1			marine bacterium	Lista 2	No esta en lista			zika	lista 3	No esta en lista
+Ilesha orthobunyavirus	LISTA 1			marinobacter	Lista 2	No esta en lista					
+Indian cassava mosaic virus	LISTA 1			marinobacterium	Lista 2	No esta en lista					
+Infectious spleen and kidney necrosis virus	LISTA 1			marmoricola	Lista 2	No esta en lista					
+Ingwavuma orthobunyavirus	LISTA 1			massilia	Lista 2	No esta en lista					
+Intrasporangium calvum	LISTA 1			medicago	Lista 2	No esta en lista					
+Intrasporangium chromatireducens	LISTA 1			medicago sativa	Lista 2	No esta en lista					
+Intrasporangium oryzae	LISTA 1			megamonas	Lista 2	No esta en lista					
+Jamestown Canyon orthobunyavirus	LISTA 1			megamonas funiformis	Lista 2	LISTA 1					
+Janibacter anophelis	LISTA 1			megasphaera	Lista 2	No esta en lista					
+Janibacter corallicola	LISTA 1			megasphaera micronuciformis	Lista 2	LISTA 1					
+Janibacter hoylei	LISTA 1			meiothermus	Lista 2	No esta en lista					
+Janibacter limosus	LISTA 1			mesoplasma	Lista 2	No esta en lista					
+Janibacter melonis	LISTA 1			mesorhizobium	Lista 2	No esta en lista					
+Janibacter terrae	LISTA 1			methylobacterium	Lista 2	No esta en lista					
+Jatobal orthobunyavirus	LISTA 1			methylobacterium mesophilicum	Lista 2	LISTA 1					
+Jatropha leaf crumple virus	LISTA 1			methylobacterium radiotolerans	Lista 2	LISTA 1					
+Jatropha leaf yellow mosaic virus	LISTA 1			methylocaldum	Lista 2	No esta en lista					
+Jatropha mosaic India virus	LISTA 1			methylococcaceae	Lista 2	No esta en lista					
+Jatropha yellow mosaic India virus	LISTA 1			methylophilaceae	Lista 2	No esta en lista					
+Jeotgalicoccus marinus	LISTA 1			methylotenera	Lista 2	No esta en lista					
+Jeotgalicoccus psychrophilus	LISTA 1			microbacterium	Lista 2	No esta en lista					
+Jiangella gansuensis	LISTA 1			microbacterium barkeri	Lista 2	No esta en lista					
+Jonquetella anthropi	LISTA 1			microbacterium oxydans	Lista 2	No esta en lista					
+Kaeng Khoi orthobunyavirus	LISTA 1			micrococcaceae	Lista 2	No esta en lista					
+Kairi orthobunyavirus	LISTA 1			micrococcus	Lista 2	No esta en lista					
+Kallipyga massiliensis	LISTA 1			micrococcus flavus	Lista 2	No esta en lista					
+Kangiella aquimarina	LISTA 1			micrococcus luteus	Lista 2	No esta en lista					
+Kangiella koreensis	LISTA 1			microcystis	Lista 2	No esta en lista					
+Kenaf leaf curl virus	LISTA 1			micromonospora	Lista 2	No esta en lista					
+Ketogulonicigenium vulgare	LISTA 1			micromonospora chalcea	Lista 2	No esta en lista					
+Keystone orthobunyavirus	LISTA 1			micromonospora echinospora	Lista 2	No esta en lista					
+Kibdelosporangium aridum	LISTA 1			microvirga	Lista 2	No esta en lista					
+Kingella denitrificans	LISTA 1			microvirgula	Lista 2	No esta en lista					
+Kingella kingae	LISTA 1			microvirgula aerodenitrificans	Lista 2	LISTA 1					
+Kingella oralis	LISTA 1			mitsuokella	Lista 2	No esta en lista					
+Kingella potus	LISTA 1			mitsuokella multacida	Lista 2	No esta en lista					
+Komagataeibacter europaeus	LISTA 1			mobiluncus	Lista 2	No esta en lista					
+Komagataeibacter hansenii	LISTA 1			mobiluncus curtisii	Lista 2	No esta en lista					
+Komagataeibacter intermedius	LISTA 1			mogibacterium	Lista 2	No esta en lista					
+Komagataeibacter kakiaceti	LISTA 1			moraxella	Lista 2	No esta en lista					
+Komagataeibacter medellinensis	LISTA 1			moraxella canis	Lista 2	No esta en lista					
+Komagataeibacter oboediens	LISTA 1			moraxella catarrhalis	Lista 2	No esta en lista					
+Komagataeibacter rhaeticus	LISTA 1			moraxella nonliquefaciens	Lista 2	No esta en lista					
+Komagataeibacter sucrofermentans	LISTA 1			moraxella osloensis	Lista 2	No esta en lista					
+Komagataeibacter xylinus	LISTA 1			moraxellaceae	Lista 2	No esta en lista					
+Koongol orthobunyavirus	LISTA 1			morganella	Lista 2	No esta en lista					
+Kosmotoga arenicorallina	LISTA 1			morganella morganii	Lista 2	LISTA 1					
+Kosmotoga olearia	LISTA 1			moritella	Lista 2	No esta en lista					
+La Crosse orthobunyavirus	LISTA 1			motilibacter	Lista 2	No esta en lista					
+Lactobacillus acetotolerans	LISTA 1			mulberry	Lista 2	No esta en lista					
+Lactobacillus acidophilus	LISTA 1			murdochiella	Lista 2	No esta en lista					
+Lactobacillus amylolyticus	LISTA 1			muribaculaceae	Lista 2	No esta en lista					
+Lactobacillus amylovorus	LISTA 1			muribaculum	Lista 2	No esta en lista					
+Lactobacillus catenefornis	LISTA 1			muribaculum intestinale	Lista 2	No esta en lista					
+Lactobacillus crispatus	LISTA 1			musa	Lista 2	No esta en lista					
+Lactobacillus delbrueckii	LISTA 1			mutant escherichia	Lista 2	No esta en lista					
+Lactobacillus equicursoris	LISTA 1			mutant salmonella	Lista 2	No esta en lista					
+Lactobacillus gallinarum	LISTA 1			mutant streptomyces	Lista 2	No esta en lista					
+Lactobacillus gasseri	LISTA 1			mycobacterium	Lista 2	No esta en lista					
+Lactobacillus gigeriorum	LISTA 1			mycobacterium abscessus	Lista 2	No esta en lista					
+Lactobacillus hamsteri	LISTA 1			mycobacterium avium	Lista 2	LISTA 1					
+Lactobacillus helveticus	LISTA 1			mycobacterium fortuitum	Lista 2	No esta en lista					
+Lactobacillus hominis	LISTA 1			mycobacterium gordonae	Lista 2	No esta en lista					
+Lactobacillus iners	LISTA 1			mycobacterium intracellulare	Lista 2	LISTA 1					
+Lactobacillus intestinalis	LISTA 1			mycobacterium kansasii	Lista 2	LISTA 1					
+Lactobacillus jensenii	LISTA 1			mycobacterium marinum	Lista 2	LISTA 1					
+Lactobacillus johnsonii	LISTA 1			mycobacterium paragordonae	Lista 2	No esta en lista					
+Lactobacillus kalixensis	LISTA 1			mycobacterium simiae	Lista 2	LISTA 1					
+Lactobacillus kefiranofaciens	LISTA 1			mycobacterium tuberculosis	Lista 2	LISTA 1					
+Lactobacillus kitasatonis	LISTA 1			mycoplana	Lista 2	No esta en lista					
+Lactobacillus paragasseri	LISTA 1			mycoplana ramosa	Lista 2	No esta en lista					
+Lactobacillus pasteurii	LISTA 1			mycoplasma	Lista 2	No esta en lista					
+Lactobacillus psittaci	LISTA 1			mycoplasma gallisepticum	Lista 2	No esta en lista					
+Lactobacillus taiwanensis	LISTA 1			mycoplasma genitalium	Lista 2	No esta en lista					
+Lactobacillus ultunensis	LISTA 1			mycoplasma haemocanis	Lista 2	No esta en lista					
+Leadbetterella byssophila	LISTA 1			mycoplasma hominis	Lista 2	No esta en lista					
+Leanyer orthobunyavirus	LISTA 1			mycoplasma hyorhinis	Lista 2	No esta en lista					
+Legionella anisa	LISTA 1			mycoplasma ovipneumoniae	Lista 2	No esta en lista					
+Legionella bozemanae	LISTA 1			mycoplasma pneumoniae	Lista 2	No esta en lista					
+Legionella cherrii	LISTA 1			myxococcus	Lista 2	No esta en lista					
+Legionella drancourtii	LISTA 1			myxococcus fulvus	Lista 2	No esta en lista					
+Legionella drozanskii	LISTA 1			nannocystis	Lista 2	No esta en lista					
+Legionella fairfieldensis	LISTA 1			neisseria	Lista 2	No esta en lista					
+Legionella fallonii	LISTA 1			neisseria bacilliformis	Lista 2	LISTA 1					
+Legionella feeleii	LISTA 1			neisseria cinerea	Lista 2	LISTA 1					
+Legionella geestiana	LISTA 1			neisseria flavescens	Lista 2	LISTA 1					
+Legionella israelensis	LISTA 1			neisseria gonorrhoeae	Lista 2	LISTA 1					
+Legionella jamestowniensis	LISTA 1			neisseria lactamica	Lista 2	LISTA 1					
+Legionella lansingensis	LISTA 1			neisseria meningitidis	Lista 2	LISTA 1					
+Legionella longbeachae	LISTA 1			neisseria mucosa	Lista 2	LISTA 1					
+Legionella moravica	LISTA 1			neisseria sicca	Lista 2	LISTA 1					
+Legionella oakridgensis	LISTA 1			neisseria subflava	Lista 2	LISTA 1					
+Legionella pneumophila	LISTA 1			neisseriaceae	Lista 2	No esta en lista					
+Legionella quinlivanii	LISTA 1			neisseriales	Lista 2	No esta en lista					
+Legionella rowbothamii	LISTA 1			neorickettsia	Lista 2	No esta en lista					
+Legionella sainthelensi	LISTA 1			nesterenkonia	Lista 2	No esta en lista					
+Legionella shakespearei	LISTA 1			nicotiana	Lista 2	No esta en lista					
+Legionella wadsworthii	LISTA 1			nitrobacter	Lista 2	No esta en lista					
+Leisingera aquimarina	LISTA 1			nitrospirae	Lista 2	No esta en lista					
+Leisingera caerulea	LISTA 1			nocardia	Lista 2	No esta en lista					
+Leisingera daeponensis	LISTA 1			nocardia abscessus	Lista 2	No esta en lista					
+Leisingera methylohalidivorans	LISTA 1			nocardia arthritidis	Lista 2	No esta en lista					
+Leptolyngbya 'Albertano-Kovacik green'	LISTA 1			nocardia asiatica	Lista 2	No esta en lista					
+Leptolyngbya africana	LISTA 1			nocardia asteroides	Lista 2	No esta en lista					
+Leptolyngbya angustata	LISTA 1			nocardia brasiliensis	Lista 2	No esta en lista					
+Leptolyngbya angustissima	LISTA 1			nocardia concava	Lista 2	No esta en lista					
+Leptolyngbya appalachiana	LISTA 1			nocardia cyriacigeorgica	Lista 2	No esta en lista					
+Leptolyngbya benthonica	LISTA 1			nocardia farcinica	Lista 2	No esta en lista					
+Leptolyngbya borchgrevinkii	LISTA 1			nocardia nova	Lista 2	No esta en lista					
+Leptolyngbya boryana	LISTA 1			nocardia otitidiscaviarum	Lista 2	No esta en lista					
+Leptolyngbya breviarticulata	LISTA 1			nocardiaceae	Lista 2	No esta en lista					
+Leptolyngbya carnea	LISTA 1			nocardioidaceae	Lista 2	No esta en lista					
+Leptolyngbya cebennensis	LISTA 1			nocardioides	Lista 2	No esta en lista					
+Leptolyngbya compacta	LISTA 1			nocardiopsis	Lista 2	No esta en lista					
+Leptolyngbya copelandii	LISTA 1			nonomuraea	Lista 2	No esta en lista					
+Leptolyngbya corticola	LISTA 1			nostoc	Lista 2	No esta en lista					
+Leptolyngbya crispata	LISTA 1			nostoc commune	Lista 2	No esta en lista					
+Leptolyngbya dangeardii	LISTA 1			noviherbaspirillum	Lista 2	No esta en lista					
+Leptolyngbya ectocarpi	LISTA 1			novosphingobium	Lista 2	No esta en lista					
+Leptolyngbya foveolarum	LISTA 1			oceanobacillus	Lista 2	No esta en lista					
+Leptolyngbya fragilis	LISTA 1			oceanobacillus picturae	Lista 2	No esta en lista					
+Leptolyngbya gelatinosa	LISTA 1			oceanobacillus profundus	Lista 2	No esta en lista					
+Leptolyngbya geysericola	LISTA 1			ochrobactrum	Lista 2	No esta en lista					
+Leptolyngbya halophila	LISTA 1			ochrobactrum anthropi	Lista 2	No esta en lista					
+Leptolyngbya hendersonii	LISTA 1			ochrobactrum intermedium	Lista 2	No esta en lista					
+Leptolyngbya henningsii	LISTA 1			ochrobactrum pituitosum	Lista 2	No esta en lista					
+Leptolyngbya laminosa	LISTA 1			ocimum	Lista 2	No esta en lista					
+Leptolyngbya lignicola	LISTA 1			odoribacter	Lista 2	No esta en lista					
+Leptolyngbya margaretheana	LISTA 1			odoribacter splanchnicus	Lista 2	No esta en lista					
+Leptolyngbya minuta	LISTA 1			oenococcus	Lista 2	No esta en lista					
+Leptolyngbya mycoidea	LISTA 1			oenococcus oeni	Lista 2	No esta en lista					
+Leptolyngbya norvegica	LISTA 1			oligella	Lista 2	No esta en lista					
+Leptolyngbya nostocorum	LISTA 1			oligella ureolytica	Lista 2	LISTA 1					
+Leptolyngbya ohadii	LISTA 1			oligella urethralis	Lista 2	LISTA 1					
+Leptolyngbya orientalis	LISTA 1			olsenella	Lista 2	No esta en lista					
+Leptolyngbya polysiphoniae	LISTA 1			olsenella scatoligenes	Lista 2	No esta en lista					
+Leptolyngbya ramosa	LISTA 1			opuntia	Lista 2	No esta en lista					
+Leptolyngbya rubra	LISTA 1			oribacterium	Lista 2	No esta en lista					
+Leptolyngbya saxicola	LISTA 1			oribacterium asaccharolyticum	Lista 2	No esta en lista					
+Leptolyngbya schmidlei	LISTA 1			orientia	Lista 2	No esta en lista					
+Leptolyngbya scottii	LISTA 1			orientia tsutsugamushi	Lista 2	LISTA 1					
+Leptolyngbya subtilis	LISTA 1			oscillatoria	Lista 2	No esta en lista					
+Leptolyngbya subtilissima	LISTA 1			oscillibacter	Lista 2	No esta en lista					
+Leptolyngbya subtruncata	LISTA 1			oxalobacter	Lista 2	No esta en lista					
+Leptolyngbya tenerrima	LISTA 1			oxalobacter formigenes	Lista 2	No esta en lista					
+Leptolyngbya tentaculiformis	LISTA 1			oxalobacteraceae	Lista 2	No esta en lista					
+Leptolyngbya tenuis	LISTA 1			paenibacillaceae	Lista 2	No esta en lista					
+Leptolyngbya thermalis	LISTA 1			paenibacillus	Lista 2	No esta en lista					
+Leptolyngbya thermarum	LISTA 1			paenibacillus odorifer	Lista 2	No esta en lista					
+Leptolyngbya thermobia	LISTA 1			paeniclostridium	Lista 2	No esta en lista					
+Leptolyngbya valderiana	LISTA 1			paeniglutamicibacter	Lista 2	No esta en lista					
+Listeria aquatica	LISTA 1			paludibacter	Lista 2	No esta en lista					
+Listeria cornellensis	LISTA 1			paludibaculum	Lista 2	No esta en lista					
+Listeria cossartiae	LISTA 1			pannonibacter	Lista 2	No esta en lista					
+Listeria fleischmannii	LISTA 1			pannonibacter phragmitetus	Lista 2	No esta en lista					
+Listeria floridensis	LISTA 1			pantoea	Lista 2	No esta en lista					
+Listeria grandensis	LISTA 1			pantoea agglomerans	Lista 2	No esta en lista					
+Listeria grayi	LISTA 1			pantoea ananatis	Lista 2	No esta en lista					
+Listeria innocua	LISTA 1			pantoea calida	Lista 2	No esta en lista					
+Listeria ivanovii	LISTA 1			parabacteroides	Lista 2	No esta en lista					
+Listeria marthii	LISTA 1			parabacteroides distasonis	Lista 2	No esta en lista					
+Listeria monocytogenes	LISTA 1			parabacteroides goldsteinii	Lista 2	No esta en lista					
+Listeria riparia	LISTA 1			parabacteroides merdae	Lista 2	No esta en lista					
+Listeria rocourtiae	LISTA 1			paraburkholderia	Lista 2	No esta en lista					
+Listeria seeligeri	LISTA 1			paraburkholderia fungorum	Lista 2	No esta en lista					
+Listeria weihenstephanensis	LISTA 1			paracoccus	Lista 2	No esta en lista					
+Listeria welshimeri	LISTA 1			paracoccus denitrificans	Lista 2	No esta en lista					
+Longispora albida	LISTA 1			paracoccus marcusii	Lista 2	No esta en lista					
+Lumbo orthbunyavirus	LISTA 1			paracoccus yeei	Lista 2	No esta en lista					
+Lyngbya aerugineo-coerulea	LISTA 1			parasutterella	Lista 2	No esta en lista					
+Lyngbya aestuarii	LISTA 1			parcubacteria	Lista 2	No esta en lista					
+Lyngbya arboricola	LISTA 1			parthenium	Lista 2	No esta en lista					
+Lyngbya confervoides	LISTA 1			parvimonas	Lista 2	No esta en lista					
+Lyngbya kuetzingiana	LISTA 1			parvimonas micra	Lista 2	LISTA 1					
+Lyngbya kuetzingii	LISTA 1			pasteurella	Lista 2	No esta en lista					
+Lyngbya lagerheimii	LISTA 1			pasteurella dagmatis	Lista 2	LISTA 1					
+Lyngbya majuscula	LISTA 1			pasteurella multocida	Lista 2	LISTA 1					
+Lyngbya martensiana	LISTA 1			pasteurellaceae	Lista 2	No esta en lista					
+Lyngbya nigra	LISTA 1			patescibacteria	Lista 2	No esta en lista					
+Lyngbya polychroa	LISTA 1			pediococcus	Lista 2	No esta en lista					
+Lyngbya purpurea	LISTA 1			pediococcus acidilactici	Lista 2	No esta en lista					
+Lyngbya semiplena	LISTA 1			pediococcus pentosaceus	Lista 2	No esta en lista					
+Lyngbya taylorii	LISTA 1			pedobacter	Lista 2	No esta en lista					
+MPoko orthobunyavirus	LISTA 1			pelomonas	Lista 2	No esta en lista					
+Macaca mulatta type C retrovirus	LISTA 1			peptococcaceae	Lista 2	No esta en lista					
+Macacine betaherpesvirus 3	LISTA 1			peptoniphilaceae	Lista 2	No esta en lista					
+Macacine betaherpesvirus 8	LISTA 1			peptoniphilus	Lista 2	No esta en lista					
+Macacine gammaherpesvirus 10	LISTA 1			peptoniphilus harei	Lista 2	No esta en lista					
+Macaua orthobunyavirus	LISTA 1			peptostreptococcaceae	Lista 2	No esta en lista					
+Macroptilium golden mosaic virus	LISTA 1			peptostreptococcus	Lista 2	No esta en lista					
+Macroptilium mosaic Puerto Rico virus	LISTA 1			peptostreptococcus anaerobius	Lista 2	LISTA 1					
+Macroptilium yellow mosaic virus	LISTA 1			peptostreptococcus stomatis	Lista 2	LISTA 1					
+Madrid orthobunyavirus	LISTA 1			perilla	Lista 2	No esta en lista					
+Mageeibacillus indolicus	LISTA 1			phaeobacter	Lista 2	No esta en lista					
+Magnetococcus marinus	LISTA 1			phascolarctobacterium	Lista 2	No esta en lista					
+Magnetospirillum aberrantis	LISTA 1			phascolarctobacterium faecium	Lista 2	No esta en lista					
+Magnetospirillum fulvum	LISTA 1			phaseolus	Lista 2	No esta en lista					
+Magnetospirillum gryphiswaldense	LISTA 1			phaseolus vulgaris	Lista 2	No esta en lista					
+Magnetospirillum magneticum	LISTA 1			phoenix	Lista 2	No esta en lista					
+Magnetospirillum magnetotacticum	LISTA 1			phormidium	Lista 2	No esta en lista					
+Magnetospirillum molischianum	LISTA 1			photobacterium	Lista 2	No esta en lista					
+Maguari orthobunyavirus	LISTA 1			photobacterium leiognathi	Lista 2	No esta en lista					
+Mahogany Hammock orthobunyavirus	LISTA 1			photobacterium profundum	Lista 2	No esta en lista					
+Main Drain orthobunyavirus	LISTA 1			photorhabdus	Lista 2	No esta en lista					
+Malvastrum leaf curl virus	LISTA 1			phyllanthus	Lista 2	No esta en lista					
+Malvastrum yellow mosaic Jamaica virus	LISTA 1			phyllobacterium	Lista 2	No esta en lista					
+Malvastrum yellow vein Lahore virus	LISTA 1			physalis	Lista 2	No esta en lista					
+Malvastrum yellow vein Yunnan virus	LISTA 1			pigeon	Lista 2	No esta en lista					
+Malvastrum yellow vein virus	LISTA 1			pilimelia	Lista 2	No esta en lista					
+Manzanilla orthobunyavirus	LISTA 1			pirellula	Lista 2	No esta en lista					
+Mapputta orthobunyavirus	LISTA 1			planctomyces	Lista 2	No esta en lista					
+Maprik orthobunyavirus	LISTA 1			planctomycetes	Lista 2	No esta en lista					
+Marburg marburgvirus	LISTA 1			planococcaceae	Lista 2	No esta en lista					
+Marinitoga hydrogenitolerans	LISTA 1			planococcus	Lista 2	No esta en lista					
+Marinitoga piezophila	LISTA 1			planococcus maritimus	Lista 2	No esta en lista					
+Marituba orthobunyavirus	LISTA 1			plesiomonas	Lista 2	No esta en lista					
+Marivirga tractuosa	LISTA 1			plesiomonas shigelloides	Lista 2	No esta en lista					
+Mastigocladopsis repens	LISTA 1			polaribacter	Lista 2	No esta en lista					
+Mastigocoleus testarum	LISTA 1			polyangium	Lista 2	No esta en lista					
+Matruh orthobunyavirus	LISTA 1			polygonum	Lista 2	No esta en lista					
+Megamonas funiformis	LISTA 1			polymorphum	Lista 2	No esta en lista					
+Megamonas hypermegale	LISTA 1			pontibacter	Lista 2	No esta en lista					
+Megamonas rupellensis	LISTA 1			populus	Lista 2	No esta en lista					
+Megasphaera cerevisiae	LISTA 1			porphyrobacter	Lista 2	No esta en lista					
+Megasphaera elsdenii	LISTA 1			porphyromonadaceae	Lista 2	No esta en lista					
+Megasphaera genomosp. type_1	LISTA 1			porphyromonas	Lista 2	No esta en lista					
+Megasphaera genomosp. type_2	LISTA 1			porphyromonas asaccharolytica	Lista 2	LISTA 1					
+Megasphaera micronuciformis	LISTA 1			porphyromonas catoniae	Lista 2	LISTA 1					
+Megasphaera paucivorans	LISTA 1			porphyromonas gingivalis	Lista 2	LISTA 1					
+Megrivirus A	LISTA 1			porphyromonas pasteri	Lista 2	No esta en lista					
+Megrivirus B	LISTA 1			porphyromonas uenonis	Lista 2	LISTA 1					
+Megrivirus D	LISTA 1			prauserella	Lista 2	No esta en lista					
+Megrivirus E	LISTA 1			prevotella	Lista 2	No esta en lista					
+Melao orthobunyavirus	LISTA 1			prevotella bivia	Lista 2	LISTA 1					
+Melegrivirus A	LISTA 1			prevotella buccae	Lista 2	LISTA 1					
+Melon chlorotic leaf curl virus	LISTA 1			prevotella buccalis	Lista 2	LISTA 1					
+Mermet orthobunyavirus	LISTA 1			prevotella copri	Lista 2	LISTA 1					
+Mesoaciditoga lauensis	LISTA 1			prevotella denticola	Lista 2	LISTA 1					
+Mesotoga prima	LISTA 1			prevotella enoeca	Lista 2	LISTA 1					
+Mesta yellow vein mosaic Bahraich virus	LISTA 1			prevotella histicola	Lista 2	LISTA 1					
+Mesta yellow vein mosaic virus	LISTA 1			prevotella intermedia	Lista 2	LISTA 1					
+Methanolinea tarda	LISTA 1			prevotella melaninogenica	Lista 2	LISTA 1					
+Methanoregula boonei	LISTA 1			prevotella multisaccharivorax	Lista 2	LISTA 1					
+Methanoregula formicica	LISTA 1			prevotella nanceiensis	Lista 2	LISTA 1					
+Methylobacterium komagatae	LISTA 1			prevotella nigrescens	Lista 2	LISTA 1					
+Methylobacterium mesophilicum	LISTA 1			prevotella oris	Lista 2	LISTA 1					
+Methylobacterium nodulans	LISTA 1			prevotella salivae	Lista 2	LISTA 1					
+Methylobacterium oryzae	LISTA 1			prevotella veroralis	Lista 2	LISTA 1					
+Methylobacterium phyllosphaerae	LISTA 1			prevotellaceae	Lista 2	No esta en lista					
+Methylobacterium platani	LISTA 1			propionibacteriaceae	Lista 2	No esta en lista					
+Methylobacterium radiotolerans	LISTA 1			propionibacterium	Lista 2	No esta en lista					
+Methylophaga aminisulfidivorans	LISTA 1			propionibacterium acidifaciens	Lista 2	No esta en lista					
+Methylophaga lonarensis	LISTA 1			propionibacterium freudenreichii	Lista 2	No esta en lista					
+Methylophaga marina	LISTA 1			propionimicrobium	Lista 2	No esta en lista					
+Methylophaga thiooxydans	LISTA 1			propionimicrobium lymphophilum	Lista 2	No esta en lista					
+Methylorubrum extorquens	LISTA 1			proteobacteria	Lista 2	No esta en lista					
+Methylorubrum populi	LISTA 1			proteus	Lista 2	No esta en lista					
+Methylorubrum rhodinum	LISTA 1			proteus mirabilis	Lista 2	No esta en lista					
+Methylorubrum thiocyanatum	LISTA 1			proteus penneri	Lista 2	No esta en lista					
+Microbispora rosea	LISTA 1			proteus vulgaris	Lista 2	No esta en lista					
+Microscilla marina	LISTA 1			providencia	Lista 2	No esta en lista					
+Microvirga flocculans	LISTA 1			providencia rettgeri	Lista 2	No esta en lista					
+Microvirga zambiensis	LISTA 1			providencia stuartii	Lista 2	No esta en lista					
+Microvirgula aerodenitrificans	LISTA 1			prunus	Lista 2	No esta en lista					
+Minatitlan orthobunyavirus	LISTA 1			pseudarthrobacter	Lista 2	No esta en lista					
+Mogibacterium timidum	LISTA 1			pseudoalteromonas	Lista 2	No esta en lista					
+Mogibacterium vescum	LISTA 1			pseudoalteromonas haloplanktis	Lista 2	No esta en lista					
+Moju orthobunyavirus	LISTA 1			pseudoalteromonas piscicida	Lista 2	No esta en lista					
+Moloney murine sarcoma virus	LISTA 1			pseudobacter	Lista 2	No esta en lista					
+Morganella morganii	LISTA 1			pseudobacter ginsenosidimutans	Lista 2	No esta en lista					
+Morganella psychrotolerans	LISTA 1			pseudobutyrivibrio	Lista 2	No esta en lista					
+Mucilaginibacter paludis	LISTA 1			pseudoflavitalea	Lista 2	No esta en lista					
+Mungbean yellow mosaic India virus	LISTA 1			pseudoflavonifractor	Lista 2	No esta en lista					
+Mungbean yellow mosaic virus	LISTA 1			pseudomonadaceae	Lista 2	No esta en lista					
+Murid betaherpesvirus 1	LISTA 1			pseudomonadales	Lista 2	No esta en lista					
+Murid betaherpesvirus 2	LISTA 1			pseudomonas	Lista 2	No esta en lista					
+Murid betaherpesvirus 8	LISTA 1			pseudomonas aeruginosa	Lista 2	No esta en lista					
+Murine leukemia virus	LISTA 1			pseudomonas boreopolis	Lista 2	No esta en lista					
+Murine leukemia-related retroviruses	LISTA 1			pseudomonas brassicacearum	Lista 2	No esta en lista					
+Mycobacterium arosiense	LISTA 1			pseudomonas entomophila	Lista 2	No esta en lista					
+Mycobacterium asiaticum	LISTA 1			pseudomonas fluorescens	Lista 2	No esta en lista					
+Mycobacterium avium	LISTA 1			pseudomonas granadensis	Lista 2	No esta en lista					
+Mycobacterium bohemicum	LISTA 1			pseudomonas luteola	Lista 2	No esta en lista					
+Mycobacterium canettii	LISTA 1			pseudomonas mendocina	Lista 2	No esta en lista					
+Mycobacterium colombiense	LISTA 1			pseudomonas oryzihabitans	Lista 2	No esta en lista					
+Mycobacterium gastri	LISTA 1			pseudomonas otitidis	Lista 2	No esta en lista					
+Mycobacterium genavense	LISTA 1			pseudomonas panacis	Lista 2	No esta en lista					
+Mycobacterium haemophilum	LISTA 1			pseudomonas parafulva	Lista 2	No esta en lista					
+Mycobacterium intracellulare	LISTA 1			pseudomonas plecoglossicida	Lista 2	No esta en lista					
+Mycobacterium kansasii	LISTA 1			pseudomonas putida	Lista 2	No esta en lista					
+Mycobacterium leprae	LISTA 1			pseudomonas resinovorans	Lista 2	No esta en lista					
+Mycobacterium liflandii	LISTA 1			pseudomonas savastanoi	Lista 2	No esta en lista					
+Mycobacterium marinum	LISTA 1			pseudomonas stutzeri	Lista 2	No esta en lista					
+Mycobacterium orygis	LISTA 1			pseudomonas syringae	Lista 2	No esta en lista					
+Mycobacterium parascrofulaceum	LISTA 1			pseudonocardia	Lista 2	No esta en lista					
+Mycobacterium pseudoshottsii	LISTA 1			pseudoramibacter	Lista 2	No esta en lista					
+Mycobacterium simiae	LISTA 1			pseudovibrio	Lista 2	No esta en lista					
+Mycobacterium tuberculosis	LISTA 1			psychrobacillus	Lista 2	No esta en lista					
+Mycobacterium ulcerans	LISTA 1			psychrobacter	Lista 2	No esta en lista					
+Mycobacterium virus Apizium	LISTA 1			psychromonas	Lista 2	No esta en lista					
+Mycobacterium virus Bignuz	LISTA 1			pyramidobacter	Lista 2	No esta en lista					
+Mycobacterium virus Manad	LISTA 1			quercus	Lista 2	No esta en lista					
+Mycobacterium virus Oline	LISTA 1			rahnella	Lista 2	No esta en lista					
+Mycobacterium virus Osmaximus	LISTA 1			rahnella aquatilis	Lista 2	No esta en lista					
+Mycobacterium virus Pg1	LISTA 1			ralstonia	Lista 2	No esta en lista					
+Mycobacterium virus Soto	LISTA 1			ralstonia eutropha	Lista 2	No esta en lista					
+Mycobacterium virus Suffolk	LISTA 1			ralstonia mannitolilytica	Lista 2	No esta en lista					
+Mycobacterium virus Thibault	LISTA 1			ralstonia pickettii	Lista 2	No esta en lista					
+Mycobacterium xenopi	LISTA 1			ralstonia solanacearum	Lista 2	No esta en lista					
+Neisseria bacilliformis	LISTA 1			raoultella	Lista 2	No esta en lista					
+Neisseria cinerea	LISTA 1			raoultella ornithinolytica	Lista 2	No esta en lista					
+Neisseria elongata	LISTA 1			raoultella planticola	Lista 2	No esta en lista					
+Neisseria flavescens	LISTA 1			rheinheimera	Lista 2	No esta en lista					
+Neisseria gonorrhoeae	LISTA 1			rhizobium	Lista 2	No esta en lista					
+Neisseria lactamica	LISTA 1			rhodobacter	Lista 2	No esta en lista					
+Neisseria macacae	LISTA 1			rhodobacter sphaeroides	Lista 2	No esta en lista					
+Neisseria meningitidis	LISTA 1			rhodobacteraceae	Lista 2	No esta en lista					
+Neisseria mucosa	LISTA 1			rhodococcus	Lista 2	No esta en lista					
+Neisseria pharyngis	LISTA 1			rhodococcus equi	Lista 2	No esta en lista					
+Neisseria polysaccharea	LISTA 1			rhodopseudomonas	Lista 2	No esta en lista					
+Neisseria shayeganii	LISTA 1			rhodospirillum	Lista 2	No esta en lista					
+Neisseria sicca	LISTA 1			rhodospirillum rubrum	Lista 2	No esta en lista					
+Neisseria sp. oral taxon 014	LISTA 1			rickettsia	Lista 2	No esta en lista					
+Neisseria sp. oral taxon 020	LISTA 1			rickettsia felis	Lista 2	No esta en lista					
+Neisseria subflava	LISTA 1			rickettsia helvetica	Lista 2	No esta en lista					
+Neisseria wadsworthii	LISTA 1			rickettsia rickettsii	Lista 2	No esta en lista					
+Neisseria weaveri	LISTA 1			rikenellaceae	Lista 2	No esta en lista					
+Neodiprion lecontei nucleopolyhedrovirus	LISTA 1			robinsoniella	Lista 2	No esta en lista					
+Nonomuraea coxensis	LISTA 1			robinsoniella peoriensis	Lista 2	No esta en lista					
+Nonomuraea roseoviolacea	LISTA 1			romboutsia	Lista 2	No esta en lista					
+Novosphingobium acidiphilum	LISTA 1			roseburia	Lista 2	No esta en lista					
+Novosphingobium aromaticivorans	LISTA 1			roseburia faecis	Lista 2	No esta en lista					
+Novosphingobium barchaimii	LISTA 1			roseburia inulinivorans	Lista 2	No esta en lista					
+Novosphingobium capsulatum	LISTA 1			roseobacter	Lista 2	No esta en lista					
+Novosphingobium lentum	LISTA 1			roseomonas	Lista 2	No esta en lista					
+Novosphingobium lindaniclasticum	LISTA 1			roseomonas genomospecies	Lista 2	No esta en lista					
+Novosphingobium naphthalenivorans	LISTA 1			roseomonas gilardii	Lista 2	No esta en lista					
+Novosphingobium nitrogenifigens	LISTA 1			roseomonas mucosa	Lista 2	No esta en lista					
+Novosphingobium pentaromativorans	LISTA 1			rothia	Lista 2	No esta en lista					
+Novosphingobium rosa	LISTA 1			rothia aeria	Lista 2	LISTA 1					
+Novosphingobium subterraneum	LISTA 1			rothia dentocariosa	Lista 2	LISTA 1					
+Nyando orthobunyavirus	LISTA 1			rothia mucilaginosa	Lista 2	LISTA 1					
+Odontoglossum ringspot virus	LISTA 1			rouxiella	Lista 2	No esta en lista					
+Okra enation leaf curl virus	LISTA 1			rouxiella badensis	Lista 2	No esta en lista					
+Okra leaf curl India virus	LISTA 1			rubrobacter	Lista 2	No esta en lista					
+Okra leaf curl virus	LISTA 1			ruegeria	Lista 2	No esta en lista					
+Okra mottle virus	LISTA 1			ruminiclostridium	Lista 2	No esta en lista					
+Okra yellow crinkle virus	LISTA 1			ruminococcaceae	Lista 2	No esta en lista					
+Okra yellow mosaic Mexico virus	LISTA 1			ruminococcaceae bacterium	Lista 2	No esta en lista					
+Oligella ureolytica	LISTA 1			ruminococcus	Lista 2	No esta en lista					
+Oligella urethralis	LISTA 1			ruminococcus albus	Lista 2	LISTA 1					
+Omegapapillomavirus 1	LISTA 1			ruminococcus bromii	Lista 2	LISTA 1					
+Oriboca orthobunyavirus	LISTA 1			ruminococcus callidus	Lista 2	LISTA 1					
+Orientia chuto	LISTA 1			ruminococcus gnavus	Lista 2	No esta en lista					
+Orientia tsutsugamushi	LISTA 1			ruminococcus torques	Lista 2	No esta en lista					
+Oropouche orthobunyavirus	LISTA 1			ruthenibacterium	Lista 2	No esta en lista					
+Oyo orthobunyavirus	LISTA 1			ruthenibacterium lactatiformans	Lista 2	No esta en lista					
+Paeniglutamicibacter gangotriensis	LISTA 1			saccharopolyspora	Lista 2	No esta en lista					
+Papaya leaf crumple virus	LISTA 1			saccharothrix	Lista 2	No esta en lista					
+Papaya leaf curl China virus	LISTA 1			saccharothrix mutabilis	Lista 2	No esta en lista					
+Papaya leaf curl Guandong virus	LISTA 1			salinibacter	Lista 2	No esta en lista					
+Papaya leaf curl virus	LISTA 1			salinibacter ruber	Lista 2	No esta en lista					
+Papiine betaherpesvirus 3	LISTA 1			salmonella	Lista 2	No esta en lista					
+Paraglaciecola agarilytica	LISTA 1			salmonella enterica	Lista 2	No esta en lista					
+Paraglaciecola arctica	LISTA 1			salmonella enteritidis	Lista 2	No esta en lista					
+Paraglaciecola chathamensis	LISTA 1			salmonella paratyphi	Lista 2	No esta en lista					
+Paraglaciecola mesophila	LISTA 1			salmonella typhi	Lista 2	No esta en lista					
+Paraglaciecola polaris	LISTA 1			salmonella typhimurium	Lista 2	No esta en lista					
+Paraglaciecola psychrophila	LISTA 1			saprospiraceae	Lista 2	No esta en lista					
+Parvimonas micra	LISTA 1			sarcina	Lista 2	No esta en lista					
+Parvimonas sp. oral taxon 110	LISTA 1			scardovia	Lista 2	No esta en lista					
+Parvimonas sp. oral taxon 393	LISTA 1			schaalia	Lista 2	No esta en lista					
+Passion fruit mosaic virus	LISTA 1			schaalia meyeri	Lista 2	No esta en lista					
+Pasteurella bettyae	LISTA 1			schlegelella	Lista 2	No esta en lista					
+Pasteurella dagmatis	LISTA 1			sedimentibacter	Lista 2	No esta en lista					
+Pasteurella langaaensis	LISTA 1			sedimentibacter saalensis	Lista 2	No esta en lista					
+Pasteurella multocida	LISTA 1			sediminibacterium	Lista 2	No esta en lista					
+Pasteurella skyensis	LISTA 1			selenomonas	Lista 2	No esta en lista					
+Pasteurella testudinis	LISTA 1			selenomonas artemidis	Lista 2	LISTA 1					
+Patois orthobunyavirus	LISTA 1			selenomonas bovis	Lista 2	LISTA 1					
+Peaton orthobunyavirus	LISTA 1			selenomonas infelix	Lista 2	LISTA 1					
+Pedilanthus leaf curl virus	LISTA 1			selenomonas noxia	Lista 2	LISTA 1					
+Pegivirus A	LISTA 1			selenomonas sputigena	Lista 2	LISTA 1					
+Pegivirus B	LISTA 1			sequence has	Lista 2	No esta en lista					
+Pegivirus C	LISTA 1			serratia	Lista 2	No esta en lista					
+Pegivirus D	LISTA 1			serratia ficaria	Lista 2	No esta en lista					
+Pegivirus E	LISTA 1			serratia fonticola	Lista 2	No esta en lista					
+Pegivirus F	LISTA 1			serratia liquefaciens	Lista 2	No esta en lista					
+Pegivirus G	LISTA 1			serratia marcescens	Lista 2	No esta en lista					
+Pegivirus H	LISTA 1			serratia odorifera	Lista 2	No esta en lista					
+Pegivirus I	LISTA 1			serratia plymuthica	Lista 2	No esta en lista					
+Pegivirus J	LISTA 1			serratia rubidaea	Lista 2	No esta en lista					
+Pegivirus K	LISTA 1			sesame	Lista 2	No esta en lista					
+Pelagibacterium halotolerans	LISTA 1			setaria	Lista 2	No esta en lista					
+Pepper golden mosaic virus	LISTA 1			shewanella	Lista 2	No esta en lista					
+Pepper huasteco yellow vein virus	LISTA 1			shewanella algae	Lista 2	No esta en lista					
+Pepper leaf curl Bangladesh virus	LISTA 1			shewanella putrefaciens	Lista 2	No esta en lista					
+Pepper leaf curl Bangladesh virus-India	LISTA 1			shigella	Lista 2	No esta en lista					
+Pepper leaf curl Lahore virus	LISTA 1			shigella dysenteriae	Lista 2	LISTA 1					
+Pepper leaf curl Yunnan virus	LISTA 1			shigella flexneri	Lista 2	LISTA 1					
+Pepper leaf curl virus	LISTA 1			shigella sonnei	Lista 2	LISTA 1					
+Pepper mild mottle virus	LISTA 1			shuttleworthia	Lista 2	No esta en lista					
+Pepper yellow leaf curl Indonesia virus	LISTA 1			shuttleworthia satelles	Lista 2	No esta en lista					
+Pepper yellow leaf curl Indonesia virus 2	LISTA 1			sinobacteraceae	Lista 2	No esta en lista					
+Peptostreptococcus anaerobius	LISTA 1			siphonobacter	Lista 2	No esta en lista					
+Peptostreptococcus stomatis	LISTA 1			slackia	Lista 2	No esta en lista					
+Petrotoga halophila	LISTA 1			slackia exigua	Lista 2	No esta en lista					
+Petrotoga mexicana	LISTA 1			sneathia	Lista 2	No esta en lista					
+Petrotoga miotherma	LISTA 1			solanum	Lista 2	No esta en lista					
+Petrotoga mobilis	LISTA 1			solibacillus	Lista 2	No esta en lista					
+Petrotoga olearia	LISTA 1			solobacterium	Lista 2	No esta en lista					
+Petrotoga sibirica	LISTA 1			solobacterium moorei	Lista 2	No esta en lista					
+Phycicoccus elongatus	LISTA 1			sorangium	Lista 2	No esta en lista					
+Piliocolobus badius cytomegalovirus 1	LISTA 1			sorangium cellulosum	Lista 2	LISTA 1					
+Planomonospora parontospora	LISTA 1			soybean	Lista 2	No esta en lista					
+Porcine type-C oncovirus	LISTA 1			sphaerochaeta	Lista 2	No esta en lista					
+Porphyromonas asaccharolytica	LISTA 1			sphaerotilus	Lista 2	No esta en lista					
+Porphyromonas bennonis	LISTA 1			sphaerotilus natans	Lista 2	No esta en lista					
+Porphyromonas cangingivalis	LISTA 1			sphingobacteriales	Lista 2	No esta en lista					
+Porphyromonas catoniae	LISTA 1			sphingobacterium	Lista 2	No esta en lista					
+Porphyromonas crevioricanis	LISTA 1			sphingobacterium spiritivorum	Lista 2	LISTA 1					
+Porphyromonas endodontalis	LISTA 1			sphingobium	Lista 2	No esta en lista					
+Porphyromonas gingivalis	LISTA 1			sphingobium yanoikuyae	Lista 2	LISTA 1					
+Porphyromonas gingivicanis	LISTA 1			sphingomonadaceae	Lista 2	No esta en lista					
+Porphyromonas gulae	LISTA 1			sphingomonadales	Lista 2	No esta en lista					
+Porphyromonas levii	LISTA 1			sphingomonas	Lista 2	No esta en lista					
+Porphyromonas macacae	LISTA 1			sphingomonas paucimobilis	Lista 2	LISTA 1					
+Porphyromonas somerae	LISTA 1			spirochaetaceae	Lista 2	No esta en lista					
+Porphyromonas sp. oral taxon 278	LISTA 1			spirochaetes	Lista 2	No esta en lista					
+Porphyromonas sp. oral taxon 279	LISTA 1			spirochaetia	Lista 2	No esta en lista					
+Porphyromonas uenonis	LISTA 1			spiroplasma	Lista 2	No esta en lista					
+Potato yellow mosaic Trinidad virus	LISTA 1			spirulina	Lista 2	No esta en lista					
+Potato yellow mosaic virus	LISTA 1			sporolactobacillus	Lista 2	No esta en lista					
+Potosi orthobunyavirus	LISTA 1			sporomusa	Lista 2	No esta en lista					
+Pragia fontium	LISTA 1			sporosarcina	Lista 2	No esta en lista					
+Prevotella albensis	LISTA 1			sporosarcina pasteurii	Lista 2	No esta en lista					
+Prevotella amnii	LISTA 1			sporosarcina ureae	Lista 2	No esta en lista					
+Prevotella aurantiaca	LISTA 1			staphylococcus	Lista 2	No esta en lista					
+Prevotella baroniae	LISTA 1			staphylococcus aureus	Lista 2	No esta en lista					
+Prevotella bergensis	LISTA 1			staphylococcus capitis	Lista 2	No esta en lista					
+Prevotella bivia	LISTA 1			staphylococcus cohnii	Lista 2	No esta en lista					
+Prevotella brevis	LISTA 1			staphylococcus epidermidis	Lista 2	No esta en lista					
+Prevotella bryantii	LISTA 1			staphylococcus haemolyticus	Lista 2	No esta en lista					
+Prevotella buccae	LISTA 1			staphylococcus hominis	Lista 2	No esta en lista					
+Prevotella buccalis	LISTA 1			staphylococcus kloosii	Lista 2	No esta en lista					
+Prevotella conceptionensis	LISTA 1			staphylococcus lentus	Lista 2	No esta en lista					
+Prevotella copri	LISTA 1			staphylococcus lugdunensis	Lista 2	No esta en lista					
+Prevotella corporis	LISTA 1			staphylococcus pasteuri	Lista 2	No esta en lista					
+Prevotella dentalis	LISTA 1			staphylococcus pseudintermedius	Lista 2	No esta en lista					
+Prevotella dentasini	LISTA 1			staphylococcus saprophyticus	Lista 2	No esta en lista					
+Prevotella denticola	LISTA 1			staphylococcus schleiferi	Lista 2	No esta en lista					
+Prevotella disiens	LISTA 1			staphylococcus sciuri	Lista 2	No esta en lista					
+Prevotella enoeca	LISTA 1			staphylococcus warneri	Lista 2	No esta en lista					
+Prevotella falsenii	LISTA 1			staphylococcus xylosus	Lista 2	No esta en lista					
+Prevotella fusca	LISTA 1			stenotrophomonas	Lista 2	No esta en lista					
+Prevotella histicola	LISTA 1			stenotrophomonas maltophilia	Lista 2	No esta en lista					
+Prevotella intermedia	LISTA 1			stenotrophomonas rhizophila	Lista 2	No esta en lista					
+Prevotella loescheii	LISTA 1			strawberry	Lista 2	No esta en lista					
+Prevotella maculosa	LISTA 1			streptacidiphilus	Lista 2	No esta en lista					
+Prevotella marshii	LISTA 1			streptobacillus	Lista 2	No esta en lista					
+Prevotella melaninogenica	LISTA 1			streptobacillus moniliformis	Lista 2	No esta en lista					
+Prevotella micans	LISTA 1			streptococcus	Lista 2	No esta en lista					
+Prevotella multiformis	LISTA 1			streptococcus acidominimus	Lista 2	No esta en lista					
+Prevotella multisaccharivorax	LISTA 1			streptococcus agalactiae	Lista 2	No esta en lista					
+Prevotella nanceiensis	LISTA 1			streptococcus alactolyticus	Lista 2	No esta en lista					
+Prevotella nigrescens	LISTA 1			streptococcus anginosus	Lista 2	No esta en lista					
+Prevotella oralis	LISTA 1			streptococcus australis	Lista 2	No esta en lista					
+Prevotella oris	LISTA 1			streptococcus chosunense	Lista 2	No esta en lista					
+Prevotella oryzae	LISTA 1			streptococcus constellatus	Lista 2	No esta en lista					
+Prevotella oulorum	LISTA 1			streptococcus danieliae	Lista 2	No esta en lista					
+Prevotella pallens	LISTA 1			streptococcus equinus	Lista 2	No esta en lista					
+Prevotella paludivivens	LISTA 1			streptococcus gallolyticus	Lista 2	No esta en lista					
+Prevotella pleuritidis	LISTA 1			streptococcus gordonii	Lista 2	No esta en lista					
+Prevotella ruminicola	LISTA 1			streptococcus infantarius	Lista 2	No esta en lista					
+Prevotella saccharolytica	LISTA 1			streptococcus intermedius	Lista 2	No esta en lista					
+Prevotella salivae	LISTA 1			streptococcus lutetiensis	Lista 2	No esta en lista					
+Prevotella scopos	LISTA 1			streptococcus mitis	Lista 2	No esta en lista					
+Prevotella shahii	LISTA 1			streptococcus mutans	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 299	LISTA 1			streptococcus oralis	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 306	LISTA 1			streptococcus parasanguinis	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 313	LISTA 1			streptococcus pasteurianus	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 317	LISTA 1			streptococcus pneumoniae	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 376	LISTA 1			streptococcus pseudopneumoniae	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 472	LISTA 1			streptococcus pyogenes	Lista 2	No esta en lista					
+Prevotella sp. oral taxon 475	LISTA 1			streptococcus salivarius	Lista 2	No esta en lista					
+Prevotella stercorea	LISTA 1			streptococcus sanguinis	Lista 2	No esta en lista					
+Prevotella timonensis	LISTA 1			streptococcus sobrinus	Lista 2	No esta en lista					
+Prevotella veroralis	LISTA 1			streptococcus suis	Lista 2	No esta en lista					
+Pseudodonghicola xiamenensis	LISTA 1			streptococcus thermophilus	Lista 2	No esta en lista					
+Pseudoduganella violaceinigra	LISTA 1			streptococcus uberis	Lista 2	No esta en lista					
+Pseudoglutamicibacter albus	LISTA 1			streptococcus vestibularis	Lista 2	No esta en lista					
+Pseudoglutamicibacter cumminsii	LISTA 1			streptococcus viridans	Lista 2	No esta en lista					
+Pseudogulbenkiania ferrooxidans	LISTA 1			streptomyces	Lista 2	No esta en lista					
+Pseudogulbenkiania subflava	LISTA 1			streptomyces aegyptia	Lista 2	No esta en lista					
+Pseudothermotoga elfii	LISTA 1			streptomyces albulus	Lista 2	LISTA 1					
+Pseudothermotoga hypogea	LISTA 1			streptomyces albus	Lista 2	LISTA 1					
+Pseudothermotoga lettingae	LISTA 1			streptomyces atrovirens	Lista 2	No esta en lista					
+Pseudothermotoga subterranea	LISTA 1			streptomyces aureofaciens	Lista 2	No esta en lista					
+Pseudothermotoga thermarum	LISTA 1			streptomyces avermitilis	Lista 2	LISTA 1					
+Pseudoxanthomonas kalamensis	LISTA 1			streptomyces californicus	Lista 2	No esta en lista					
+Pseudoxanthomonas spadix	LISTA 1			streptomyces chartreusis	Lista 2	LISTA 1					
+Pseudoxanthomonas suwonensis	LISTA 1			streptomyces clavuligerus	Lista 2	No esta en lista					
+Pseudoxanthomonas taiwanensis	LISTA 1			streptomyces coelicolor	Lista 2	LISTA 1					
+Pumpkin yellow mosaic virus	LISTA 1			streptomyces coeruleorubidus	Lista 2	No esta en lista					
+Pusillimonas noertemannii	LISTA 1			streptomyces collinus	Lista 2	LISTA 1					
+Pyramidobacter piscolens	LISTA 1			streptomyces diastatochromogenes	Lista 2	LISTA 1					
+Radish leaf curl virus	LISTA 1			streptomyces fradiae	Lista 2	LISTA 1					
+Reticuloendotheliosis virus	LISTA 1			streptomyces galilaeus	Lista 2	No esta en lista					
+Rhodonellum psychrophilum	LISTA 1			streptomyces globisporus	Lista 2	LISTA 1					
+Rhynchosia golden mosaic Havana virus	LISTA 1			streptomyces gramineus	Lista 2	No esta en lista					
+Rhynchosia golden mosaic virus	LISTA 1			streptomyces griseofuscus	Lista 2	No esta en lista					
+Rhynchosia rugose golden mosaic virus	LISTA 1			streptomyces griseoincarnatus	Lista 2	No esta en lista					
+Ribgrass mosaic virus	LISTA 1			streptomyces griseus	Lista 2	LISTA 1					
+Rice tungro bacilliform virus	LISTA 1			streptomyces hygroscopicus	Lista 2	LISTA 1					
+Robiginitalea biformata	LISTA 1			streptomyces lavendulae	Lista 2	LISTA 1					
+Robiginitomaculum antarcticum	LISTA 1			streptomyces libani	Lista 2	LISTA 1					
+Roseivirga seohaensis	LISTA 1			streptomyces lividans	Lista 2	LISTA 1					
+Rosellinia necatrix megabirnavirus 1	LISTA 1			streptomyces lomondensis	Lista 2	LISTA 1					
+Rothia aeria	LISTA 1			streptomyces luteogriseus	Lista 2	No esta en lista					
+Rothia dentocariosa	LISTA 1			streptomyces malaysiensis	Lista 2	No esta en lista					
+Rothia kristinae	LISTA 1			streptomyces mobaraensis	Lista 2	LISTA 1					
+Rothia mucilaginosa	LISTA 1			streptomyces monashensis	Lista 2	No esta en lista					
+Ruegeria lacuscaerulensis	LISTA 1			streptomyces nitrosporeus	Lista 2	No esta en lista					
+Ruegeria litorea	LISTA 1			streptomyces nodosus	Lista 2	LISTA 1					
+Ruegeria mediterranea	LISTA 1			streptomyces nojiriensis	Lista 2	No esta en lista					
+Ruegeria pomeroyi	LISTA 1			streptomyces olivaceus	Lista 2	No esta en lista					
+Ruminococcus albus	LISTA 1			streptomyces paulus	Lista 2	No esta en lista					
+Ruminococcus bromii	LISTA 1			streptomyces peucetius	Lista 2	LISTA 1					
+Ruminococcus callidus	LISTA 1			streptomyces pseudovenezuelae	Lista 2	No esta en lista					
+Ruminococcus champanellensis	LISTA 1			streptomyces pulveraceus	Lista 2	No esta en lista					
+Ruminococcus flavefaciens	LISTA 1			streptomyces puniceus	Lista 2	No esta en lista					
+Ruminococcus gauvreauii	LISTA 1			streptomyces samsunensis	Lista 2	No esta en lista					
+Sabo orthobunyavirus	LISTA 1			streptomyces spectabilis	Lista 2	No esta en lista					
+Saccharophagus degradans	LISTA 1			streptomyces tanashiensis	Lista 2	LISTA 1					
+Saccharopolyspora erythraea	LISTA 1			streptomyces venezuelae	Lista 2	LISTA 1					
+Saccharopolyspora rectivirgula	LISTA 1			streptomyces violaceochromogenes	Lista 2	No esta en lista					
+Saccharopolyspora spinosa	LISTA 1			streptomyces violaceus	Lista 2	No esta en lista					
+Sagittula stellata	LISTA 1			streptomyces violascens	Lista 2	No esta en lista					
+Salipiger bermudensis	LISTA 1			streptomyces xinghaiensis	Lista 2	LISTA 1					
+Salipiger mucosus	LISTA 1			streptomycetaceae	Lista 2	No esta en lista					
+Salipiger thiooxidans	LISTA 1			streptosporangium	Lista 2	No esta en lista					
+Salsuginibacillus kocurii	LISTA 1			streptosporangium violaceochromogenes	Lista 2	No esta en lista					
+San Angelo orthobunyavirus	LISTA 1			subdoligranulum	Lista 2	No esta en lista					
+Sango orthobunyavirus	LISTA 1			succinatimonas	Lista 2	No esta en lista					
+Sanguibacter hominis	LISTA 1			succinivibrio	Lista 2	No esta en lista					
+Sanguibacter keddieii	LISTA 1			sulfuricurvum	Lista 2	No esta en lista					
+Sanguibacter suarezii	LISTA 1			sulfurimonas	Lista 2	No esta en lista					
+Schmallenberg orthobunyavirus	LISTA 1			sulfurospirillum	Lista 2	No esta en lista					
+Sediminibacterium salmoneum	LISTA 1			sutterella	Lista 2	No esta en lista					
+Sedlec orthobunyavirus	LISTA 1			sutterella wadsworthensis	Lista 2	No esta en lista					
+Segetibacter koreensis	LISTA 1			sweet potato	Lista 2	No esta en lista					
+Segniliparus rotundus	LISTA 1			syncytium	Lista 2	No esta en lista					
+Segniliparus rugosus	LISTA 1			synechococcus	Lista 2	No esta en lista					
+Selenomonas artemidis	LISTA 1			synechococcus elongatus	Lista 2	No esta en lista					
+Selenomonas bovis	LISTA 1			synechocystis	Lista 2	No esta en lista					
+Selenomonas dianae	LISTA 1			synergistetes	Lista 2	No esta en lista					
+Selenomonas flueggei	LISTA 1			tagetes	Lista 2	No esta en lista					
+Selenomonas infelix	LISTA 1			tagetes erecta	Lista 2	No esta en lista					
+Selenomonas noxia	LISTA 1			tanzanian	Lista 2	No esta en lista					
+Selenomonas ruminantium	LISTA 1			tateyamaria	Lista 2	No esta en lista					
+Selenomonas sp. oral taxon 137	LISTA 1			tenericutes	Lista 2	No esta en lista					
+Selenomonas sp. oral taxon 138	LISTA 1			tepidimonas	Lista 2	No esta en lista					
+Selenomonas sp. oral taxon 149	LISTA 1			tepidimonas ignava	Lista 2	No esta en lista					
+Selenomonas sp. oral taxon 892	LISTA 1			terribacillus	Lista 2	No esta en lista					
+Selenomonas sputigena	LISTA 1			tetragenococcus	Lista 2	No esta en lista					
+Senegalimassilia anaerobia	LISTA 1			thauera	Lista 2	No esta en lista					
+Serinicoccus marinus	LISTA 1			thermoanaerobacter	Lista 2	No esta en lista					
+Serinicoccus profundi	LISTA 1			thermophilic	Lista 2	No esta en lista					
+Serra do Navio orthobunyavirus	LISTA 1			thermophilic bacterium	Lista 2	No esta en lista					
+Shark River orthobunyavirus	LISTA 1			thermus	Lista 2	No esta en lista					
+Shigella boydii	LISTA 1			thermus thermophilus	Lista 2	No esta en lista					
+Shigella dysenteriae	LISTA 1			thiobacillus	Lista 2	No esta en lista					
+Shigella flexneri	LISTA 1			tissierella	Lista 2	No esta en lista					
+Shigella genomosp. SF-2015	LISTA 1			tissierella praeacuta	Lista 2	No esta en lista					
+Shigella sonnei	LISTA 1			tls	Lista 2	No esta en lista					
+Shuni orthobunyavirus	LISTA 1			treponema	Lista 2	No esta en lista					
+Siansivirga zeaxanthinifaciens	LISTA 1			treponema denticola	Lista 2	No esta en lista					
+Sida golden buckup virus	LISTA 1			treponema pallidum	Lista 2	No esta en lista					
+Sida golden mosaic Braco virus	LISTA 1			trichococcus	Lista 2	No esta en lista					
+Sida golden mosaic Buckup virus	LISTA 1			trifolium	Lista 2	No esta en lista					
+Sida golden mosaic Florida virus	LISTA 1			trueperella	Lista 2	No esta en lista					
+Sida golden mosaic Liguanea virus	LISTA 1			tsukamurella	Lista 2	No esta en lista					
+Sida golden mosaic virus	LISTA 1			tsukamurella pulmonis	Lista 2	No esta en lista					
+Sida golden yellow vein virus	LISTA 1			tsukamurella tyrosinosolvens	Lista 2	No esta en lista					
+Sida micrantha mosaic virus	LISTA 1			turicibacter	Lista 2	No esta en lista					
+Sida mottle virus	LISTA 1			ulmus	Lista 2	No esta en lista					
+Sida yellow mosaic China virus	LISTA 1			umezawaea	Lista 2	No esta en lista					
+Sida yellow mosaic virus	LISTA 1			ureaplasma	Lista 2	No esta en lista					
+Sida yellow mottle virus	LISTA 1			ureaplasma parvum	Lista 2	No esta en lista					
+Sida yellow vein virus	LISTA 1			ureaplasma urealyticum	Lista 2	No esta en lista					
+Siegesbeckia yellow vein virus	LISTA 1			vagococcus	Lista 2	No esta en lista					
+Singulisphaera acidiphila	LISTA 1			vallitalea	Lista 2	No esta en lista					
+Smaragdicoccus niigatensis	LISTA 1			vallitalea guaymasensis	Lista 2	No esta en lista					
+Snodgrassella alvi	LISTA 1			variovorax	Lista 2	No esta en lista					
+Snowshoe hare orthobunyavirus	LISTA 1			variovorax paradoxus	Lista 2	No esta en lista					
+Sorangium cellulosum	LISTA 1			veillonella	Lista 2	No esta en lista					
+Sororoca orthobunyavirus	LISTA 1			veillonella atypica	Lista 2	LISTA 1					
+South African cassava mosaic virus	LISTA 1			veillonella dispar	Lista 2	LISTA 1					
+Soybean crinkle leaf virus	LISTA 1			veillonella parvula	Lista 2	LISTA 1					
+Species	LISTA 1			veillonellaceae	Lista 2	No esta en lista					
+Sphingobacterium faecium	LISTA 1			verrucomicrobia	Lista 2	No esta en lista					
+Sphingobacterium mizutaii	LISTA 1			verrucomicrobiaceae	Lista 2	No esta en lista					
+Sphingobacterium multivorum	LISTA 1			verrucomicrobiales	Lista 2	No esta en lista					
+Sphingobacterium paucimobilis	LISTA 1			verrucosispora	Lista 2	No esta en lista					
+Sphingobacterium spiritivorum	LISTA 1			vibrio	Lista 2	No esta en lista					
+Sphingobacterium thalpophilum	LISTA 1			vibrio alginolyticus	Lista 2	No esta en lista					
+Sphingobium abikonense	LISTA 1			vibrio anguillarum	Lista 2	No esta en lista					
+Sphingobium amiense	LISTA 1			vibrio cholerae	Lista 2	No esta en lista					
+Sphingobium baderi	LISTA 1			vibrio fischeri	Lista 2	No esta en lista					
+Sphingobium chlorophenolicum	LISTA 1			vibrio fluvialis	Lista 2	No esta en lista					
+Sphingobium cloacae	LISTA 1			vibrio harveyi	Lista 2	No esta en lista					
+Sphingobium cupriresistens	LISTA 1			vibrio metschnikovii	Lista 2	No esta en lista					
+Sphingobium fuliginis	LISTA 1			vibrio parahaemolyticus	Lista 2	No esta en lista					
+Sphingobium herbicidovorans	LISTA 1			vibrio vulnificus	Lista 2	No esta en lista					
+Sphingobium indicum	LISTA 1			vibrionaceae	Lista 2	No esta en lista					
+Sphingobium lactosutens	LISTA 1			victivallis	Lista 2	No esta en lista					
+Sphingobium quisquiliarum	LISTA 1			virgibacillus	Lista 2	No esta en lista					
+Sphingobium ummariense	LISTA 1			vitex	Lista 2	No esta en lista					
+Sphingobium xenophagum	LISTA 1			vitex negundo	Lista 2	No esta en lista					
+Sphingobium yanoikuyae	LISTA 1			vitiosangium	Lista 2	No esta en lista					
+Sphingomonas adhaesiva	LISTA 1			vitiosangium cumulatum	Lista 2	No esta en lista					
+Sphingomonas aestuarii	LISTA 1			vitis	Lista 2	No esta en lista					
+Sphingomonas aquatilis	LISTA 1			vk	Lista 2	No esta en lista					
+Sphingomonas asaccharolytica	LISTA 1			vogesella	Lista 2	No esta en lista					
+Sphingomonas astaxanthinifaciens	LISTA 1			weissella	Lista 2	No esta en lista					
+Sphingomonas azotifigens	LISTA 1			weissella cibaria	Lista 2	No esta en lista					
+Sphingomonas changbaiensis	LISTA 1			weissella confusa	Lista 2	No esta en lista					
+Sphingomonas echinoides	LISTA 1			wheat	Lista 2	No esta en lista					
+Sphingomonas elodea	LISTA 1			wohlfahrtiimonas	Lista 2	No esta en lista					
+Sphingomonas jaspsi	LISTA 1			wohlfahrtiimonas chitiniclastica	Lista 2	No esta en lista					
+Sphingomonas koreensis	LISTA 1			wolbachia	Lista 2	No esta en lista					
+Sphingomonas mali	LISTA 1			wolbachia endosymbiont	Lista 2	No esta en lista					
+Sphingomonas melonis	LISTA 1			xanthomonas	Lista 2	No esta en lista					
+Sphingomonas parapaucimobilis	LISTA 1			xanthomonas albilineans	Lista 2	No esta en lista					
+Sphingomonas paucimobilis	LISTA 1			xanthomonas retroflexus	Lista 2	No esta en lista					
+Sphingomonas phyllosphaerae	LISTA 1			xenophilus	Lista 2	No esta en lista					
+Sphingomonas pituitosa	LISTA 1			xenorhabdus	Lista 2	No esta en lista					
+Sphingomonas pruni	LISTA 1			xylella	Lista 2	No esta en lista					
+Sphingomonas sanguinis	LISTA 1			xylella fastidiosa	Lista 2	No esta en lista					
+Sphingomonas sanxanigenens	LISTA 1			yersinia	Lista 2	No esta en lista					
+Sphingomonas soli	LISTA 1			yersinia enterocolitica	Lista 2	No esta en lista					
+Sphingomonas trueperi	LISTA 1			yersinia kristensenii	Lista 2	No esta en lista					
+Sphingomonas wittichii	LISTA 1			yersinia pestis	Lista 2	No esta en lista					
+Sphingopyxis alaskensis	LISTA 1			yersinia pseudotuberculosis	Lista 2	No esta en lista					
+Sphingopyxis granuli	LISTA 1			ziziphus	Lista 2	No esta en lista					
+Sphingopyxis macrogoltabida	LISTA 1			ziziphus jujuba	Lista 2	No esta en lista					
+Sphingopyxis terrae	LISTA 1			zooshikella	Lista 2	No esta en lista					
+Spinach yellow vein virus	LISTA 1										
+Spirosoma linguale	LISTA 1										
+Spirosoma luteum	LISTA 1										
+Spirosoma panaciterrae	LISTA 1										
+Spirosoma spitsbergense	LISTA 1										
+Spleen focus-forming virus	LISTA 1										
+Spongiibacter marinus	LISTA 1										
+Spongiibacter tropicus	LISTA 1										
+Sporocytophaga myxococcoides	LISTA 1										
+Squash leaf curl China virus	LISTA 1										
+Squash leaf curl virus	LISTA 1										
+Squash mild leaf curl virus	LISTA 1										
+Sri Lankan cassava mosaic virus	LISTA 1										
+Stachytarpheta leaf curl virus	LISTA 1										
+Stigmatella aurantiaca	LISTA 1										
+Streptomyces achromogenes	LISTA 1										
+Streptomyces acidiscabies	LISTA 1										
+Streptomyces afghaniensis	LISTA 1										
+Streptomyces ahygroscopicus	LISTA 1										
+Streptomyces albofaciens	LISTA 1										
+Streptomyces albogriseolus	LISTA 1										
+Streptomyces albosporeus	LISTA 1										
+Streptomyces albulus	LISTA 1										
+Streptomyces albus	LISTA 1										
+Streptomyces ambofaciens	LISTA 1										
+Streptomyces anandii	LISTA 1										
+Streptomyces ansochromogenes	LISTA 1										
+Streptomyces antibioticus	LISTA 1										
+Streptomyces anulatus	LISTA 1										
+Streptomyces argenteolus	LISTA 1										
+Streptomyces aurantiacus	LISTA 1										
+Streptomyces auratus	LISTA 1										
+Streptomyces aureus	LISTA 1										
+Streptomyces avermitilis	LISTA 1										
+Streptomyces bellus	LISTA 1										
+Streptomyces bingchenggensis	LISTA 1										
+Streptomyces bottropensis	LISTA 1										
+Streptomyces cacaoi	LISTA 1										
+Streptomyces canus	LISTA 1										
+Streptomyces carzinostaticus	LISTA 1										
+Streptomyces cattleya	LISTA 1										
+Streptomyces cavourensis	LISTA 1										
+Streptomyces chartreusis	LISTA 1										
+Streptomyces chrestomyceticus	LISTA 1										
+Streptomyces cinereoruber	LISTA 1										
+Streptomyces cinnamoneus	LISTA 1										
+Streptomyces coelicoflavus	LISTA 1										
+Streptomyces coelicolor	LISTA 1										
+Streptomyces collinus	LISTA 1										
+Streptomyces cyaneogriseus	LISTA 1										
+Streptomyces cyanoglomerus	LISTA 1										
+Streptomyces davaonensis	LISTA 1										
+Streptomyces diastaticus	LISTA 1										
+Streptomyces diastatochromogenes	LISTA 1										
+Streptomyces drozdowiczii	LISTA 1										
+Streptomyces exfoliatus	LISTA 1										
+Streptomyces filamentosus	LISTA 1										
+Streptomyces flavidovirens	LISTA 1										
+Streptomyces flavotricini	LISTA 1										
+Streptomyces fradiae	LISTA 1										
+Streptomyces fulvissimus	LISTA 1										
+Streptomyces galbus	LISTA 1										
+Streptomyces gancidicus	LISTA 1										
+Streptomyces globisporus	LISTA 1										
+Streptomyces griseoaurantiacus	LISTA 1										
+Streptomyces griseochromogenes	LISTA 1										
+Streptomyces griseoflavus	LISTA 1										
+Streptomyces griseovariabilis	LISTA 1										
+Streptomyces griseus	LISTA 1										
+Streptomyces halstedii	LISTA 1										
+Streptomyces himalayensis	LISTA 1										
+Streptomyces himastatinicus	LISTA 1										
+Streptomyces humidus	LISTA 1										
+Streptomyces hygroscopicus	LISTA 1										
+Streptomyces hygrospinosus	LISTA 1										
+Streptomyces ipomoeae	LISTA 1										
+Streptomyces lavendulae	LISTA 1										
+Streptomyces libani	LISTA 1										
+Streptomyces lividans	LISTA 1										
+Streptomyces lomondensis	LISTA 1										
+Streptomyces lucensis	LISTA 1										
+Streptomyces lusitanus	LISTA 1										
+Streptomyces lydicus	LISTA 1										
+Streptomyces lysosuperificus	LISTA 1										
+Streptomyces malachiticus	LISTA 1										
+Streptomyces mexicanus	LISTA 1										
+Streptomyces mirabilis	LISTA 1										
+Streptomyces misionensis	LISTA 1										
+Streptomyces mobaraensis	LISTA 1										
+Streptomyces mutabilis	LISTA 1										
+Streptomyces naganishii	LISTA 1										
+Streptomyces natalensis	LISTA 1										
+Streptomyces niveus	LISTA 1										
+Streptomyces nodosus	LISTA 1										
+Streptomyces noursei	LISTA 1										
+Streptomyces olivoreticuli	LISTA 1										
+Streptomyces paraguayensis	LISTA 1										
+Streptomyces parvulus	LISTA 1										
+Streptomyces pentaticus	LISTA 1										
+Streptomyces peucetius	LISTA 1										
+Streptomyces phaeofaciens	LISTA 1										
+Streptomyces phaeoverticillatus	LISTA 1										
+Streptomyces pharetrae	LISTA 1										
+Streptomyces platensis	LISTA 1										
+Streptomyces polyantibioticus	LISTA 1										
+Streptomyces polychromogenes	LISTA 1										
+Streptomyces pratensis	LISTA 1										
+Streptomyces pristinaespiralis	LISTA 1										
+Streptomyces prunicolor	LISTA 1										
+Streptomyces pseudogriseolus	LISTA 1										
+Streptomyces purpureofuscus	LISTA 1										
+Streptomyces purpureus	LISTA 1										
+Streptomyces rapamycinicus	LISTA 1										
+Streptomyces refuineus	LISTA 1										
+Streptomyces rimosus	LISTA 1										
+Streptomyces rochei	LISTA 1										
+Streptomyces rosa	LISTA 1										
+Streptomyces roseochromogenus	LISTA 1										
+Streptomyces roseoverticillatus	LISTA 1										
+Streptomyces rubellomurinus	LISTA 1										
+Streptomyces rubrocyanodiastaticus	LISTA 1										
+Streptomyces scabiei	LISTA 1										
+Streptomyces scopuliridis	LISTA 1										
+Streptomyces somaliensis	LISTA 1										
+Streptomyces sp. No.67	LISTA 1										
+Streptomyces sparsogenes	LISTA 1										
+Streptomyces sudanensis	LISTA 1										
+Streptomyces sulphureus	LISTA 1										
+Streptomyces sviceus	LISTA 1										
+Streptomyces tanashiensis	LISTA 1										
+Streptomyces thermolilacinus	LISTA 1										
+Streptomyces thermoluteus	LISTA 1										
+Streptomyces thermoviolaceus	LISTA 1										
+Streptomyces tsukubensis	LISTA 1										
+Streptomyces turgidiscabies	LISTA 1										
+Streptomyces variabilis	LISTA 1										
+Streptomyces venezuelae	LISTA 1										
+Streptomyces violaceusniger	LISTA 1										
+Streptomyces viridochromogenes	LISTA 1										
+Streptomyces viridosporus	LISTA 1										
+Streptomyces vitaminophilus	LISTA 1										
+Streptomyces xiamenensis	LISTA 1										
+Streptomyces xinghaiensis	LISTA 1										
+Streptomyces yeochonensis	LISTA 1										
+Streptomyces zinciresistens	LISTA 1										
+Streptosporangium amethystogenes	LISTA 1										
+Streptosporangium roseum	LISTA 1										
+Streptoverticillium reticulum	LISTA 1										
+Streptoverticillium verticillium	LISTA 1										
+Subdoligranulum variabile	LISTA 1										
+Sulfurihydrogenibium azorense	LISTA 1										
+Sulfurihydrogenibium subterraneum	LISTA 1										
+Sulfurihydrogenibium yellowstonense	LISTA 1										
+Sunn hemp leaf distortion virus	LISTA 1										
+Sweet potato leaf curl Bengal virus	LISTA 1										
+Sweet potato leaf curl China Sichuan virus	LISTA 1										
+Sweet potato leaf curl China virus	LISTA 1										
+Sweet potato leaf curl Georgia virus	LISTA 1										
+Sweet potato leaf curl Henan virus	LISTA 1										
+Sweet potato leaf curl Sao Paulo virus	LISTA 1										
+Sweet potato leaf curl Uganda virus	LISTA 1										
+Sweet potato leaf curl virus	LISTA 1										
+Sweet potato mosaic virus	LISTA 1										
+Tahyna orthobunyavirus	LISTA 1										
+Tataguine orthobunyavirus	LISTA 1										
+Taylorella asinigenitalis	LISTA 1										
+Taylorella equigenitalis	LISTA 1										
+Tensaw orthobunyavirus	LISTA 1										
+Terriglobus roseus	LISTA 1										
+Terriglobus saanensis	LISTA 1										
+Terrimonas ferruginea	LISTA 1										
+Tete orthobunyavirus	LISTA 1										
+Tetragenococcus halophilus	LISTA 1										
+Tetragenococcus muriaticus	LISTA 1										
+Tetragenococcus solitarius	LISTA 1										
+Tetrasphaera australiensis	LISTA 1										
+Tetrasphaera japonica	LISTA 1										
+Tetrasphaera jenkinsii	LISTA 1										
+Thermoanaerobacter brockii	LISTA 1										
+Thermoanaerobacter ethanolicus	LISTA 1										
+Thermoanaerobacter indiensis	LISTA 1										
+Thermoanaerobacter italicus	LISTA 1										
+Thermoanaerobacter mathranii	LISTA 1										
+Thermoanaerobacter pseudethanolicus	LISTA 1										
+Thermoanaerobacter siderophilus	LISTA 1										
+Thermoanaerobacter thermocopriae	LISTA 1										
+Thermoanaerobacter thermohydrosulfuricus	LISTA 1										
+Thermoanaerobacter uzonensis	LISTA 1										
+Thermoanaerobacter wiegelii	LISTA 1										
+Thermogladius calderae	LISTA 1										
+Thermotoga caldifontis	LISTA 1										
+Thermotoga maritima	LISTA 1										
+Thermotoga naphthophila	LISTA 1										
+Thermotoga neapolitana	LISTA 1										
+Thermotoga petrophila	LISTA 1										
+Thermotoga profunda	LISTA 1										
+Thermotoga sp. RQ7	LISTA 1										
+Thermovirga lienii	LISTA 1										
+Timboteua orthobunyavirus	LISTA 1										
+Tobacco apical stunt virus	LISTA 1										
+Tobacco curly shoot virus	LISTA 1										
+Tobacco curly top virus	LISTA 1										
+Tobacco leaf curl Cuba virus	LISTA 1										
+Tobacco leaf curl Japan virus	LISTA 1										
+Tobacco leaf curl Kochi virus	LISTA 1										
+Tobacco leaf curl Philippines virus	LISTA 1										
+Tobacco leaf curl Yunnan virus	LISTA 1										
+Tobacco mosaic virus	LISTA 1										
+Tobacco yellow crinkle virus	LISTA 1										
+Tomato brown rugose fruit virus	LISTA 1										
+Tomato chino La Paz virus	LISTA 1										
+Tomato chlorotic leaf distortion virus	LISTA 1										
+Tomato chlorotic mottle virus	LISTA 1										
+Tomato curly stunt virus	LISTA 1										
+Tomato golden mosaic virus	LISTA 1										
+Tomato golden mottle virus	LISTA 1										
+Tomato leaf curl Bangalore virus	LISTA 1										
+Tomato leaf curl Bangladesh virus	LISTA 1										
+Tomato leaf curl Cameroon virus	LISTA 1										
+Tomato leaf curl China virus	LISTA 1										
+Tomato leaf curl Ghana virus	LISTA 1										
+Tomato leaf curl Gujarat virus	LISTA 1										
+Tomato leaf curl Hainan virus	LISTA 1										
+Tomato leaf curl Hsinchu virus	LISTA 1										
+Tomato leaf curl Japan virus	LISTA 1										
+Tomato leaf curl Java virus	LISTA 1										
+Tomato leaf curl Joydebpur virus	LISTA 1										
+Tomato leaf curl Joydebpur virus-India	LISTA 1										
+Tomato leaf curl Karnataka virus	LISTA 1										
+Tomato leaf curl Kumasi virus	LISTA 1										
+Tomato leaf curl Laos virus	LISTA 1										
+Tomato leaf curl Madagascar virus	LISTA 1										
+Tomato leaf curl New Delhi virus	LISTA 1										
+Tomato leaf curl Nigeria virus	LISTA 1										
+Tomato leaf curl Oman virus	LISTA 1										
+Tomato leaf curl Pakistan virus	LISTA 1										
+Tomato leaf curl Palampur virus	LISTA 1										
+Tomato leaf curl Patna virus	LISTA 1										
+Tomato leaf curl Philippines virus	LISTA 1										
+Tomato leaf curl Pune virus	LISTA 1										
+Tomato leaf curl Rajasthan virus	LISTA 1										
+Tomato leaf curl Sudan virus	LISTA 1										
+Tomato leaf curl Taiwan virus	LISTA 1										
+Tomato leaf curl Togo virus	LISTA 1										
+Tomato leaf curl Uganda virus	LISTA 1										
+Tomato leaf curl virus	LISTA 1										
+Tomato mild yellow leaf curl Aragua virus	LISTA 1										
+Tomato mosaic Havana virus	LISTA 1										
+Tomato mosaic virus	LISTA 1										
+Tomato mottle leaf curl virus	LISTA 1										
+Tomato mottle virus	LISTA 1										
+Tomato rugose mosaic virus	LISTA 1										
+Tomato severe leaf curl virus	LISTA 1										
+Tomato wrinkled mosaic virus	LISTA 1										
+Tomato yellow leaf curl Axarquia virus	LISTA 1										
+Tomato yellow leaf curl China virus	LISTA 1										
+Tomato yellow leaf curl Indonesia virus	LISTA 1										
+Tomato yellow leaf curl Kanchanaburi virus	LISTA 1										
+Tomato yellow leaf curl Mali virus	LISTA 1										
+Tomato yellow leaf curl Sardinia virus	LISTA 1										
+Tomato yellow leaf curl Shuangbai virus	LISTA 1										
+Tomato yellow leaf curl Thailand virus	LISTA 1										
+Tomato yellow leaf curl virus	LISTA 1										
+Tomato yellow leaf distortion virus	LISTA 1										
+Torque teno midi virus 1	LISTA 1										
+Triniti orthobunyavirus	LISTA 1										
+Trivittatus orthobunyavirus	LISTA 1										
+Turlock orthobunyavirus	LISTA 1										
+Uliginosibacterium gangwonense	LISTA 1										
+Utinga orthobunyavirus	LISTA 1										
+Vagococcus fluvialis	LISTA 1										
+Vagococcus lutrae	LISTA 1										
+Veillonella atypica	LISTA 1										
+Veillonella denticariosi	LISTA 1										
+Veillonella dispar	LISTA 1										
+Veillonella magna	LISTA 1										
+Veillonella montpellierensis	LISTA 1										
+Veillonella parvula	LISTA 1										
+Veillonella rogosae	LISTA 1										
+Veillonella seminalis	LISTA 1										
+Veillonella sp. oral taxon 158	LISTA 1										
+Veillonella sp. oral taxon 780	LISTA 1										
+Virgibacillus halodenitrificans	LISTA 1										
+Watermelon chlorotic stunt virus	LISTA 1										
+Wigglesworthia glossinidia	LISTA 1										
+Winogradskyella lutea	LISTA 1										
+Winogradskyella psychrotolerans	LISTA 1										
+Wissadula golden mosaic virus	LISTA 1										
+Withania mosaic India virus	LISTA 1										
+Witwatersrand orthobunyavirus	LISTA 1										
+Wolkberg orthobunyavirus	LISTA 1										
+Wyeomyia orthobunyavirus	LISTA 1										
+Youcai mosaic virus	LISTA 1										
+Youngiibacter fragilis	LISTA 1										
+Zegla orthobunyavirus	LISTA 1										
+Zunongwangia atlantica	LISTA 1										
+Zunongwangia profunda	LISTA 1										
+[Brevibacterium] flavum	LISTA 1										

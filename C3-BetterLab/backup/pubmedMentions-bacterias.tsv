@@ -1,0 +1,1413 @@
+internalId	Name	Mentions
+bacteria-9939	helicobacter	2981
+bacteria-875	helicobacter pylori	2710
+bacteria-4006	escherichia	1156
+bacteria-9810	escherichia coli	1070
+bacteria-8844	staphylococcus	1018
+bacteria-10263	streptococcus	858
+bacteria-1703	lactobacillus	780
+bacteria-1641	clostridium	778
+bacteria-10364	pseudomonas	720
+bacteria-2180	staphylococcus aureus	663
+bacteria-9328	bacteroides	604
+bacteria-1259	salmonella	505
+bacteria-8975	bacillus	489
+bacteria-4149	fusobacterium	489
+bacteria-2768	pseudomonas aeruginosa	487
+bacteria-10250	candidate	475
+bacteria-11202	enterococcus	445
+bacteria-8990	alpha	433
+bacteria-10659	klebsiella	402
+bacteria-6096	bifidobacterium	396
+bacteria-10030	firmicutes	386
+bacteria-9293	mycobacterium	348
+bacteria-4383	prevotella	339
+bacteria-7343	bacteroidetes	330
+bacteria-5558	enterobacteriaceae	319
+bacteria-6280	fusobacterium nucleatum	287
+bacteria-10671	bacilli	279
+bacteria-11539	proteobacteria	265
+bacteria-60	corynebacterium	244
+bacteria-10912	clostridium difficile	232
+bacteria-1722	klebsiella pneumoniae	217
+bacteria-4264	streptomyces	215
+bacteria-6061	mycoplasma	211
+bacteria-3301	salmonella typhimurium	194
+bacteria-1802	acinetobacter	193
+bacteria-6439	bacteroides fragilis	187
+bacteria-3377	porphyromonas	187
+bacteria-10996	actinobacteria	164
+bacteria-7442	listeria	159
+bacteria-6818	akkermansia	158
+bacteria-2316	chlamydia	158
+bacteria-12484	enterobacter	153
+bacteria-4341	faecalibacterium	153
+bacteria-4631	enterococcus faecalis	146
+bacteria-2992	mycobacterium tuberculosis	140
+bacteria-5731	neisseria	135
+bacteria-12725	gamma	134
+bacteria-5837	staphylococcus epidermidis	130
+bacteria-735	lachnospiraceae	127
+bacteria-5527	listeria monocytogenes	126
+bacteria-3423	enterococcus faecium	124
+bacteria-3641	haemophilus	121
+bacteria-9509	fusobacteria	120
+bacteria-660	clostridia	119
+bacteria-10856	campylobacter	116
+bacteria-688	veillonella	113
+bacteria-5218	porphyromonas gingivalis	107
+bacteria-7060	actinomyces	106
+bacteria-2953	bacillus subtilis	101
+bacteria-9507	ruminococcus	101
+bacteria-11956	serratia	100
+bacteria-9646	peptostreptococcus	98
+bacteria-12357	propionibacterium	96
+bacteria-11488	proteus	95
+bacteria-4098	filamentous	93
+bacteria-9307	ruminococcaceae	88
+bacteria-7043	chlamydia trachomatis	87
+bacteria-712	streptococcus pneumoniae	87
+bacteria-4306	eubacterium	86
+bacteria-4468	citrobacter	80
+bacteria-5894	stenotrophomonas	80
+bacteria-6605	akkermansia muciniphila	75
+bacteria-11826	roseburia	73
+bacteria-3263	salmonella enterica	72
+bacteria-1980	nocardia	70
+bacteria-11625	faecalibacterium prausnitzii	69
+bacteria-11462	clostridiales	67
+bacteria-585	lactobacillus casei	65
+bacteria-9446	blautia	64
+bacteria-8516	gardnerella	63
+bacteria-4898	stenotrophomonas maltophilia	63
+bacteria-9179	acinetobacter baumannii	62
+bacteria-6766	clostridium perfringens	62
+bacteria-8864	enterobacter cloacae	60
+bacteria-11965	lactobacillus acidophilus	60
+bacteria-10722	haemophilus influenzae	59
+bacteria-12418	clostridioides	57
+bacteria-1800	desulfovibrio	57
+bacteria-2400	lactobacillus rhamnosus	57
+bacteria-3920	parabacteroides	57
+bacteria-5561	streptococcus mutans	57
+bacteria-1351	bifidobacterium longum	56
+bacteria-10468	serratia marcescens	56
+bacteria-3980	clostridioides difficile	55
+bacteria-11299	shigella	55
+bacteria-5478	rothia	53
+bacteria-5172	vibrio	53
+bacteria-7619	endophytic	52
+bacteria-4819	parvimonas	52
+bacteria-1914	treponema	51
+bacteria-8819	lactobacillus plantarum	50
+bacteria-566	bacillus cereus	49
+bacteria-1677	micrococcus	49
+bacteria-2173	alistipes	48
+bacteria-8530	streptococcus mitis	48
+bacteria-2331	streptococcus gallolyticus	45
+bacteria-10025	atopobium	44
+bacteria-6002	capnocytophaga	44
+bacteria-5654	cyanobacteria	44
+bacteria-9052	lactococcus	44
+bacteria-2854	aeromonas	43
+bacteria-4762	glycine	43
+bacteria-3029	leptotrichia	42
+bacteria-2902	borrelia	41
+bacteria-9318	gardnerella vaginalis	41
+bacteria-431	streptococcus pyogenes	41
+bacteria-2368	megasphaera	40
+bacteria-6177	verrucomicrobia	40
+bacteria-4344	dialister	38
+bacteria-4878	agrobacterium	35
+bacteria-8620	chlamydia psittaci	35
+bacteria-905	clostridium septicum	35
+bacteria-8788	moraxella	35
+bacteria-2707	proteus mirabilis	35
+bacteria-310	aggregatibacter	34
+bacteria-5039	citrobacter rodentium	34
+bacteria-11420	lactobacillus reuteri	34
+bacteria-5678	brucella	33
+bacteria-1449	gemella	33
+bacteria-7864	bacteroidaceae	32
+bacteria-6047	legionella	32
+bacteria-9206	salmonella typhi	32
+bacteria-3830	granulicatella	31
+bacteria-6699	soybean	31
+bacteria-4759	wheat	31
+bacteria-7629	yersinia	31
+bacteria-8898	alloprevotella	30
+bacteria-11732	campylobacter jejuni	30
+bacteria-5429	lactobacillus crispatus	30
+bacteria-3354	burkholderia	29
+bacteria-11677	clostridium butyricum	29
+bacteria-10133	coprococcus	29
+bacteria-7391	neisseria gonorrhoeae	28
+bacteria-6203	sneathia	28
+bacteria-4069	streptococcus anginosus	28
+bacteria-7297	bifidobacterium bifidum	27
+bacteria-2874	bifidobacterium breve	27
+bacteria-1292	borrelia burgdorferi	27
+bacteria-4650	chlamydia pneumoniae	27
+bacteria-10227	gammaproteobacteria	27
+bacteria-7918	mycobacterium avium	27
+bacteria-12185	mycoplasma hominis	27
+bacteria-9799	bartonella	26
+bacteria-12402	klebsiella oxytoca	26
+bacteria-10222	lactobacillaceae	26
+bacteria-1633	prevotella intermedia	26
+bacteria-8645	pasteurella	25
+bacteria-143	prevotellaceae	25
+bacteria-6825	ureaplasma	25
+bacteria-8301	bacteroidales	24
+bacteria-11698	collinsella	24
+bacteria-961	odoribacter	24
+bacteria-5252	selenomonas	24
+bacteria-9983	sphingomonas	24
+bacteria-5641	bilophila	23
+bacteria-3818	clostridiaceae	22
+bacteria-4968	dorea	22
+bacteria-2136	erysipelotrichaceae	22
+bacteria-3254	lactobacillus iners	22
+bacteria-2211	parvimonas micra	22
+bacteria-4102	rikenellaceae	22
+bacteria-8035	aeromonas hydrophila	21
+bacteria-4479	bordetella	21
+bacteria-4127	mycoplasma hyorhinis	21
+bacteria-10696	prevotella copri	21
+bacteria-4573	streptococcus agalactiae	21
+bacteria-6925	streptococcus salivarius	21
+bacteria-10467	treponema denticola	21
+bacteria-9274	achromobacter	20
+bacteria-5257	aggregatibacter actinomycetemcomitans	20
+bacteria-7985	barnesiella	20
+bacteria-2697	lachnoclostridium	20
+bacteria-4542	lactobacillus gasseri	20
+bacteria-2932	mycoplasma pneumoniae	20
+bacteria-11380	oscillibacter	20
+bacteria-4460	vibrio cholerae	20
+bacteria-11334	agrobacterium tumefaciens	19
+bacteria-8662	bacteroides vulgatus	19
+bacteria-9923	candidatus	19
+bacteria-12063	eggerthella	19
+bacteria-2566	eikenella	19
+bacteria-11046	lactococcus lactis	19
+bacteria-7182	proteus vulgaris	19
+bacteria-7756	tenericutes	19
+bacteria-10326	bacteroides uniformis	18
+bacteria-563	brucella abortus	18
+bacteria-6929	legionella pneumophila	18
+bacteria-6948	salmonella enteritidis	18
+bacteria-9826	turicibacter	18
+bacteria-11819	actinobacillus	17
+bacteria-12784	anaerococcus	17
+bacteria-10110	coxiella	17
+bacteria-11120	flavonifractor	17
+bacteria-10799	forsythia	17
+bacteria-12285	lactobacillus paracasei	17
+bacteria-6577	pediococcus	17
+bacteria-4558	porphyromonadaceae	17
+bacteria-10273	ralstonia	17
+bacteria-12785	rhodococcus	17
+bacteria-7464	shigella flexneri	17
+bacteria-3890	sutterella	17
+bacteria-890	bifidobacterium adolescentis	16
+bacteria-4829	citrobacter freundii	16
+bacteria-7321	haemophilus parainfluenzae	16
+bacteria-9075	phascolarctobacterium	16
+bacteria-3773	prevotella melaninogenica	16
+bacteria-10136	ruminococcus gnavus	16
+bacteria-337	bifidobacterium animalis	15
+bacteria-1849	coriobacteriaceae	15
+bacteria-4112	lactobacillus jensenii	15
+bacteria-5822	micromonospora	15
+bacteria-3629	muribaculaceae	15
+bacteria-7340	mycoplasma genitalium	15
+bacteria-4220	pantoea	15
+bacteria-6200	rothia mucilaginosa	15
+bacteria-12607	shewanella	15
+bacteria-4313	slackia	15
+bacteria-9861	ureaplasma urealyticum	15
+bacteria-3829	yersinia enterocolitica	15
+bacteria-1638	aerococcus	14
+bacteria-6675	bacillus anthracis	14
+bacteria-9468	bacteroides thetaiotaomicron	14
+bacteria-10511	butyricicoccus	14
+bacteria-4789	cutibacterium	14
+bacteria-9457	micrococcus luteus	14
+bacteria-2859	subdoligranulum	14
+bacteria-3126	syncytium	14
+bacteria-2491	actinomycetales	13
+bacteria-6644	alcaligenes	13
+bacteria-7948	bartonella henselae	13
+bacteria-5002	burkholderia cepacia	13
+bacteria-3308	coxiella burnetii	13
+bacteria-4844	enterococcaceae	13
+bacteria-10612	lactobacillus fermentum	13
+bacteria-2431	leuconostoc	13
+bacteria-8289	pasteurella multocida	13
+bacteria-8804	rickettsia	13
+bacteria-5563	veillonellaceae	13
+bacteria-7479	achromobacter xylosoxidans	12
+bacteria-2245	adlercreutzia	12
+bacteria-2600	bordetella pertussis	12
+bacteria-4263	christensenellaceae	12
+bacteria-11577	desulfovibrionaceae	12
+bacteria-7507	erwinia	12
+bacteria-6568	flavobacterium	12
+bacteria-1166	lachnospira	12
+bacteria-11175	lactobacillus johnsonii	12
+bacteria-4982	moraxella catarrhalis	12
+bacteria-8692	neisseria meningitidis	12
+bacteria-8633	oribacterium	12
+bacteria-5104	parabacteroides distasonis	12
+bacteria-3553	pasteurellaceae	12
+bacteria-4667	peptostreptococcus stomatis	12
+bacteria-5119	solobacterium	12
+bacteria-11354	streptococcus thermophilus	12
+bacteria-1840	allobaculum	11
+bacteria-216	betaproteobacteria	11
+bacteria-1019	butyricimonas	11
+bacteria-2481	clostridium leptum	11
+bacteria-11613	clostridium scindens	11
+bacteria-1912	corynebacterium diphtheriae	11
+bacteria-1663	eggerthella lenta	11
+bacteria-3482	eikenella corrodens	11
+bacteria-8074	filifactor	11
+bacteria-6436	morganella	11
+bacteria-8187	ochrobactrum	11
+bacteria-10285	peptostreptococcaceae	11
+bacteria-12130	pseudomonas fluorescens	11
+bacteria-9452	pseudomonas putida	11
+bacteria-444	romboutsia	11
+bacteria-5428	spirochaetes	11
+bacteria-8669	staphylococcus haemolyticus	11
+bacteria-2501	staphylococcus hominis	11
+bacteria-5407	streptococcus viridans	11
+bacteria-5466	alphaproteobacteria	10
+bacteria-1366	catenibacterium	10
+bacteria-7286	clostridium novyi	10
+bacteria-4040	corynebacterium jeikeium	10
+bacteria-2476	gemella morbillorum	10
+bacteria-7980	gut metagenome	10
+bacteria-10402	lactobacillus salivarius	10
+bacteria-7457	megamonas	10
+bacteria-10944	mycobacterium fortuitum	10
+bacteria-11574	pantoea agglomerans	10
+bacteria-8177	rhizobium	10
+bacteria-5735	sarcina	10
+bacteria-2523	spirulina	10
+bacteria-11862	streptococcus intermedius	10
+bacteria-56	thermophilic	10
+bacteria-2158	ureaplasma parvum	10
+bacteria-1251	veillonella parvula	10
+bacteria-11145	weissella	10
+bacteria-1843	xanthomonas	10
+bacteria-12596	anaerostipes	9
+bacteria-6668	bacillus licheniformis	9
+bacteria-7022	brassica	9
+bacteria-8661	campylobacter fetus	9
+bacteria-4567	comamonas	9
+bacteria-8755	finegoldia	9
+bacteria-12593	gemmiger	9
+bacteria-5753	granulicatella adiacens	9
+bacteria-12767	helicobacter cinaedi	9
+bacteria-7556	lactobacillus delbrueckii	9
+bacteria-9774	lautropia	9
+bacteria-1966	microbacterium	9
+bacteria-3198	mogibacterium	9
+bacteria-2143	parasutterella	9
+bacteria-9576	peptoniphilus	9
+bacteria-9185	peptostreptococcus anaerobius	9
+bacteria-345	raoultella	9
+bacteria-632	rhodococcus equi	9
+bacteria-6749	roseomonas	9
+bacteria-8754	staphylococcus lugdunensis	9
+bacteria-1416	streptococcus infantarius	9
+bacteria-1830	streptococcus oralis	9
+bacteria-3590	streptococcus sanguinis	9
+bacteria-7785	abiotrophia	8
+bacteria-3171	actinomadura	8
+bacteria-807	anaerotruncus	8
+bacteria-12831	bacillus pumilus	8
+bacteria-10219	bacteroides ovatus	8
+bacteria-1589	butyrivibrio	8
+bacteria-9905	chloroflexi	8
+bacteria-9500	chromobacterium	8
+bacteria-6284	cutibacterium acnes	8
+bacteria-199	delftia	8
+bacteria-5499	enterobacter aerogenes	8
+bacteria-724	enterococcus hirae	8
+bacteria-8447	francisella	8
+bacteria-12016	lactobacillus brevis	8
+bacteria-8772	lactobacillus murinus	8
+bacteria-4386	methylobacterium	8
+bacteria-7634	mobiluncus	8
+bacteria-8546	morganella morganii	8
+bacteria-5961	nocardia farcinica	8
+bacteria-7620	streptococcus gordonii	8
+bacteria-1475	yersinia pseudotuberculosis	8
+bacteria-11535	acidobacteria	7
+bacteria-4953	actinomyces naeslundii	7
+bacteria-5598	alistipes finegoldii	7
+bacteria-4701	bacteriodetes	7
+bacteria-6804	bacteroidia	7
+bacteria-873	brucella melitensis	7
+bacteria-9751	chlamydiae	7
+bacteria-11626	chryseobacterium	7
+bacteria-11473	enterobacterales	7
+bacteria-806	erysipelatoclostridium	7
+bacteria-3074	eubacterium rectale	7
+bacteria-2472	fusobacterium necrophorum	7
+bacteria-2583	lactobacillus helveticus	7
+bacteria-7729	mitsuokella	7
+bacteria-8663	mycobacterium kansasii	7
+bacteria-2451	nocardia asteroides	7
+bacteria-5727	ochrobactrum anthropi	7
+bacteria-9319	paenibacillus	7
+bacteria-9327	planctomycetes	7
+bacteria-9415	providencia	7
+bacteria-1507	roseomonas gilardii	7
+bacteria-11617	ruminiclostridium	7
+bacteria-6633	ruminococcus bromii	7
+bacteria-10451	sequence has	7
+bacteria-9513	acidaminococcus	6
+bacteria-11860	acidovorax	6
+bacteria-1065	acinetobacter calcoaceticus	6
+bacteria-1777	actinomyces israelii	6
+bacteria-111	anaplasma	6
+bacteria-6392	bacillus megaterium	6
+bacteria-6292	bacteroides acidifaciens	6
+bacteria-8446	bacteroides dorei	6
+bacteria-11933	bacteroides plebeius	6
+bacteria-5791	barnesiella intestinihominis	6
+bacteria-3513	bitter	6
+bacteria-7126	burkholderiales	6
+bacteria-4497	campylobacter concisus	6
+bacteria-265	chromobacterium violaceum	6
+bacteria-1874	collinsella aerofaciens	6
+bacteria-9649	cowpea	6
+bacteria-8913	cupriavidus	6
+bacteria-8957	cyanobacterium	6
+bacteria-5226	deinococcus	6
+bacteria-2908	eubacteriaceae	6
+bacteria-9228	flavonifractor plautii	6
+bacteria-5028	fusicatenibacter	6
+bacteria-4043	gemmatimonadetes	6
+bacteria-1006	halomonas	6
+bacteria-9314	herbaspirillum	6
+bacteria-10447	intestinimonas	6
+bacteria-10339	kingella	6
+bacteria-3604	leclercia	6
+bacteria-8047	polymorphum	6
+bacteria-2537	pseudoalteromonas	6
+bacteria-9229	salmonella paratyphi	6
+bacteria-1461	shewanella putrefaciens	6
+bacteria-7044	shigella dysenteriae	6
+bacteria-6965	shuttleworthia	6
+bacteria-6346	solobacterium moorei	6
+bacteria-12367	synergistetes	6
+bacteria-10827	treponema pallidum	6
+bacteria-5178	tsukamurella	6
+bacteria-9957	verrucomicrobiaceae	6
+bacteria-7701	wolbachia	6
+bacteria-7014	acetobacter	5
+bacteria-6071	acinetobacter junii	5
+bacteria-8483	acinetobacter lwoffii	5
+bacteria-8135	actinobacillus actinomycetemcomitans	5
+bacteria-10748	aeromonas caviae	5
+bacteria-11972	akkermansiaceae	5
+bacteria-12814	alcaligenaceae	5
+bacteria-3092	alistipes putredinis	5
+bacteria-3185	anaplasma phagocytophilum	5
+bacteria-9672	arthrobacter	5
+bacteria-3162	bifidobacterium pseudolongum	5
+bacteria-8040	bilophila wadsworthia	5
+bacteria-5421	blautia producta	5
+bacteria-9544	bordetella bronchiseptica	5
+bacteria-6115	brevibacterium	5
+bacteria-4848	bulleidia	5
+bacteria-4802	campylobacter rectus	5
+bacteria-2635	clostridium paraputrificum	5
+bacteria-3471	comamonadaceae	5
+bacteria-2545	corynebacterium amycolatum	5
+bacteria-5314	ehrlichia	5
+bacteria-4485	eubacterium limosum	5
+bacteria-2463	euphorbia	5
+bacteria-7526	fusobacterium varium	5
+bacteria-9641	kocuria	5
+bacteria-5083	leptospira	5
+bacteria-11801	magnetospirillum	5
+bacteria-5547	malaysian	5
+bacteria-4562	nicotiana	5
+bacteria-3750	oceanobacillus	5
+bacteria-2516	odoribacter splanchnicus	5
+bacteria-10145	paracoccus	5
+bacteria-11304	pediococcus pentosaceus	5
+bacteria-9685	phoenix	5
+bacteria-1233	plesiomonas	5
+bacteria-3671	prevotella bivia	5
+bacteria-3153	pseudomonadales	5
+bacteria-10576	rahnella	5
+bacteria-8748	sesame	5
+bacteria-12433	shewanella algae	5
+bacteria-3003	streptococcus constellatus	5
+bacteria-8472	streptococcus suis	5
+bacteria-10595	streptomyces albus	5
+bacteria-11982	tanzanian	5
+bacteria-4250	vibrio vulnificus	5
+bacteria-525	actinomyces viscosus	4
+bacteria-11323	anoxybacillus	4
+bacteria-6411	arcobacter	4
+bacteria-11995	bacillaceae	4
+bacteria-24	bacillus coagulans	4
+bacteria-1086	bacillus thuringiensis	4
+bacteria-9659	blautia obeum	4
+bacteria-9360	bradyrhizobium	4
+bacteria-3458	campylobacter sputorum	4
+bacteria-7939	capnocytophaga sputigena	4
+bacteria-6271	capsicum	4
+bacteria-7414	cardiobacterium	4
+bacteria-4285	carnobacterium	4
+bacteria-661	christensenella	4
+bacteria-4034	clostridiales family	4
+bacteria-7750	clostridium sporogenes	4
+bacteria-31	clostridium symbiosum	4
+bacteria-3815	coprobacillus	4
+bacteria-2914	cronobacter	4
+bacteria-7155	datura	4
+bacteria-2049	desulfovibrio piger	4
+bacteria-5518	edwardsiella	4
+bacteria-3938	enterococcus casseliflavus	4
+bacteria-10118	enterococcus gallinarum	4
+bacteria-9806	erwinia chrysanthemi	4
+bacteria-11509	filifactor alocis	4
+bacteria-9114	finegoldia magna	4
+bacteria-5951	francisella tularensis	4
+bacteria-1209	geobacillus	4
+bacteria-7305	gynostemma	4
+bacteria-4904	gynostemma pentaphyllum	4
+bacteria-255	hafnia	4
+bacteria-1197	hafnia alvei	4
+bacteria-12024	lautropia mirabilis	4
+bacteria-4268	leclercia adecarboxylata	4
+bacteria-9579	lysobacter	4
+bacteria-11126	marine bacterium	4
+bacteria-2438	mycobacterium abscessus	4
+bacteria-8556	mycobacterium intracellulare	4
+bacteria-2167	neisseriaceae	4
+bacteria-11147	nocardia cyriacigeorgica	4
+bacteria-9854	olsenella	4
+bacteria-3258	oxalobacter	4
+bacteria-3700	propionibacterium freudenreichii	4
+bacteria-7958	pseudomonas stutzeri	4
+bacteria-6717	ralstonia pickettii	4
+bacteria-4937	raoultella ornithinolytica	4
+bacteria-3216	roseomonas mucosa	4
+bacteria-8630	rothia dentocariosa	4
+bacteria-11293	ruminococcus torques	4
+bacteria-4921	shigella sonnei	4
+bacteria-4686	solanum	4
+bacteria-6371	sorangium	4
+bacteria-9785	spiroplasma	4
+bacteria-6469	staphylococcus pseudintermedius	4
+bacteria-3994	staphylococcus saprophyticus	4
+bacteria-6010	staphylococcus warneri	4
+bacteria-4680	streptococcus parasanguinis	4
+bacteria-8203	streptomyces galilaeus	4
+bacteria-11986	streptomyces griseus	4
+bacteria-9913	streptosporangium	4
+bacteria-7915	vibrio parahaemolyticus	4
+bacteria-178	vitis	4
+bacteria-3692	acacia	3
+bacteria-268	acinetobacter johnsonii	3
+bacteria-6247	aggregatibacter segnis	3
+bacteria-596	alistipes shahii	3
+bacteria-11753	alkaliphilus	3
+bacteria-11140	almond	3
+bacteria-5298	amycolatopsis	3
+bacteria-3019	arcanobacterium	3
+bacteria-3932	artemisia	3
+bacteria-4691	azotobacter	3
+bacteria-2054	bacillus amyloliquefaciens	3
+bacteria-6429	bacteroides caccae	3
+bacteria-12810	bacteroides xylanisolvens	3
+bacteria-3069	bartonella quintana	3
+bacteria-10879	bartonella vinsonii	3
+bacteria-1260	bergeyella	3
+bacteria-5078	brevibacillus	3
+bacteria-9345	burkholderia pseudomallei	3
+bacteria-3744	burkholderiaceae	3
+bacteria-799	campylobacter coli	3
+bacteria-4389	candidatus arthromitus	3
+bacteria-2301	candidatus mycoplasma	3
+bacteria-6665	candidatus saccharibacteria	3
+bacteria-8684	capnocytophaga gingivalis	3
+bacteria-1909	capnocytophaga ochracea	3
+bacteria-10092	carnobacteriaceae	3
+bacteria-9195	catabacter	3
+bacteria-6555	cedecea	3
+bacteria-7185	chickpea	3
+bacteria-466	clostridium botulinum	3
+bacteria-10271	clostridium hiranonis	3
+bacteria-4669	clostridium hylemonae	3
+bacteria-463	clostridium tetani	3
+bacteria-12562	corynebacterium simulans	3
+bacteria-5719	corynebacterium xerosis	3
+bacteria-3345	croton	3
+bacteria-194	deinococcus radiodurans	3
+bacteria-3637	deltaproteobacteria	3
+bacteria-7124	desulfovibrio desulfuricans	3
+bacteria-2755	desulfovibrio vulgaris	3
+bacteria-224	devosia	3
+bacteria-850	dialister invisus	3
+bacteria-7739	dietzia	3
+bacteria-2220	edwardsiella tarda	3
+bacteria-8195	elizabethkingia	3
+bacteria-11238	endosymbiont	3
+bacteria-9947	epsilonproteobacteria	3
+bacteria-9765	eubacterium siraeum	3
+bacteria-7543	facklamia	3
+bacteria-9171	gemella haemolysans	3
+bacteria-9230	gordonibacter	3
+bacteria-8095	haemophilus ducreyi	3
+bacteria-10732	halomonadaceae	3
+bacteria-9698	janthinobacterium	3
+bacteria-12158	kitasatospora	3
+bacteria-11305	klebsiella michiganensis	3
+bacteria-2285	lachnoanaerobaculum	3
+bacteria-7758	lactobacillus vaginalis	3
+bacteria-8555	lentisphaerae	3
+bacteria-7825	leuconostoc lactis	3
+bacteria-6679	leuconostocaceae	3
+bacteria-6094	lyngbya	3
+bacteria-7679	magnetococcus	3
+bacteria-1123	magnetospirillum gryphiswaldense	3
+bacteria-10197	moraxella nonliquefaciens	3
+bacteria-6946	moraxella osloensis	3
+bacteria-7972	moraxellaceae	3
+bacteria-436	mycobacterium gordonae	3
+bacteria-7968	mycobacterium marinum	3
+bacteria-8597	neisseria flavescens	3
+bacteria-1196	neisseria mucosa	3
+bacteria-9898	neisseria subflava	3
+bacteria-4366	nitrospirae	3
+bacteria-7275	nocardia brasiliensis	3
+bacteria-1004	nocardiopsis	3
+bacteria-5994	nostoc	3
+bacteria-1154	oxalobacter formigenes	3
+bacteria-6881	patescibacteria	3
+bacteria-8468	pediococcus acidilactici	3
+bacteria-4060	photobacterium	3
+bacteria-332	phyllanthus	3
+bacteria-4977	plesiomonas shigelloides	3
+bacteria-5779	porphyromonas asaccharolytica	3
+bacteria-3864	prevotella buccae	3
+bacteria-12192	prevotella nigrescens	3
+bacteria-7690	propionibacteriaceae	3
+bacteria-10892	prunus	3
+bacteria-5155	pseudomonadaceae	3
+bacteria-3306	pyramidobacter	3
+bacteria-12154	rahnella aquatilis	3
+bacteria-8066	raoultella planticola	3
+bacteria-7079	rhodobacter	3
+bacteria-5509	rhodobacteraceae	3
+bacteria-7571	roseburia faecis	3
+bacteria-2034	saccharothrix	3
+bacteria-1093	selenomonas sputigena	3
+bacteria-7435	serratia fonticola	3
+bacteria-1207	sphingobium	3
+bacteria-8792	sphingomonadaceae	3
+bacteria-1373	sphingomonas paucimobilis	3
+bacteria-9533	strawberry	3
+bacteria-9766	streptobacillus	3
+bacteria-10108	streptomyces albulus	3
+bacteria-8721	streptomyces aureofaciens	3
+bacteria-4785	streptomyces chartreusis	3
+bacteria-2904	streptomyces coelicolor	3
+bacteria-11977	tepidimonas	3
+bacteria-7455	thermus	3
+bacteria-1687	tls	3
+bacteria-10976	vagococcus	3
+bacteria-611	veillonella dispar	3
+bacteria-12379	vibrio anguillarum	3
+bacteria-4198	vibrio fischeri	3
+bacteria-5131	vitex	3
+bacteria-12617	weissella confusa	3
+bacteria-7338	acholeplasma	2
+bacteria-3444	acidithiobacillus	2
+bacteria-12195	acidithiobacillus ferrooxidans	2
+bacteria-6031	acinetobacter radioresistens	2
+bacteria-9614	acinetobacter ursingii	2
+bacteria-8137	actinomadura verrucosospora	2
+bacteria-9784	actinomycetaceae	2
+bacteria-6729	adlercreutzia equolifaciens	2
+bacteria-7728	aerococcaceae	2
+bacteria-4955	aeromonas veronii	2
+bacteria-7614	albizia	2
+bacteria-982	archangium	2
+bacteria-11179	atopobium parvulum	2
+bacteria-1124	azadirachta	2
+bacteria-5486	azadirachta indica	2
+bacteria-3935	bacillus tequilensis	2
+bacteria-5573	bacteroides eggerthii	2
+bacteria-9000	bacteroides intestinalis	2
+bacteria-10231	bacteroides pyogenes	2
+bacteria-5611	bartonella bacilliformis	2
+bacteria-4470	bidens	2
+bacteria-6413	bifidobacterium dentium	2
+bacteria-2109	borrelia miyamotoi	2
+bacteria-3783	bradyrhizobium japonicum	2
+bacteria-5635	brassica rapa	2
+bacteria-1778	brevundimonas	2
+bacteria-1435	brochothrix	2
+bacteria-5124	cajanus	2
+bacteria-10981	cajanus cajan	2
+bacteria-6513	calendula	2
+bacteria-8930	calendula officinalis	2
+bacteria-2841	campylobacter showae	2
+bacteria-1336	capsicum annuum	2
+bacteria-962	cauliflower	2
+bacteria-3646	caulobacter	2
+bacteria-8356	caulobacteraceae	2
+bacteria-8441	cedecea davisae	2
+bacteria-7260	centipeda	2
+bacteria-12105	christensenella minuta	2
+bacteria-5677	cloacibacterium	2
+bacteria-3742	clostridium beijerinckii	2
+bacteria-7291	clostridium tertium	2
+bacteria-1686	coprobacter	2
+bacteria-1353	coprococcus eutactus	2
+bacteria-12370	corallococcus	2
+bacteria-6944	corynebacterium bovis	2
+bacteria-4821	corynebacterium minutissimum	2
+bacteria-12425	corynebacterium striatum	2
+bacteria-11097	cupriavidus pauculus	2
+bacteria-8805	delftia tsuruhatensis	2
+bacteria-954	dermabacter	2
+bacteria-10128	dermabacter hominis	2
+bacteria-3413	dialister pneumosintes	2
+bacteria-5004	dietzia cinnamea	2
+bacteria-5082	dysgonomonas	2
+bacteria-4525	echinacea	2
+bacteria-4871	echinacea purpurea	2
+bacteria-879	ehrlichia chaffeensis	2
+bacteria-12082	eisenbergiella	2
+bacteria-2199	elizabethkingia meningoseptica	2
+bacteria-8865	elusimicrobia	2
+bacteria-9296	enterococcus durans	2
+bacteria-0	enterorhabdus	2
+bacteria-4792	erwinia amylovora	2
+bacteria-11377	erysipelothrix	2
+bacteria-9633	fibrobacteres	2
+bacteria-3285	flavobacteriaceae	2
+bacteria-895	fusobacterium hwasookii	2
+bacteria-10958	fusobacterium mortiferum	2
+bacteria-7288	gemella sanguinis	2
+bacteria-1012	gemmiger formicilis	2
+bacteria-10524	gluconacetobacter	2
+bacteria-5687	gluconobacter	2
+bacteria-2021	glutamicibacter	2
+bacteria-8030	helianthus	2
+bacteria-1064	helicobacter pullorum	2
+bacteria-12506	herbaspirillum frisingense	2
+bacteria-3798	holdemanella	2
+bacteria-2324	hungatella	2
+bacteria-3205	intestinibacter	2
+bacteria-8720	jujube	2
+bacteria-12554	kluyvera	2
+bacteria-10184	labrenzia	2
+bacteria-9043	lachnospiraceae bacterium	2
+bacteria-11646	lacticaseibacillus	2
+bacteria-2948	lacticaseibacillus rhamnosus	2
+bacteria-10998	lactobacillus coryniformis	2
+bacteria-12067	lactobacillus kefiri	2
+bacteria-4554	lactobacillus mucosae	2
+bacteria-9184	lactobacillus pentosus	2
+bacteria-331	lactobacillus rossiae	2
+bacteria-1932	lactobacillus taiwanensis	2
+bacteria-6650	lactococcus garvieae	2
+bacteria-5684	lactonifactor	2
+bacteria-5035	lactonifactor longoviformis	2
+bacteria-10786	lawsonia	2
+bacteria-10644	lawsonia intracellularis	2
+bacteria-7978	lentzea	2
+bacteria-7478	leuconostoc mesenteroides	2
+bacteria-9648	limosilactobacillus	2
+bacteria-136	limosilactobacillus reuteri	2
+bacteria-3922	lotus	2
+bacteria-10544	lysinibacillus	2
+bacteria-7660	magnetococcus marinus	2
+bacteria-9875	marinobacter	2
+bacteria-7419	megasphaera micronuciformis	2
+bacteria-3386	meiothermus	2
+bacteria-3106	methylobacterium radiotolerans	2
+bacteria-7733	micrococcaceae	2
+bacteria-2452	microcystis	2
+bacteria-1977	micromonospora echinospora	2
+bacteria-9980	mobiluncus curtisii	2
+bacteria-4538	mulberry	2
+bacteria-862	muribaculum	2
+bacteria-1708	muribaculum intestinale	2
+bacteria-6731	mycoplasma ovipneumoniae	2
+bacteria-12270	myxococcus	2
+bacteria-3984	nannocystis	2
+bacteria-11139	nocardia nova	2
+bacteria-5643	nocardioides	2
+bacteria-11840	ocimum	2
+bacteria-9028	oligella	2
+bacteria-8398	opuntia	2
+bacteria-11871	oxalobacteraceae	2
+bacteria-12632	paludibacter	2
+bacteria-7534	paludibaculum	2
+bacteria-12696	pedobacter	2
+bacteria-3557	peptoniphilus harei	2
+bacteria-3928	perilla	2
+bacteria-2969	phascolarctobacterium faecium	2
+bacteria-7847	photorhabdus	2
+bacteria-5899	phyllobacterium	2
+bacteria-9112	pigeon	2
+bacteria-4331	populus	2
+bacteria-1146	porphyromonas catoniae	2
+bacteria-2725	prevotella histicola	2
+bacteria-1205	prevotella nanceiensis	2
+bacteria-4532	prevotella oris	2
+bacteria-10949	propionimicrobium	2
+bacteria-12783	propionimicrobium lymphophilum	2
+bacteria-3879	providencia rettgeri	2
+bacteria-9537	providencia stuartii	2
+bacteria-11369	pseudoflavonifractor	2
+bacteria-9704	pseudomonas savastanoi	2
+bacteria-10201	pseudoramibacter	2
+bacteria-3551	psychrobacter	2
+bacteria-229	ralstonia solanacearum	2
+bacteria-6033	roseomonas genomospecies	2
+bacteria-3360	rothia aeria	2
+bacteria-8717	ruminococcus albus	2
+bacteria-11994	saccharopolyspora	2
+bacteria-9076	scardovia	2
+bacteria-5969	serratia liquefaciens	2
+bacteria-11453	slackia exigua	2
+bacteria-7518	sorangium cellulosum	2
+bacteria-6037	sporosarcina	2
+bacteria-2390	staphylococcus capitis	2
+bacteria-7404	staphylococcus sciuri	2
+bacteria-1486	streptococcus equinus	2
+bacteria-10415	streptococcus lutetiensis	2
+bacteria-7636	streptococcus pseudopneumoniae	2
+bacteria-4893	streptococcus sobrinus	2
+bacteria-1807	streptococcus vestibularis	2
+bacteria-10667	streptomyces fradiae	2
+bacteria-9864	streptomyces lavendulae	2
+bacteria-7651	streptomyces olivaceus	2
+bacteria-10984	streptomyces peucetius	2
+bacteria-8738	streptomyces pseudovenezuelae	2
+bacteria-1337	streptomyces puniceus	2
+bacteria-12772	streptomyces venezuelae	2
+bacteria-10026	streptomyces violaceus	2
+bacteria-9609	succinivibrio	2
+bacteria-8885	sutterella wadsworthensis	2
+bacteria-12297	synechococcus	2
+bacteria-2593	synechococcus elongatus	2
+bacteria-10837	tsukamurella tyrosinosolvens	2
+bacteria-4708	variovorax	2
+bacteria-9837	verrucomicrobiales	2
+bacteria-11731	vibrio alginolyticus	2
+bacteria-1664	vibrio fluvialis	2
+bacteria-3897	vibrio harveyi	2
+bacteria-535	virgibacillus	2
+bacteria-11988	weissella cibaria	2
+bacteria-4880	yersinia pestis	2
+bacteria-9175	ziziphus	2
+bacteria-5245	ziziphus jujuba	2
+bacteria-5882	acetanaerobacterium	1
+bacteria-2430	acetivibrio	1
+bacteria-7622	acetobacter aceti	1
+bacteria-781	acetobacter lovaniensis	1
+bacteria-458	acetobacter pomorum	1
+bacteria-4449	acetobacter tropicalis	1
+bacteria-7595	acetobacteraceae	1
+bacteria-2868	acholeplasma laidlawii	1
+bacteria-12397	achromobacter spanius	1
+bacteria-10182	acidimicrobiales	1
+bacteria-12188	acinetobacter haemolyticus	1
+bacteria-3780	acinetobacter nosocomialis	1
+bacteria-3349	actinoalloteichus	1
+bacteria-5173	actinoalloteichus cyanogriseus	1
+bacteria-9874	actinomadura madurae	1
+bacteria-740	actinomyces pyogenes	1
+bacteria-3630	actinoplanes	1
+bacteria-7387	aerococcus urinae	1
+bacteria-489	aerococcus viridans	1
+bacteria-3037	aeromonadaceae	1
+bacteria-557	aeromonas dhakensis	1
+bacteria-2185	aeromonas sobria	1
+bacteria-2698	agrobacterium vitis	1
+bacteria-11378	agrococcus	1
+bacteria-3855	albizia lebbeck	1
+bacteria-11655	alcaligenes faecalis	1
+bacteria-11600	alcanivorax	1
+bacteria-872	alicyclobacillus	1
+bacteria-4118	alistipes communis	1
+bacteria-3172	alistipes indistinctus	1
+bacteria-7492	alistipes onderdonkii	1
+bacteria-12608	alistipes senegalensis	1
+bacteria-4230	alloprevotella tannerae	1
+bacteria-343	alloscardovia	1
+bacteria-3182	amaranthus	1
+bacteria-7176	amycolatopsis orientalis	1
+bacteria-1182	anabaena	1
+bacteria-571	anabaena variabilis	1
+bacteria-4024	anaerobiospirillum	1
+bacteria-7167	anaerofustis	1
+bacteria-9620	anaerolineae	1
+bacteria-11282	anaerosphaera	1
+bacteria-6963	aquabacterium	1
+bacteria-8002	arachis	1
+bacteria-9961	arachis hypogaea	1
+bacteria-9917	arachnia	1
+bacteria-8533	arachnia propionica	1
+bacteria-10547	arcanobacterium haemolyticum	1
+bacteria-2967	archangium gephyra	1
+bacteria-8431	argyranthemum	1
+bacteria-11879	armatimonadetes	1
+bacteria-11361	arsenophonus	1
+bacteria-1908	arthrospira	1
+bacteria-5001	arthrospira platensis	1
+bacteria-11000	asaccharobacter	1
+bacteria-9232	asaia	1
+bacteria-10943	atopobium rimae	1
+bacteria-6427	aurantimonas	1
+bacteria-12021	aureimonas	1
+bacteria-12746	aureimonas altamirensis	1
+bacteria-6993	azotobacter chroococcum	1
+bacteria-3525	azotobacter vinelandii	1
+bacteria-4032	bacillus circulans	1
+bacteria-3738	bacillus flexus	1
+bacteria-4067	bacillus glycinifermentans	1
+bacteria-1852	bacillus indicus	1
+bacteria-8965	bacillus magaterium	1
+bacteria-1376	bacillus safensis	1
+bacteria-3115	bacillus stearothermophilus	1
+bacteria-9695	bacillus toyonensis	1
+bacteria-4425	bacillus vallismortis	1
+bacteria-3316	bacterium host	1
+bacteria-5740	bacteroides stercoris	1
+bacteria-1551	balneola	1
+bacteria-9694	bartonella elizabethae	1
+bacteria-12327	bifidobacterium angulatum	1
+bacteria-2010	bitter gourd	1
+bacteria-708	blastomonas	1
+bacteria-4927	bordetella hinzii	1
+bacteria-10406	bordetella trematum	1
+bacteria-6958	bosea	1
+bacteria-3712	brachyspira	1
+bacteria-9419	brassica napus	1
+bacteria-728	brevibacillus brevis	1
+bacteria-6143	brevibacillus choshinensis	1
+bacteria-4256	brevibacterium casei	1
+bacteria-6000	brucella canis	1
+bacteria-7533	brucella ovis	1
+bacteria-9106	brucella suis	1
+bacteria-4224	burkholderia cenocepacia	1
+bacteria-7062	burkholderia contaminans	1
+bacteria-11592	burkholderia gladioli	1
+bacteria-1301	burkholderia mallei	1
+bacteria-9605	butyrivibrio fibrisolvens	1
+bacteria-2933	caldithrix	1
+bacteria-2447	caldora	1
+bacteria-766	campylobacter armoricus	1
+bacteria-5689	campylobacter lari	1
+bacteria-6121	campylobacter ornithocola	1
+bacteria-9331	campylobacter ureolyticus	1
+bacteria-12236	campylobacterales	1
+bacteria-11822	candidatus midichloria	1
+bacteria-1076	candidatus saccharimonas	1
+bacteria-2462	caproiciproducens	1
+bacteria-4376	cardiobacteriaceae	1
+bacteria-9912	carica	1
+bacteria-7883	carica papaya	1
+bacteria-11353	carnobacterium inhibens	1
+bacteria-11315	catabacter hongkongensis	1
+bacteria-5047	catharanthus	1
+bacteria-6732	catharanthus roseus	1
+bacteria-2627	cedecea neteri	1
+bacteria-2334	cellulomonadaceae	1
+bacteria-6805	cellulomonas	1
+bacteria-1803	cellulosilyticum	1
+bacteria-3224	cellulosilyticum ruminicola	1
+bacteria-11322	cellulosimicrobium	1
+bacteria-1186	cellulosimicrobium cellulans	1
+bacteria-4184	chelativorans	1
+bacteria-1330	chelativorans intermedius	1
+bacteria-11735	chilli	1
+bacteria-11161	chitinophagaceae	1
+bacteria-12241	chlamydia pecorum	1
+bacteria-6344	chlamydiales	1
+bacteria-10430	chondromyces	1
+bacteria-9120	chromohalobacter	1
+bacteria-852	chromohalobacter israelensis	1
+bacteria-3602	chromohalobacter salexigens	1
+bacteria-1056	chryseobacterium indologenes	1
+bacteria-1816	citrobacter amalonaticus	1
+bacteria-9623	citrobacter koseri	1
+bacteria-2140	citrobacter portucalensis	1
+bacteria-2370	citrobacter werkmanii	1
+bacteria-4737	clavibacter	1
+bacteria-10781	clavibacter michiganensis	1
+bacteria-9382	cleome	1
+bacteria-5373	cleome viscosa	1
+bacteria-10968	clostridium acetobutylicum	1
+bacteria-776	clostridium celatum	1
+bacteria-1866	clostridium innocuum	1
+bacteria-11773	clostridium ljungdahlii	1
+bacteria-5365	clostridium pasteurianum	1
+bacteria-11540	clostridium subterminale	1
+bacteria-3054	clostridium tyrobutyricum	1
+bacteria-11707	comamonas kerstersii	1
+bacteria-7256	comamonas testosteroni	1
+bacteria-3277	coprococcus comes	1
+bacteria-2989	corallococcus coralloides	1
+bacteria-12407	coreopsis	1
+bacteria-718	coriobacteriaceae bacterium	1
+bacteria-2280	corynebacterium afermentans	1
+bacteria-2901	corynebacterium glutamicum	1
+bacteria-7639	corynebacterium macginleyi	1
+bacteria-4210	corynebacterium riegelii	1
+bacteria-1431	corynebacterium stationis	1
+bacteria-4423	corynebacterium tuberculostearicum	1
+bacteria-10902	corynebacterium urealyticum	1
+bacteria-9400	cosenzaea	1
+bacteria-11056	cronobacter sakazakii	1
+bacteria-11464	crotalaria	1
+bacteria-9959	cruoricaptor	1
+bacteria-6893	cruoricaptor ignavus	1
+bacteria-10428	cucurbita	1
+bacteria-5830	curtobacterium	1
+bacteria-291	curtobacterium pusillum	1
+bacteria-4309	cutibacterium avidum	1
+bacteria-2014	cutibacterium granulosum	1
+bacteria-9373	cutibacterium modestum	1
+bacteria-12313	cyanothece	1
+bacteria-8236	cycloclasticus	1
+bacteria-1094	cystobacter	1
+bacteria-11103	datura stramonium	1
+bacteria-7730	defluviicoccus	1
+bacteria-1634	deinococcus-thermus	1
+bacteria-11579	delftia acidovorans	1
+bacteria-3762	desulfomicrobium	1
+bacteria-3161	desulfovibrionales	1
+bacteria-1418	desulfuromonas	1
+bacteria-12440	dialister micraerophilus	1
+bacteria-7034	dialister succinatiphilus	1
+bacteria-10382	dielma	1
+bacteria-11419	dietzia papillomatosis	1
+bacteria-16	dioscorea	1
+bacteria-10347	dolosigranulum	1
+bacteria-8536	domibacillus	1
+bacteria-1834	dysgonomonas mossii	1
+bacteria-2340	edwardsiella hoshinae	1
+bacteria-11835	eggerthellaceae	1
+bacteria-646	eggerthia	1
+bacteria-6122	eggerthia catenaformis	1
+bacteria-7876	elaeagnus	1
+bacteria-12510	elaeagnus angustifolia	1
+bacteria-3362	enhydrobacter	1
+bacteria-1362	enterobacter hormaechei	1
+bacteria-6882	enterobacter kobei	1
+bacteria-5166	enterobacter ludwigii	1
+bacteria-8309	enterocloster	1
+bacteria-630	enterocloster bolteae	1
+bacteria-5202	enterococcus avium	1
+bacteria-3522	enterococcus raffinosus	1
+bacteria-2606	enterovibrio	1
+bacteria-400	entomoplasmatales	1
+bacteria-6806	erysipelatoclostridium ramosum	1
+bacteria-3159	erysipelothrix rhusiopathiae	1
+bacteria-2629	erysipelotrichia	1
+bacteria-8828	escherichia fergusonii	1
+bacteria-8751	eubacterium brachy	1
+bacteria-11499	eubacterium callanderi	1
+bacteria-9647	eubacterium nodatum	1
+bacteria-9197	exiguobacterium	1
+bacteria-10290	exiguobacterium acetylicum	1
+bacteria-2898	facklamia tabacinasalis	1
+bacteria-10632	faecalicatena	1
+bacteria-8610	faecalitalea	1
+bacteria-5855	filamentous cyanobacterium	1
+bacteria-10341	flammeovirga	1
+bacteria-5670	flavobacteriales	1
+bacteria-12110	flavobacteriia	1
+bacteria-7869	fusibacter	1
+bacteria-6501	fusicatenibacter saccharivorans	1
+bacteria-4057	fusobacterium naviforme	1
+bacteria-4716	gelidibacter	1
+bacteria-12231	gemmatimonadales	1
+bacteria-8093	geobacter	1
+bacteria-3792	gluconobacter kondonii	1
+bacteria-1081	glutamicibacter arilaitensis	1
+bacteria-12396	gordonia	1
+bacteria-11407	gordonia sputi	1
+bacteria-10344	granulicella	1
+bacteria-4451	haemophilus parasuis	1
+bacteria-6262	hafnia paralvei	1
+bacteria-8017	halomonas elongata	1
+bacteria-803	halomonas meridiana	1
+bacteria-335	halomonas stenophila	1
+bacteria-992	helcococcus	1
+bacteria-12332	helcococcus kunzii	1
+bacteria-5216	helianthus annuus	1
+bacteria-323	hungatella effluvii	1
+bacteria-4418	hungatella hathewayi	1
+bacteria-11075	hydrogenophaga	1
+bacteria-6781	iamia	1
+bacteria-5984	ideonella	1
+bacteria-7219	idiomarina	1
+bacteria-4020	idiomarina loihiensis	1
+bacteria-4964	ignatzschineria	1
+bacteria-6356	ignatzschineria indica	1
+bacteria-9188	intestinibacter bartlettii	1
+bacteria-11483	intrasporangiaceae	1
+bacteria-2897	janibacter	1
+bacteria-12405	janthinobacterium lividum	1
+bacteria-11472	jeotgalibaca	1
+bacteria-3098	keratinibaculum	1
+bacteria-3975	keratinibaculum paraultunense	1
+bacteria-395	kineothrix	1
+bacteria-5045	kingella denitrificans	1
+bacteria-2579	kingella oralis	1
+bacteria-6736	klebsiella grimontii	1
+bacteria-3876	klebsiella quasipneumoniae	1
+bacteria-7715	kluyvera ascorbata	1
+bacteria-12125	kocuria rosea	1
+bacteria-5378	kribbella	1
+bacteria-11730	kroppenstedtia	1
+bacteria-5159	lactobacillus alimentarius	1
+bacteria-9723	lactobacillus animalis	1
+bacteria-5267	lactobacillus curvatus	1
+bacteria-4960	lactobacillus harbinensis	1
+bacteria-3050	lactobacillus hilgardii	1
+bacteria-4791	lactobacillus paraplantarum	1
+bacteria-477	lactobacillus ruminis	1
+bacteria-5275	lactobacillus satsumensis	1
+bacteria-10306	lactobacillus zeae	1
+bacteria-10168	lelliottia	1
+bacteria-8624	lelliottia amnigena	1
+bacteria-10621	lentibacillus	1
+bacteria-12263	lentzea violacea	1
+bacteria-5037	leptospira interrogans	1
+bacteria-1543	leptothrix	1
+bacteria-9958	leptotrichia wadei	1
+bacteria-5885	limnobacter	1
+bacteria-8305	limnothrix	1
+bacteria-10465	listeria innocua	1
+bacteria-8765	listeria welshimeri	1
+bacteria-4270	luteococcus	1
+bacteria-10847	lyngbya majuscula	1
+bacteria-10720	lysinibacillus fusiformis	1
+bacteria-154	lysinibacillus sphaericus	1
+bacteria-7676	macadamia	1
+bacteria-5576	mag	1
+bacteria-10618	manihot	1
+bacteria-10768	mannheimia	1
+bacteria-7811	mannheimia haemolytica	1
+bacteria-3401	marigold	1
+bacteria-11591	marinobacterium	1
+bacteria-11002	marmoricola	1
+bacteria-11797	massilia	1
+bacteria-5916	medicago	1
+bacteria-6194	medicago sativa	1
+bacteria-6026	megamonas funiformis	1
+bacteria-7274	mesoplasma	1
+bacteria-12585	mesorhizobium	1
+bacteria-2882	methylobacterium mesophilicum	1
+bacteria-6928	methylocaldum	1
+bacteria-12686	methylococcaceae	1
+bacteria-8461	methylophilaceae	1
+bacteria-11133	methylotenera	1
+bacteria-12558	microbacterium barkeri	1
+bacteria-8840	microbacterium oxydans	1
+bacteria-614	micrococcus flavus	1
+bacteria-8125	micromonospora chalcea	1
+bacteria-9848	microvirga	1
+bacteria-11129	microvirgula	1
+bacteria-10	microvirgula aerodenitrificans	1
+bacteria-11279	mitsuokella multacida	1
+bacteria-9258	moraxella canis	1
+bacteria-4187	moritella	1
+bacteria-2861	motilibacter	1
+bacteria-2282	murdochiella	1
+bacteria-2012	musa	1
+bacteria-6821	mutant escherichia	1
+bacteria-8422	mutant salmonella	1
+bacteria-10183	mutant streptomyces	1
+bacteria-6170	mycobacterium paragordonae	1
+bacteria-12080	mycobacterium simiae	1
+bacteria-10795	mycoplana	1
+bacteria-10194	mycoplana ramosa	1
+bacteria-8736	mycoplasma gallisepticum	1
+bacteria-11991	mycoplasma haemocanis	1
+bacteria-6089	myxococcus fulvus	1
+bacteria-10920	neisseria bacilliformis	1
+bacteria-9183	neisseria cinerea	1
+bacteria-2057	neisseria lactamica	1
+bacteria-9244	neisseria sicca	1
+bacteria-3868	neisseriales	1
+bacteria-10702	neorickettsia	1
+bacteria-1102	nesterenkonia	1
+bacteria-12804	nitrobacter	1
+bacteria-6234	nocardia abscessus	1
+bacteria-9137	nocardia arthritidis	1
+bacteria-11570	nocardia asiatica	1
+bacteria-2660	nocardia concava	1
+bacteria-12249	nocardia otitidiscaviarum	1
+bacteria-5503	nocardiaceae	1
+bacteria-910	nocardioidaceae	1
+bacteria-9746	nonomuraea	1
+bacteria-9570	nostoc commune	1
+bacteria-2350	noviherbaspirillum	1
+bacteria-472	novosphingobium	1
+bacteria-8985	oceanobacillus picturae	1
+bacteria-12794	oceanobacillus profundus	1
+bacteria-4864	ochrobactrum intermedium	1
+bacteria-5909	ochrobactrum pituitosum	1
+bacteria-10181	oenococcus	1
+bacteria-7669	oenococcus oeni	1
+bacteria-8134	oligella ureolytica	1
+bacteria-4133	oligella urethralis	1
+bacteria-4087	olsenella scatoligenes	1
+bacteria-8641	oribacterium asaccharolyticum	1
+bacteria-2414	orientia	1
+bacteria-1058	orientia tsutsugamushi	1
+bacteria-11542	oscillatoria	1
+bacteria-6430	paenibacillaceae	1
+bacteria-3850	paenibacillus odorifer	1
+bacteria-3273	paeniclostridium	1
+bacteria-3376	paeniglutamicibacter	1
+bacteria-227	pannonibacter	1
+bacteria-4869	pannonibacter phragmitetus	1
+bacteria-1071	pantoea ananatis	1
+bacteria-5369	pantoea calida	1
+bacteria-5396	parabacteroides goldsteinii	1
+bacteria-5995	parabacteroides merdae	1
+bacteria-6406	paraburkholderia	1
+bacteria-7117	paraburkholderia fungorum	1
+bacteria-4810	paracoccus denitrificans	1
+bacteria-9951	paracoccus marcusii	1
+bacteria-5884	paracoccus yeei	1
+bacteria-4997	parcubacteria	1
+bacteria-10597	parthenium	1
+bacteria-8327	pasteurella dagmatis	1
+bacteria-12731	pelomonas	1
+bacteria-11824	peptococcaceae	1
+bacteria-10755	peptoniphilaceae	1
+bacteria-5404	phaeobacter	1
+bacteria-12759	phaseolus	1
+bacteria-5638	phaseolus vulgaris	1
+bacteria-3564	phormidium	1
+bacteria-2515	photobacterium leiognathi	1
+bacteria-10840	photobacterium profundum	1
+bacteria-4287	physalis	1
+bacteria-7169	pilimelia	1
+bacteria-4132	pirellula	1
+bacteria-11215	planctomyces	1
+bacteria-9174	planococcaceae	1
+bacteria-441	planococcus	1
+bacteria-2102	planococcus maritimus	1
+bacteria-3315	polaribacter	1
+bacteria-7925	polyangium	1
+bacteria-7997	polygonum	1
+bacteria-3157	pontibacter	1
+bacteria-8465	porphyrobacter	1
+bacteria-9336	porphyromonas pasteri	1
+bacteria-1471	porphyromonas uenonis	1
+bacteria-1457	prauserella	1
+bacteria-2787	prevotella buccalis	1
+bacteria-1201	prevotella denticola	1
+bacteria-5887	prevotella enoeca	1
+bacteria-8310	prevotella multisaccharivorax	1
+bacteria-2559	prevotella salivae	1
+bacteria-4403	prevotella veroralis	1
+bacteria-11705	propionibacterium acidifaciens	1
+bacteria-234	proteus penneri	1
+bacteria-4038	pseudarthrobacter	1
+bacteria-8613	pseudoalteromonas haloplanktis	1
+bacteria-10368	pseudoalteromonas piscicida	1
+bacteria-5356	pseudobacter	1
+bacteria-9170	pseudobacter ginsenosidimutans	1
+bacteria-2147	pseudobutyrivibrio	1
+bacteria-9010	pseudoflavitalea	1
+bacteria-110	pseudomonas boreopolis	1
+bacteria-251	pseudomonas brassicacearum	1
+bacteria-8363	pseudomonas entomophila	1
+bacteria-12571	pseudomonas granadensis	1
+bacteria-9851	pseudomonas luteola	1
+bacteria-4180	pseudomonas mendocina	1
+bacteria-5132	pseudomonas oryzihabitans	1
+bacteria-3156	pseudomonas otitidis	1
+bacteria-1990	pseudomonas panacis	1
+bacteria-4892	pseudomonas parafulva	1
+bacteria-1698	pseudomonas plecoglossicida	1
+bacteria-2457	pseudomonas resinovorans	1
+bacteria-9270	pseudomonas syringae	1
+bacteria-7317	pseudonocardia	1
+bacteria-3040	pseudovibrio	1
+bacteria-1905	psychrobacillus	1
+bacteria-5162	psychromonas	1
+bacteria-2621	quercus	1
+bacteria-393	ralstonia eutropha	1
+bacteria-3206	ralstonia mannitolilytica	1
+bacteria-6065	rheinheimera	1
+bacteria-6044	rhodobacter sphaeroides	1
+bacteria-10327	rhodopseudomonas	1
+bacteria-10420	rhodospirillum	1
+bacteria-9994	rhodospirillum rubrum	1
+bacteria-5352	rickettsia felis	1
+bacteria-8760	rickettsia helvetica	1
+bacteria-6076	rickettsia rickettsii	1
+bacteria-11242	robinsoniella	1
+bacteria-11888	robinsoniella peoriensis	1
+bacteria-8718	roseburia inulinivorans	1
+bacteria-8266	roseobacter	1
+bacteria-2163	rouxiella	1
+bacteria-2527	rouxiella badensis	1
+bacteria-518	rubrobacter	1
+bacteria-3102	ruegeria	1
+bacteria-7215	ruminococcaceae bacterium	1
+bacteria-1671	ruminococcus callidus	1
+bacteria-151	ruthenibacterium	1
+bacteria-5618	ruthenibacterium lactatiformans	1
+bacteria-2903	saccharothrix mutabilis	1
+bacteria-1720	salinibacter	1
+bacteria-7722	salinibacter ruber	1
+bacteria-11319	saprospiraceae	1
+bacteria-10260	schaalia	1
+bacteria-8759	schaalia meyeri	1
+bacteria-454	schlegelella	1
+bacteria-10019	sedimentibacter	1
+bacteria-3635	sedimentibacter saalensis	1
+bacteria-6629	sediminibacterium	1
+bacteria-9423	selenomonas artemidis	1
+bacteria-12131	selenomonas bovis	1
+bacteria-3264	selenomonas infelix	1
+bacteria-11517	selenomonas noxia	1
+bacteria-2759	serratia ficaria	1
+bacteria-7378	serratia odorifera	1
+bacteria-12682	serratia plymuthica	1
+bacteria-3627	serratia rubidaea	1
+bacteria-9819	setaria	1
+bacteria-8602	shuttleworthia satelles	1
+bacteria-7726	sinobacteraceae	1
+bacteria-4059	siphonobacter	1
+bacteria-3426	solibacillus	1
+bacteria-8739	sphaerochaeta	1
+bacteria-3806	sphaerotilus	1
+bacteria-9149	sphaerotilus natans	1
+bacteria-11127	sphingobacteriales	1
+bacteria-10683	sphingobacterium	1
+bacteria-12628	sphingobacterium spiritivorum	1
+bacteria-7721	sphingobium yanoikuyae	1
+bacteria-5015	sphingomonadales	1
+bacteria-9921	spirochaetaceae	1
+bacteria-9636	spirochaetia	1
+bacteria-297	sporolactobacillus	1
+bacteria-7635	sporomusa	1
+bacteria-1115	sporosarcina pasteurii	1
+bacteria-1976	sporosarcina ureae	1
+bacteria-1162	staphylococcus cohnii	1
+bacteria-9354	staphylococcus kloosii	1
+bacteria-6313	staphylococcus lentus	1
+bacteria-5150	staphylococcus pasteuri	1
+bacteria-5307	staphylococcus schleiferi	1
+bacteria-7537	staphylococcus xylosus	1
+bacteria-250	stenotrophomonas rhizophila	1
+bacteria-5394	streptacidiphilus	1
+bacteria-11739	streptobacillus moniliformis	1
+bacteria-1458	streptococcus acidominimus	1
+bacteria-5939	streptococcus alactolyticus	1
+bacteria-1804	streptococcus australis	1
+bacteria-11717	streptococcus chosunense	1
+bacteria-3113	streptococcus danieliae	1
+bacteria-12329	streptococcus pasteurianus	1
+bacteria-7984	streptococcus uberis	1
+bacteria-2303	streptomyces aegyptia	1
+bacteria-5796	streptomyces atrovirens	1
+bacteria-1669	streptomyces avermitilis	1
+bacteria-41	streptomyces californicus	1
+bacteria-734	streptomyces clavuligerus	1
+bacteria-4747	streptomyces coeruleorubidus	1
+bacteria-4004	streptomyces collinus	1
+bacteria-3094	streptomyces diastatochromogenes	1
+bacteria-11383	streptomyces globisporus	1
+bacteria-10518	streptomyces gramineus	1
+bacteria-6348	streptomyces griseofuscus	1
+bacteria-9880	streptomyces griseoincarnatus	1
+bacteria-9476	streptomyces hygroscopicus	1
+bacteria-1482	streptomyces libani	1
+bacteria-10252	streptomyces lividans	1
+bacteria-2357	streptomyces lomondensis	1
+bacteria-11185	streptomyces luteogriseus	1
+bacteria-2066	streptomyces malaysiensis	1
+bacteria-10039	streptomyces mobaraensis	1
+bacteria-5327	streptomyces monashensis	1
+bacteria-10803	streptomyces nitrosporeus	1
+bacteria-5743	streptomyces nodosus	1
+bacteria-12214	streptomyces nojiriensis	1
+bacteria-3930	streptomyces paulus	1
+bacteria-12472	streptomyces pulveraceus	1
+bacteria-1097	streptomyces samsunensis	1
+bacteria-508	streptomyces spectabilis	1
+bacteria-8396	streptomyces tanashiensis	1
+bacteria-4374	streptomyces violaceochromogenes	1
+bacteria-7290	streptomyces violascens	1
+bacteria-6238	streptomyces xinghaiensis	1
+bacteria-1423	streptomycetaceae	1
+bacteria-9325	streptosporangium violaceochromogenes	1
+bacteria-4045	succinatimonas	1
+bacteria-644	sulfuricurvum	1
+bacteria-2145	sulfurimonas	1
+bacteria-4971	sulfurospirillum	1
+bacteria-2239	sweet potato	1
+bacteria-1523	synechocystis	1
+bacteria-8563	tagetes	1
+bacteria-11478	tagetes erecta	1
+bacteria-4565	tateyamaria	1
+bacteria-3881	tepidimonas ignava	1
+bacteria-344	terribacillus	1
+bacteria-3568	tetragenococcus	1
+bacteria-5624	thauera	1
+bacteria-823	thermoanaerobacter	1
+bacteria-7150	thermophilic bacterium	1
+bacteria-10842	thermus thermophilus	1
+bacteria-2274	thiobacillus	1
+bacteria-1052	tissierella	1
+bacteria-428	tissierella praeacuta	1
+bacteria-5287	trichococcus	1
+bacteria-7893	trifolium	1
+bacteria-7841	trueperella	1
+bacteria-7015	tsukamurella pulmonis	1
+bacteria-5804	ulmus	1
+bacteria-4756	umezawaea	1
+bacteria-3287	vallitalea	1
+bacteria-5732	vallitalea guaymasensis	1
+bacteria-6332	variovorax paradoxus	1
+bacteria-1851	veillonella atypica	1
+bacteria-9996	verrucosispora	1
+bacteria-7742	vibrio metschnikovii	1
+bacteria-6340	vibrionaceae	1
+bacteria-8960	victivallis	1
+bacteria-5220	vitex negundo	1
+bacteria-10233	vitiosangium	1
+bacteria-8373	vitiosangium cumulatum	1
+bacteria-12809	vk	1
+bacteria-2212	vogesella	1
+bacteria-5113	wohlfahrtiimonas	1
+bacteria-1555	wohlfahrtiimonas chitiniclastica	1
+bacteria-1311	wolbachia endosymbiont	1
+bacteria-11727	xanthomonas albilineans	1
+bacteria-12167	xanthomonas retroflexus	1
+bacteria-9977	xenophilus	1
+bacteria-6656	xenorhabdus	1
+bacteria-12034	xylella	1
+bacteria-12546	xylella fastidiosa	1
+bacteria-9703	yersinia kristensenii	1
+bacteria-9343	zooshikella	1
